@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">इयत्ता सातवी स्कॉलरशिप टेस्ट | Success Digital</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <!-- Google Fonts (Mukta & Inter) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        body {
+            font-family: 'Mukta', 'Inter', sans-serif;
+            background: #f8fafc;
+            background-image: radial-gradient(#e2e8f0 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+
+        .fade-in { animation: fadeIn 0.3s ease-in; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+        .slide-up { animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1); }
+        @keyframes slideUp { 
+            from { transform: translateY(20px); opacity: 0; } 
+            to { transform: translateY(0); opacity: 1; } 
+        }
+
+        .option-label {
+            transition: all 0.2s ease;
+            transform: translateZ(0);
+        }
+        .option-label:hover:not(.disabled) {
+            transform: scale(1.01);
+            border-color: #0d9488;
+            background-color: #f0fdfa;
+        }
+        
+        .correct-answer-show { 
+            background: linear-gradient(to right, #dcfce7, #ecfdf5) !important; 
+            border-color: #22c55e !important; 
+            box-shadow: 0 4px 6px -1px rgba(34, 197, 94, 0.2);
+        }
+        .wrong-answer-show { 
+            background: linear-gradient(to right, #fee2e2, #fef2f2) !important; 
+            border-color: #ef4444 !important; 
+        }
+        
+        .disabled { pointer-events: none; }
+    </style>
+</head>
+<body class="text-gray-800 antialiased min-h-screen flex flex-col selection:bg-teal-200 selection:text-teal-900">
+
+    <!-- Header -->
+    <header id="header-bar" class="bg-gradient-to-r from-teal-800 via-cyan-700 to-indigo-800 text-white shadow-lg sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center gap-2">
+                <a href="index.html" class="bg-white p-1.5 rounded-lg shadow-sm hover:scale-105 transition">
+                    <i id="header-icon" class="fas fa-graduation-cap text-2xl text-teal-700"></i>
+                </a>
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="text-lg md:text-xl font-bold tracking-wide leading-tight">सातवी स्कॉलरशिप टेस्ट</h1>
+                        <span id="badge-category" class="bg-black/30 text-white text-[10px] font-black px-2 py-0.5 rounded uppercase">MSCE उच्च प्राथमिक</span>
+                    </div>
+                    <p id="header-subtext" class="text-[10px] md:text-xs text-teal-100 font-medium">महाराष्ट्र राज्य परीक्षा परिषद, पुणे (MSCE)</p>
+                </div>
+            </div>
+            
+            <div class="flex items-center gap-3">
+                <div id="timer-display" class="hidden bg-black/25 backdrop-blur-sm px-3 md:px-4 py-1.5 rounded-full font-bold flex items-center gap-2 border border-white/10">
+                    <i class="far fa-clock text-yellow-300 animate-pulse"></i> <span id="time" class="tracking-wider">20:00</span>
+                </div>
+                <a href="index.html" class="bg-white/15 hover:bg-white/25 text-white text-xs font-bold px-3 py-1.5 rounded-full border border-white/20 transition flex items-center gap-1.5">
+                    <i class="fas fa-th-list"></i> सर्व टेस्ट
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="flex-grow container mx-auto px-4 py-6 max-w-3xl flex flex-col justify-center">
+
+        <!-- Welcome Card -->
+        <div id="welcome-screen" class="bg-white rounded-3xl p-6 md:p-8 shadow-xl border border-gray-100 text-center slide-up">
+            <div class="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-gradient-to-tr from-teal-500 to-indigo-600 text-white mb-5 shadow-lg shadow-teal-500/30">
+                <i class="fas fa-award text-4xl"></i>
+            </div>
+            
+            <span id="welcome-badge" class="px-3 py-1 rounded-full text-xs font-bold bg-teal-100 text-teal-800 uppercase tracking-wider inline-block mb-2">इयत्ता सातवी शिष्यवृत्ती</span>
+            <h2 id="welcome-title" class="text-2xl md:text-3xl font-extrabold text-gray-900 mb-2 leading-snug">सराव चाचणी</h2>
+            <p id="welcome-desc" class="text-gray-600 text-sm md:text-base max-w-lg mx-auto mb-6">अधिकृत MSCE अभ्यासक्रमावर आधारित उच्च प्राथमिक गुणवत्तापूर्ण प्रश्नसंच.</p>
+            
+            <!-- Info Badges -->
+            <div class="grid grid-cols-3 gap-3 max-w-md mx-auto mb-8">
+                <div class="bg-slate-50 p-3 rounded-2xl border border-slate-200/80">
+                    <i class="fas fa-list-ol text-teal-600 mb-1"></i>
+                    <p class="text-xs text-gray-500 font-bold">एकूण प्रश्न</p>
+                    <p class="text-lg font-black text-slate-800" id="total-q-badge">20</p>
+                </div>
+                <div class="bg-slate-50 p-3 rounded-2xl border border-slate-200/80">
+                    <i class="fas fa-award text-amber-500 mb-1"></i>
+                    <p class="text-xs text-gray-500 font-bold">एकूण गुण</p>
+                    <p class="text-lg font-black text-slate-800">40</p>
+                </div>
+                <div class="bg-slate-50 p-3 rounded-2xl border border-slate-200/80">
+                    <i class="far fa-clock text-rose-500 mb-1"></i>
+                    <p class="text-xs text-gray-500 font-bold">वेळ मर्यादा</p>
+                    <p class="text-lg font-black text-slate-800">20 मिनिटे</p>
+                </div>
+            </div>
+
+            <button onclick="startQuiz()" id="start-btn" class="w-full sm:w-auto bg-gradient-to-r from-teal-600 via-cyan-600 to-indigo-700 hover:from-teal-700 hover:to-indigo-800 text-white font-extrabold text-lg py-4 px-10 rounded-2xl shadow-xl transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3">
+                <span>चाचणी सुरू करा</span> <i class="fas fa-arrow-right"></i>
+            </button>
+        </div>
+
+        <!-- Quiz Container -->
+        <div id="quiz-container" class="hidden fade-in space-y-6">
+            <div class="flex items-center justify-between bg-white px-5 py-3 rounded-2xl shadow-sm border border-gray-100">
+                <div class="flex items-center gap-2">
+                    <span id="subject-tag" class="bg-teal-100 text-teal-800 text-xs font-bold px-3 py-1 rounded-full uppercase">विषय</span>
+                    <span id="type-tag" class="bg-amber-100 text-amber-800 text-xs font-bold px-3 py-1 rounded-full"><i class="fas fa-star text-[10px]"></i> PYQ</span>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span id="question-counter" class="text-xs md:text-sm font-bold text-gray-700">प्रश्न 1 / 20</span>
+                </div>
+            </div>
+
+            <div class="w-full bg-gray-200 h-2 rounded-full overflow-hidden shadow-inner">
+                <div id="progress-bar" class="bg-gradient-to-r from-teal-600 to-cyan-600 h-full w-0 transition-all duration-300"></div>
+            </div>
+
+            <!-- Question Card -->
+            <div id="question-card" class="bg-white rounded-3xl p-6 md:p-8 shadow-xl border border-gray-100 relative slide-up">
+                <div id="diagram-container" class="mb-4"></div>
+                <h3 id="question-text" class="text-lg md:text-xl font-extrabold text-gray-900 mb-6 leading-relaxed whitespace-pre-line">
+                    प्रश्न लोड होत आहे...
+                </h3>
+
+                <div id="options-container" class="space-y-3 mb-6"></div>
+
+                <div id="explanation-box" class="hidden mt-6 p-5 rounded-2xl bg-amber-50 border border-amber-200 fade-in text-left">
+                    <div class="flex items-start gap-3">
+                        <i class="fas fa-lightbulb text-amber-500 text-xl mt-0.5"></i>
+                        <div>
+                            <h4 class="font-bold text-amber-900 text-sm mb-1">सविस्तर स्पष्टीकरण:</h4>
+                            <p id="explanation-text" class="text-sm text-amber-950 font-medium leading-relaxed"></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex justify-between items-center mt-6 pt-4 border-t border-gray-100">
+                    <button id="prev-btn" onclick="prevQuestion()" class="text-gray-500 hover:text-teal-600 font-bold text-sm px-4 py-2 rounded-xl transition flex items-center gap-1">
+                        <i class="fas fa-arrow-left"></i> मागे
+                    </button>
+                    <button id="next-btn" onclick="nextQuestion()" disabled class="bg-teal-600 hover:bg-teal-700 text-white font-bold text-sm md:text-base px-6 py-3 rounded-xl shadow-md transition disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2">
+                        <span>पुढील</span> <i class="fas fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Result Screen -->
+        <div id="result-screen" class="hidden bg-white rounded-3xl p-6 md:p-8 shadow-2xl border border-gray-100 text-center slide-up">
+            <div class="inline-flex items-center justify-center w-20 h-20 rounded-full bg-emerald-100 text-emerald-600 mb-4 shadow-inner">
+                <i class="fas fa-trophy text-4xl"></i>
+            </div>
+            <h2 class="text-2xl md:text-3xl font-black text-gray-900 mb-1">अभिनंदन! चाचणी पूर्ण झाली</h2>
+            <p class="text-gray-500 text-sm mb-6">तुमचा निकाल खालीलप्रमाणे आहे:</p>
+
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-3 max-w-xl mx-auto mb-6">
+                <div class="bg-teal-50 p-4 rounded-2xl border border-teal-200">
+                    <p class="text-xs font-bold text-teal-800">मिळालेले गुण</p>
+                    <p class="text-3xl font-black text-teal-600 mt-1"><span id="final-score">0</span><span class="text-sm font-normal text-teal-400">/40</span></p>
+                </div>
+                <div class="bg-emerald-50 p-4 rounded-2xl border border-emerald-200">
+                    <p class="text-xs font-bold text-emerald-800">अचूकता (Accuracy)</p>
+                    <p class="text-3xl font-black text-emerald-600 mt-1"><span id="final-accuracy">0</span>%</p>
+                </div>
+                <div class="bg-amber-50 p-4 rounded-2xl border border-amber-200">
+                    <p class="text-xs font-bold text-amber-800">लागलेला वेळ</p>
+                    <p class="text-3xl font-black text-amber-600 mt-1"><span id="final-time">0</span>m</p>
+                </div>
+                <div class="bg-purple-50 p-4 rounded-2xl border border-purple-200">
+                    <p class="text-xs font-bold text-purple-800">अंदाजित रँक</p>
+                    <p class="text-3xl font-black text-purple-600 mt-1">#<span id="final-rank">१</span></p>
+                </div>
+            </div>
+
+            <div class="flex justify-center gap-3 flex-wrap">
+                <button onclick="location.reload()" class="bg-gray-100 hover:bg-gray-200 text-gray-700 font-bold px-5 py-2.5 rounded-xl transition flex items-center gap-2">
+                    <i class="fas fa-redo"></i> पुन्हा सोडवा
+                </button>
+                <a href="index.html" class="bg-teal-600 hover:bg-teal-700 text-white font-bold px-5 py-2.5 rounded-xl shadow-md transition flex items-center gap-2">
+                    <i class="fas fa-list"></i> सर्व टेस्ट यादी
+                </a>
+                <button onclick="shareScore()" class="bg-green-600 hover:bg-green-700 text-white font-bold px-5 py-2.5 rounded-xl shadow-md transition flex items-center gap-2">
+                    <i class="fab fa-whatsapp"></i> मित्र-मैत्रिणींना शेअर करा
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+    <footer class="bg-gray-900 text-gray-400 py-6 text-center text-sm mt-auto border-t border-gray-800">
+        <div class="container mx-auto px-4">
+            <h4 class="text-white font-bold text-base mb-1">SUCCESS DIGITAL — शिष्यवृत्ती परीक्षा पोर्टल</h4>
+            <p class="text-xs text-gray-500">इयत्ता सातवी अधिकृत MSCE सराव चाचण्या</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="data/class7_paper1.js"></script>
+    <script src="data/class7_paper2.js"></script>
+    <script src="data/scholarship_class7_bank.js"></script>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        let paperParam = urlParams.get('paper') || 'paper1';
+        if (paperParam === '1') paperParam = 'paper1';
+        if (paperParam === '2') paperParam = 'paper2';
+
+        const testNum = parseInt(urlParams.get('test') || '1', 10);
+
+        let quizData = [];
+        let currentQuestionIndex = 0;
+        let userAnswers = [];
+        let timeLeft = 20 * 60;
+        let timerInterval = null;
+        let testTitle = "";
+
+        const welcomeScreen = document.getElementById('welcome-screen');
+        const quizContainer = document.getElementById('quiz-container');
+        const resultScreen = document.getElementById('result-screen');
+        const timerDisplay = document.getElementById('timer-display');
+        const timeSpan = document.getElementById('time');
+        const nextBtn = document.getElementById('next-btn');
+        const prevBtn = document.getElementById('prev-btn');
+
+        window.onload = function() {
+            const paperMeta = window.scholarshipClass7Meta ? window.scholarshipClass7Meta.papers[paperParam] : null;
+            if (paperMeta && paperMeta.testNames[testNum]) {
+                testTitle = paperMeta.testNames[testNum];
+            } else {
+                testTitle = `चाचणी क्र. ${testNum}`;
+            }
+
+            document.getElementById('page-title').textContent = `${testTitle} | सातवी स्कॉलरशिप`;
+            document.getElementById('welcome-title').textContent = testTitle;
+            document.getElementById('welcome-badge').textContent = paperParam === 'paper1' ? 'पेपर १ (मराठी + गणित)' : 'पेपर २ (इंग्रजी + बुद्धिमत्ता)';
+
+            if (window.getTestQuestionsClass7) {
+                quizData = window.getTestQuestionsClass7(paperParam, testNum);
+            }
+            if (!quizData || quizData.length === 0) {
+                alert('चाचणीचा प्रश्नसंच उपलब्ध नाही किंवा लोड होत आहे.');
+            }
+            userAnswers = new Array(quizData.length).fill(null);
+            document.getElementById('total-q-badge').textContent = quizData.length;
+        };
+
+        function startQuiz() {
+            welcomeScreen.classList.add('hidden');
+            quizContainer.classList.remove('hidden');
+            timerDisplay.classList.remove('hidden');
+            loadQuestion();
+            startTimer();
+        }
+
+        function startTimer() {
+            timerInterval = setInterval(() => {
+                timeLeft--;
+                const mins = Math.floor(timeLeft / 60);
+                const secs = timeLeft % 60;
+                timeSpan.textContent = `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+                if (timeLeft <= 0) {
+                    clearInterval(timerInterval);
+                    finishQuiz();
+                }
+            }, 1000);
+        }
+
+        function loadQuestion() {
+            const q = quizData[currentQuestionIndex];
+            document.getElementById('question-counter').textContent = `प्रश्न ${currentQuestionIndex + 1} / ${quizData.length}`;
+            const pct = ((currentQuestionIndex) / quizData.length) * 100;
+            document.getElementById('progress-bar').style.width = `${pct}%`;
+
+            document.getElementById('subject-tag').textContent = q.subject || 'सामान्य';
+            document.getElementById('type-tag').innerHTML = `<i class="fas fa-star text-[10px]"></i> ${q.tagText || 'MSCE'}`;
+
+            const diagContainer = document.getElementById('diagram-container');
+            diagContainer.innerHTML = '';
+            let rawQ = q.question;
+
+            if (rawQ.includes('<div') || rawQ.includes('<svg')) {
+                const match = rawQ.match(/(<div[\s\S]*?<\/div>)/);
+                if (match) {
+                    diagContainer.innerHTML = match[1];
+                    rawQ = rawQ.replace(match[1], '').trim();
+                }
+            }
+            document.getElementById('question-text').textContent = `${currentQuestionIndex + 1}. ${rawQ}`;
+
+            const optContainer = document.getElementById('options-container');
+            optContainer.innerHTML = '';
+            const isAnswered = userAnswers[currentQuestionIndex] !== null;
+
+            q.options.forEach((opt, idx) => {
+                const label = document.createElement('label');
+                label.className = `relative flex items-center p-4 rounded-2xl border-2 cursor-pointer option-label group ${isAnswered ? 'disabled' : 'border-gray-200 bg-white'}`;
+                label.innerHTML = `
+                    <div class="dot-container w-6 h-6 rounded-full border-2 border-gray-300 flex items-center justify-center mr-4 bg-white shrink-0"></div>
+                    <span class="text-gray-800 font-bold text-base md:text-lg select-none">${opt}</span>
+                `;
+                if (!isAnswered) {
+                    label.addEventListener('click', () => selectOption(idx));
+                }
+                optContainer.appendChild(label);
+            });
+
+            prevBtn.classList.toggle('hidden', currentQuestionIndex === 0);
+
+            if (isAnswered) {
+                showFeedback();
+            } else {
+                document.getElementById('explanation-box').classList.add('hidden');
+                nextBtn.disabled = true;
+                nextBtn.innerHTML = currentQuestionIndex === quizData.length - 1 ? `पूर्ण करा <i class="fas fa-check ml-1"></i>` : `पुढील <i class="fas fa-arrow-right ml-1"></i>`;
+            }
+        }
+
+        function selectOption(idx) {
+            if (userAnswers[currentQuestionIndex] !== null) return;
+            userAnswers[currentQuestionIndex] = idx;
+            nextBtn.disabled = false;
+            showFeedback();
+        }
+
+        function showFeedback() {
+            const labels = document.querySelectorAll('.option-label');
+            const q = quizData[currentQuestionIndex];
+            const sel = userAnswers[currentQuestionIndex];
+            const cor = q.answer;
+
+            labels.forEach((l, i) => {
+                l.classList.add('disabled');
+                const dot = l.querySelector('.dot-container');
+                if (i === cor) {
+                    l.classList.add('correct-answer-show');
+                    l.classList.remove('border-gray-200');
+                    dot.classList.add('border-green-500', 'bg-green-500');
+                } else if (i === sel && sel !== cor) {
+                    l.classList.add('wrong-answer-show');
+                    l.classList.remove('border-gray-200');
+                    dot.classList.add('border-red-500', 'bg-red-500');
+                }
+            });
+
+            const expBox = document.getElementById('explanation-box');
+            document.getElementById('explanation-text').textContent = q.explanation || 'उत्तर योग्यरीत्या नोंदवले आहे.';
+            expBox.classList.remove('hidden');
+
+            nextBtn.disabled = false;
+            nextBtn.innerHTML = currentQuestionIndex === quizData.length - 1 ? `पूर्ण करा <i class="fas fa-check ml-1"></i>` : `पुढील <i class="fas fa-arrow-right ml-1"></i>`;
+        }
+
+        function nextQuestion() {
+            if (currentQuestionIndex < quizData.length - 1) {
+                currentQuestionIndex++;
+                loadQuestion();
+            } else {
+                finishQuiz();
+            }
+        }
+
+        function prevQuestion() {
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                loadQuestion();
+            }
+        }
+
+        function finishQuiz() {
+            clearInterval(timerInterval);
+            quizContainer.classList.add('hidden');
+            timerDisplay.classList.add('hidden');
+            resultScreen.classList.remove('hidden');
+
+            let correctCount = 0;
+            quizData.forEach((q, i) => {
+                if (userAnswers[i] === q.answer) correctCount++;
+            });
+
+            const totalScore = correctCount * 2;
+            const accuracy = Math.round((correctCount / quizData.length) * 100);
+            const timeTakenMins = Math.ceil((1200 - timeLeft) / 60);
+
+            document.getElementById('final-score').textContent = totalScore;
+            document.getElementById('final-accuracy').textContent = accuracy;
+            document.getElementById('final-time').textContent = timeTakenMins;
+            document.getElementById('final-rank').textContent = accuracy >= 80 ? Math.floor(Math.random() * 5) + 1 : Math.floor(Math.random() * 20) + 10;
+        }
+
+        function shareScore() {
+            let correct = 0;
+            quizData.forEach((q, i) => { if(userAnswers[i] === q.answer) correct++; });
+            const score = correct * 2;
+            const text = `🎯 *इयत्ता सातवी स्कॉलरशिप टेस्ट निकाल!* 🎯\n📝 *${testTitle}*\n✅ माझे गुण: ${score}/40 (${Math.round((correct/quizData.length)*100)}% Accuracy)\n\nतुम्हीही ही सराव टेस्ट मोफत सोडवा आणि रँक तपासा:\n🔗 ${window.location.href}`;
+            window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, '_blank');
+        }
+    </script>
+</body>
+</html>
