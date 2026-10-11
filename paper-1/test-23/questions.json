@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C7-P1-23",
+  "classLevel": 7,
+  "paper": 1,
+  "testNumber": 23,
+  "testName": "गणित — भूमिती २: समांतर रेषा व छेदिका (संगत, व्युत्क्रम, आंतरकोन - आकृत्यांसह)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती २: समांतर रेषा व छेदिका",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"180\" height=\"130\" viewBox=\"0 0 180 130\">\n            <!-- Line l -->\n            <line x1=\"20\" y1=\"35\" x2=\"160\" y2=\"35\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"38\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">l</text>\n            <!-- Line m -->\n            <line x1=\"20\" y1=\"95\" x2=\"160\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <text x=\"165\" y=\"98\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">m</text>\n            <!-- Transversal n -->\n            <line x1=\"50\" y1=\"10\" x2=\"130\" y2=\"120\" stroke=\"#dc2626\" stroke-width=\"2.5\"/>\n            <text x=\"135\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">n</text>\n            <!-- Angle markers -->\n            <text x=\"75\" y=\"30\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠१ (70°)</text>\n            <text x=\"110\" y=\"90\" font-size=\"11\" font-weight=\"bold\" fill=\"#dc2626\">∠२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">रेषा l || रेषा m असून रेषा n ही त्यांची छेदिका आहे</span>\n    </div>\nरेषा l || रेषा m असून छेदिकेमुळे तयार झालेला कोन ∠१ = ७०° असल्यास त्याचा संगतकोन ∠२ किती अंशाचा असेल?",
+      "options": [
+        "७०°",
+        "११०°",
+        "९०°",
+        "१८०°"
+      ],
+      "answer": 0,
+      "explanation": "दोन समांतर रेषांना एका छेदिकेने छेदले असता तयार होणारे संगतकोन एकरूप असतात, म्हणून ∠२ = ७०°."
+    }
+  ]
+}
