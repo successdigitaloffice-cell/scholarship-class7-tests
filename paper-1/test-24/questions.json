@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C7-P1-24",
+  "classLevel": 7,
+  "paper": 1,
+  "testNumber": 24,
+  "testName": "गणित — भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत (आकृत्यांसह)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 1)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 2)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 3)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 4)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 5)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 6)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 7)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 8)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 9)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 10)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 11)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 12)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 13)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 14)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 15)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 16)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 17)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 18)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 19)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती ३: त्रिकोण, चौकोनाचे प्रकार व पायथागोरस सिद्धांत",
+      "question": "काटकोन त्रिकोणात पाया = १२ सेमी व उंची = ५ सेमी असल्यास कर्णाची लांबी किती सेमी असेल? (प्रश्न क्र. 20)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"160\" height=\"120\" viewBox=\"0 0 160 120\">\n            <!-- Right triangle -->\n            <polygon points=\"30,20 30,100 130,100\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\"/>\n            <rect x=\"30\" y=\"85\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <text x=\"15\" y=\"60\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"75\" y=\"115\" font-size=\"11\" font-weight=\"bold\" fill=\"#065f46\">पाया = 12 सेमी</text>\n            <text x=\"85\" y=\"55\" font-size=\"11\" font-weight=\"bold\" fill=\"#b91c1c\">कर्ण = 13 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">काटकोन त्रिकोण: कर्ण² = पाया² + उंची²</span>\n    </div>",
+      "options": [
+        "१० सेमी",
+        "१३ सेमी",
+        "१५ सेमी",
+        "१७ सेमी"
+      ],
+      "answer": 1,
+      "explanation": "पायथागोरस सिद्धांतानुसार: कर्ण² = पाया² + उंची² = १२² + ५² = १४४ + २५ = १६९ -> कर्ण = √१६९ = १३ सेमी."
+    }
+  ]
+}
