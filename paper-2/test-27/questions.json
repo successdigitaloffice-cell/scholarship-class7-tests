@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C7-P2-27",
+  "classLevel": 7,
+  "paper": 2,
+  "testNumber": 27,
+  "testName": "बुद्धिमत्ता — जलप्रतिमा (Water Reflection Advanced)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 1):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 2):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 3):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 5):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 6):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 7):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 9):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 10):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 11):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 13):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 14):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 15):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 17):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 18):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 19):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "जलप्रतिमा",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "WATER",
+        "उलटा वर-खाली झालेला आकार",
+        "आरशातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+    }
+  ]
+}
