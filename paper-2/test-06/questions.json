@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C7-P2-06",
+  "classLevel": 7,
+  "paper": 2,
+  "testNumber": 6,
+  "testName": "English — Degrees of Comparison & Voices (Active/Passive)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.1)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.2)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.3)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.4)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.5)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.6)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.7)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.8)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.9)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.10)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.11)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.12)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.13)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.14)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.15)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.16)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.17)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.18)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.19)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Degrees of Comparison & Voices",
+      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.20)",
+      "options": [
+        "Positive Degree",
+        "Comparative Degree",
+        "Superlative Degree",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+    }
+  ]
+}
