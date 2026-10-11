@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C7-P2-26",
+  "classLevel": 7,
+  "paper": 2,
+  "testNumber": 26,
+  "testName": "बुद्धिमत्ता — आरशातील प्रतिमा (Mirror Image Advanced)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 1):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 2):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 3):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 5):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 6):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 7):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 9):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 10):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 11):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 13):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 14):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 15):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 17):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 18):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 19):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "MSCE",
+        "उलट बाजूने सुरू होणारे अक्षर रूप",
+        "पाण्यातील प्रतिबिंब",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+    }
+  ]
+}
