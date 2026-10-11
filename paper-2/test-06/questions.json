@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C7-P2-06",
-  "classLevel": 7,
-  "paper": 2,
-  "testNumber": 6,
-  "testName": "English — Degrees of Comparison & Voices (Active/Passive)",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.1)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.2)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.3)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.4)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.5)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.6)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.7)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.8)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.9)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.10)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.11)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.12)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.13)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.14)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.15)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.16)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.17)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.18)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.19)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.20)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    }
-  ]
-}
+[
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2018",
+    "tagText": "Degrees & Voice सोपे",
+    "question": "In topic 'Degrees of Comparison & Voices (Active/Passive)': What is the antonym of 'Courage'?",
+    "options": [
+      "Cowardice",
+      "Bravery",
+      "Heroism",
+      "Strength"
+    ],
+    "answer": 0,
+    "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Degrees & Voice सोपे",
+    "question": "Which prefix can be added to 'HONEST' to make its opposite?",
+    "options": [
+      "Dis- (Dishonest)",
+      "Un-",
+      "In-",
+      "Mis-"
+    ],
+    "answer": 0,
+    "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Degrees & Voice सोपे",
+    "question": "A person who treats patients is called a ____.",
+    "options": [
+      "Doctor",
+      "Teacher",
+      "Engineer",
+      "Lawyer"
+    ],
+    "answer": 0,
+    "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2018",
+    "tagText": "Degrees & Voice सोपे",
+    "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
+    "options": [
+      "Honesty",
+      "Is",
+      "Best",
+      "The"
+    ],
+    "answer": 0,
+    "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Degrees & Voice सोपे",
+    "question": "Which article is used before 'Unique'?",
+    "options": [
+      "A (A unique)",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": 0,
+    "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Degrees & Voice सोपे",
+    "question": "What is the comparative degree of 'Good'?",
+    "options": [
+      "Better",
+      "Best",
+      "Gooder",
+      "More good"
+    ],
+    "answer": 0,
+    "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2018",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "Choose the correct Passive voice of: 'She writes a letter.'",
+    "options": [
+      "A letter is written by her.",
+      "A letter was written by her.",
+      "A letter is being written by her.",
+      "She is writing a letter."
+    ],
+    "answer": 0,
+    "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "Add the correct question tag: 'You are coming with us, ____?'",
+    "options": [
+      "Aren't you?",
+      "Are you?",
+      "Don't you?",
+      "Won't you?"
+    ],
+    "answer": 0,
+    "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "The train arrived ____ 6 o'clock in the evening.",
+    "options": [
+      "At",
+      "In",
+      "On",
+      "By"
+    ],
+    "answer": 0,
+    "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2018",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "Neither of the boys ____ present yesterday.",
+    "options": [
+      "Was",
+      "Were",
+      "Are",
+      "Have been"
+    ],
+    "answer": 0,
+    "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
+    "options": [
+      "To regret uselessly for past loss",
+      "To drop milk on floor",
+      "To weep loudly",
+      "To drink warm milk"
+    ],
+    "answer": 0,
+    "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "Identify the type of sentence: 'Please shut the window.'",
+    "options": [
+      "Imperative sentence (आज्ञार्थी)",
+      "Declarative sentence",
+      "Interrogative sentence",
+      "Exclamatory sentence"
+    ],
+    "answer": 0,
+    "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2018",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "Select the correctly spelt word:",
+    "options": [
+      "Accommodation",
+      "Accomodation",
+      "Acommodation",
+      "Acomodation"
+    ],
+    "answer": 0,
+    "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "What is a 'Centenarian'?",
+    "options": [
+      "A person who has reached the age of 100",
+      "A person who plays cricket",
+      "A person who loves books",
+      "A century maker"
+    ],
+    "answer": 0,
+    "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
+    "options": [
+      "He said that he was very busy then.",
+      "He said that I was very busy now.",
+      "He said that he is very busy then.",
+      "He told that he had been busy."
+    ],
+    "answer": 0,
+    "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2018",
+    "tagText": "Degrees & Voice मध्यम",
+    "question": "Complete the proverb: 'A stitch in time saves ____.'",
+    "options": [
+      "Nine",
+      "Ten",
+      "Five",
+      "Time"
+    ],
+    "answer": 0,
+    "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "Degrees & Voice कठीण",
+    "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+    "options": [
+      "Personification (चेतनगुणोक्ती)",
+      "Simile (उपमा)",
+      "Metaphor (रूपक)",
+      "Alliteration (अनुप्रास)"
+    ],
+    "answer": 0,
+    "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2018",
+    "tagText": "Degrees & Voice कठीण",
+    "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
+    "options": [
+      "Mount Everest is the highest peak in the world.",
+      "Mount Everest is as high as any peak.",
+      "No other peak is the highest.",
+      "Mount Everest is very high peak."
+    ],
+    "answer": 0,
+    "explanation": "Superlative: 'the highest peak in the world'.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "Degrees & Voice कठीण",
+    "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+    "options": [
+      "Slow and steady wins the race.",
+      "Slow and steady win the race.",
+      "Slow and steady are winning the race.",
+      "Slow and steady have won the race."
+    ],
+    "answer": 0,
+    "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2018",
+    "tagText": "Degrees & Voice कठीण",
+    "question": "What is the one word for: 'One who looks at the bright side of things'?",
+    "options": [
+      "Optimist (आशावादी)",
+      "Pessimist (निराशावादी)",
+      "Altruist",
+      "Egoist"
+    ],
+    "answer": 0,
+    "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
