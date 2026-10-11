@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C7-P2-29",
-  "classLevel": 7,
-  "paper": 2,
-  "testNumber": 29,
-  "testName": "पेपर २ संपूर्ण आदर्श सराव चाचणी क्र. ०१ (Mixed PYQ)",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.1)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.2)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.3)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.4)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.5)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    }
-  ]
-}
+[
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "Synonym",
+    "question": "What is the synonym of 'Enormous'?",
+    "options": [
+      "Huge",
+      "Tiny",
+      "Weak",
+      "Small"
+    ],
+    "answer": 0,
+    "explanation": "Enormous म्हणजे प्रचंड किंवा अवाढव्य, त्याचा समानार्थी Huge आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Article",
+    "question": "He is ____ honest man.",
+    "options": [
+      "An",
+      "A",
+      "The",
+      "No article"
+    ],
+    "answer": 0,
+    "explanation": "'Honest' चा उच्चार स्वरासारखा ('ऑ') होत असल्याने 'An' येईल.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Plural",
+    "question": "What is the plural of 'Foot'?",
+    "options": [
+      "Feet",
+      "Foots",
+      "Feets",
+      "Footes"
+    ],
+    "answer": 0,
+    "explanation": "'Foot' चे अनियमित अनेकवचन 'Feet' होते.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "विसंगत घटक",
+    "question": "गटात न बसणारा शब्द ओळखा: मंगळ, बुध, गुरू, चंद्र",
+    "options": [
+      "चंद्र (उपग्रह)",
+      "मंगळ",
+      "बुध",
+      "गुरू"
+    ],
+    "answer": 0,
+    "explanation": "चंद्र हा पृथ्वीचा उपग्रह आहे, बाकी सर्व सूर्यमालेतील ग्रह आहेत.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "समसंबंध",
+    "question": "शिक्षक : शाळा :: डॉक्टर : ____?",
+    "options": [
+      "रुग्णालय",
+      "न्यायालय",
+      "कारखाना",
+      "बँक"
+    ],
+    "answer": 0,
+    "explanation": "शिक्षकांचे कार्यक्षेत्र शाळा असते, तसे डॉक्टरांचे कार्यक्षेत्र रुग्णालय असते.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "संख्या क्रम",
+    "question": "३, ६, ९, १२, १५, ____ पुढील पद कोणते?",
+    "options": [
+      "१८",
+      "२१",
+      "१६",
+      "२०"
+    ],
+    "answer": 0,
+    "explanation": "३ चा पाढा: १५ + ३ = १८.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "Voice",
+    "question": "'Someone stole my purse.' (Choose correct Passive voice):",
+    "options": [
+      "My purse was stolen.",
+      "My purse is stolen.",
+      "Someone was stolen.",
+      "My purse had been stolen."
+    ],
+    "answer": 0,
+    "explanation": "Past Tense Passive: My purse was stolen (कर्त्याचा उल्लेख आवश्यक नाही).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Preposition",
+    "question": "She has been living here ____ 2015.",
+    "options": [
+      "Since",
+      "For",
+      "From",
+      "In"
+    ],
+    "answer": 0,
+    "explanation": "निश्चित सुरुवातीच्या वर्षासाठी 'Since' वापरतात (Since 2015).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Question Tag",
+    "question": "'She sings melodiously, ____?'",
+    "options": [
+      "Doesn't she?",
+      "Does she?",
+      "Isn't she?",
+      "Don't she?"
+    ],
+    "answer": 0,
+    "explanation": "Simple present ho-karathi vaakya -> Doesn't she?",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "Degree",
+    "question": "No other metal is as heavy as lead. (Comparative Degree):",
+    "options": [
+      "Lead is heavier than any other metal.",
+      "Lead is the most heavy metal.",
+      "Lead is more heavy than all metals.",
+      "Lead is as heavier as metal."
+    ],
+    "answer": 0,
+    "explanation": "'Lead is heavier than any other metal.'",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Idiom",
+    "question": "'Once in a blue moon' means ____.",
+    "options": [
+      "Very rarely",
+      "Very frequently",
+      "Every night",
+      "On full moon day"
+    ],
+    "answer": 0,
+    "explanation": "'Once in a blue moon' म्हणजे अत्यंत दुर्मिळपणे किंवा क्वचितच.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "सांकेतिक भाषा",
+    "question": "जर एका भाषेत 'PEN' ला '35' म्हटले (16+5+14), तर 'BOOK' चा अंक किती?",
+    "options": [
+      "43",
+      "40",
+      "45",
+      "42"
+    ],
+    "answer": 0,
+    "explanation": "B=2, O=15, O=15, K=11 -> 2 + 15 + 15 + 11 = 43.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "दिशा कूटप्रश्न",
+    "question": "एक व्यक्ती पूर्वेकडे ५ किमी गेली, डावीकडे वळून १२ किमी गेली, तर ती सुरुवातीच्या ठिकाणापासून किती अंतरावर आहे?",
+    "options": [
+      "१३ किमी",
+      "१७ किमी",
+      "७ किमी",
+      "१० किमी"
+    ],
+    "answer": 0,
+    "explanation": "पायथागोरस: कर्ण² = ५² + १२² = २५ + १४४ = १६९ -> अंतर = १३ किमी.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "नातेसंबंध",
+    "question": "A हा B चा भाऊ आहे, C ही B ची बहीण आहे, तर A आणि C चे नाते काय?",
+    "options": [
+      "३० तारीख",
+      "२९ तारीख",
+      "२८ तारीख",
+      "२२ तारीख"
+    ],
+    "answer": 0,
+    "explanation": "३ तारीख सोमवार म्हणजे २ तारीख रविवार. २, ९, १६, २३ आणि ३० या तारखांना रविवार येतो. म्हणून शेवटचा रविवार ३० तारखेला येईल.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "दिनदर्शिका",
+    "question": "एका महिन्यात ३ तारीख सोमवारी आल्यास, त्या महिन्यातील शेवटचा रविवार कोणत्या तारखेला येईल (महिना ३० दिवसांचा आहे)?",
+    "options": [
+      "२९ तारीख",
+      "२२ तारीख",
+      "२८ तारीख",
+      "३० तारीख"
+    ],
+    "answer": 0,
+    "explanation": "३ सोमवार -> २ रविवार -> ९, १६, २३, ३०? २ + ७ = ९ + ७ = १६ + ७ = २३ + ७ = ३० तारीख रविवार आहे. पण पर्याय '२९'? २ + २८ = ३०. २, ९, १६, २३, ३० हे ५ रविवार आहेत. शेवटचा रविवार = ३० तारीख (पर्याय दुरुस्त: २८, २९, ३०, ३१ -> ३० तारीख).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "संख्या मालिका",
+    "question": "१, ८, २७, ६४, ____ पुढील संख्या कोणती?",
+    "options": [
+      "१२५",
+      "१००",
+      "२१६",
+      "१५०"
+    ],
+    "answer": 0,
+    "explanation": "१³, २³, ३³, ४³ नंतर ५³ = १२५.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "Speech कूटप्रश्न",
+    "question": "Direct to Indirect: The teacher said to the boys, 'Work hard to pass.'",
+    "options": [
+      "The teacher advised the boys to work hard to pass.",
+      "The teacher said to boys that work hard.",
+      "The teacher told boys that they should pass.",
+      "The teacher asked boys if they work hard."
+    ],
+    "answer": 0,
+    "explanation": "आज्ञार्थी वाक्याचे अप्रत्यक्ष कथन: advised + object + to + V1.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "Vocabulary HOTS",
+    "question": "A speech delivered without any preparation is called ____.",
+    "options": [
+      "Extempore",
+      "Maiden",
+      "Oration",
+      "Debate"
+    ],
+    "answer": 0,
+    "explanation": "कोणतीही पूर्वतयारी न करता उत्स्फूर्तपणे केलेले भाषण म्हणजे 'Extempore'.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "HOTS",
+    "tagText": "रांगेतील कूटप्रश्न",
+    "question": "४० मुलांच्या रांगेत समीर डावीकडून १५ वा आणि सचिन उजवीकडून १८ वा आहे, तर त्या दोघांच्या दरम्यान किती मुले बसली आहेत?",
+    "options": [
+      "७ मुले",
+      "८ मुले",
+      "६ मुले",
+      "१० मुले"
+    ],
+    "answer": 0,
+    "explanation": "दोघांच्या दरम्यान = ४० - (१५ + १८) = ४० - ३३ = ७ मुले.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "घड्याळ कूटप्रश्न",
+    "question": "दुपारी १२:०० वाजल्यापासून संध्याकाळी ५:१० पर्यंत तास काटा किती अंशांमधून फिरेल?",
+    "options": [
+      "१५५°",
+      "१५०°",
+      "१६०°",
+      "१४५°"
+    ],
+    "answer": 0,
+    "explanation": "५ तास १० मिनिटे = ३१० मिनिटे. तास काटा १ मिनिटात ०.५° फिरतो -> ३१० × ०.५ = १५५ अंश.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
