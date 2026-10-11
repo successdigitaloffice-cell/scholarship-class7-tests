@@ -185,10 +185,12 @@
 
         <!-- Quiz Container -->
         <div id="quiz-container" class="hidden fade-in space-y-6">
-            <div class="flex items-center justify-between bg-white px-5 py-3 rounded-2xl shadow-sm border border-gray-100">
-                <div class="flex items-center gap-2">
+            <div class="flex flex-wrap items-center justify-between gap-2 bg-white px-5 py-3 rounded-2xl shadow-sm border border-gray-100">
+                <div class="flex flex-wrap items-center gap-2">
                     <span id="subject-tag" class="bg-teal-100 text-teal-800 text-xs font-bold px-3 py-1 rounded-full uppercase">विषय</span>
+                    <span id="difficulty-tag" class="text-xs font-extrabold px-3 py-1 rounded-full">🟢 सोपे</span>
                     <span id="type-tag" class="bg-amber-100 text-amber-800 text-xs font-bold px-3 py-1 rounded-full"><i class="fas fa-star text-[10px]"></i> PYQ</span>
+                    <span id="pyq-badge" class="hidden text-xs font-black px-3 py-1 rounded-full bg-purple-100 text-purple-800 border border-purple-300">🎯 MSCE</span>
                 </div>
                 <div class="flex items-center gap-2">
                     <span id="question-counter" class="text-xs md:text-sm font-bold text-gray-700">प्रश्न 1 / 20</span>
@@ -420,6 +422,28 @@
 
             document.getElementById('subject-tag').textContent = q.subject || 'सामान्य';
             document.getElementById('type-tag').innerHTML = `<i class="fas fa-star text-[10px]"></i> ${q.tagText || 'MSCE'}`;
+
+            // Difficulty Badge according to MSCE Pune Blueprint
+            const diffTag = document.getElementById('difficulty-tag');
+            if (q.difficulty === 'सोपे') {
+                diffTag.className = "text-xs font-extrabold px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 border border-emerald-300";
+                diffTag.innerHTML = `🟢 सोपे (३०%)`;
+            } else if (q.difficulty === 'कठीण') {
+                diffTag.className = "text-xs font-extrabold px-3 py-1 rounded-full bg-rose-100 text-rose-800 border border-rose-300";
+                diffTag.innerHTML = `🔴 कठीण / HOTS (२०%)`;
+            } else {
+                diffTag.className = "text-xs font-extrabold px-3 py-1 rounded-full bg-amber-100 text-amber-800 border border-amber-300";
+                diffTag.innerHTML = `🟡 मध्यम (५०%)`;
+            }
+
+            // PYQ Year Badge
+            const pyqBadge = document.getElementById('pyq-badge');
+            if (q.pyqYear) {
+                pyqBadge.textContent = `🎯 ${q.pyqYear} विचारलेला प्रश्न`;
+                pyqBadge.classList.remove('hidden');
+            } else {
+                pyqBadge.classList.add('hidden');
+            }
 
             const diagContainer = document.getElementById('diagram-container');
             diagContainer.innerHTML = '';
