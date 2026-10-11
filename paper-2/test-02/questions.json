@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C7-P2-02",
+  "classLevel": 7,
+  "paper": 2,
+  "testNumber": 2,
+  "testName": "English — Idioms, Phrases, Proverbs & One-word Substitution",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.1)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.2)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.3)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.4)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.5)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.6)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.7)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.8)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.9)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.10)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.11)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.12)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.13)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.14)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.15)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.16)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.17)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.18)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.19)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
+      "question": "Choose the synonym for 'Abundant': (Q.20)",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Little"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+    }
+  ]
+}
