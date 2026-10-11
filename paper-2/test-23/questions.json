@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C7-P2-23",
+  "classLevel": 7,
+  "paper": 2,
+  "testNumber": 23,
+  "testName": "बुद्धिमत्ता — दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 1)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 2)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 3)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 4)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 5)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 6)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 7)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 8)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 9)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 10)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 11)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 12)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 13)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 14)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 15)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 16)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 17)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 18)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 19)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
+      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 20)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "options": [
+        "६०°",
+        "७५°",
+        "९०°",
+        "१०५°"
+      ],
+      "answer": 1,
+      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+    }
+  ]
+}
