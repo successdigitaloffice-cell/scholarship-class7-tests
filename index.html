@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>इयत्ता सातवी शिष्यवृत्ती परीक्षा टेस्ट सिरीज (६० टेस्ट्स) | Success Digital</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <!-- Google Fonts (Mukta & Inter) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        body {
+            font-family: 'Mukta', 'Inter', sans-serif;
+            background: #f8fafc;
+            background-image: radial-gradient(#cbd5e1 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+
+        .test-card {
+            transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .test-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 24px -10px rgba(15, 118, 110, 0.2);
+        }
+    </style>
+</head>
+<body class="text-gray-800 antialiased min-h-screen flex flex-col selection:bg-teal-200 selection:text-teal-900">
+
+    <!-- Top Banner -->
+    <header class="bg-gradient-to-r from-teal-800 via-cyan-800 to-indigo-900 text-white shadow-xl sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-4 flex flex-col md:flex-row md:items-center justify-between gap-4">
+            <div class="flex items-center gap-3">
+                <div class="bg-white p-2.5 rounded-2xl shadow-md text-teal-700">
+                    <i class="fas fa-user-graduate text-3xl"></i>
+                </div>
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="text-xl md:text-2xl font-black tracking-wide">इयत्ता सातवी शिष्यवृत्ती परीक्षा</h1>
+                        <span class="bg-amber-400 text-teal-950 font-black text-[10px] px-2 py-0.5 rounded-full uppercase">MSCE उच्च प्राथमिक</span>
+                    </div>
+                    <p class="text-xs md:text-sm text-teal-100 font-medium">६० उच्च काठिण्यपातळी टॉपिक-वाइज चाचण्या | पेपर १ व पेपर २ | PYQ व आकृत्यांसह</p>
+                </div>
+            </div>
+
+            <!-- Stats Header -->
+            <div class="flex items-center gap-3 self-start md:self-auto">
+                <div class="bg-white/10 backdrop-blur-md px-3.5 py-1.5 rounded-xl border border-white/20 text-center">
+                    <span class="block text-[10px] text-teal-200 font-bold uppercase">एकूण टेस्ट्स</span>
+                    <span class="text-base font-black">६० चाचण्या</span>
+                </div>
+                <div class="bg-white/10 backdrop-blur-md px-3.5 py-1.5 rounded-xl border border-white/20 text-center">
+                    <span class="block text-[10px] text-teal-200 font-bold uppercase">एकूण प्रश्न</span>
+                    <span class="text-base font-black">१,२०० प्रश्न</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow container mx-auto px-4 py-8 max-w-6xl">
+
+        <!-- Filter & Search Controls -->
+        <div class="bg-white p-4 md:p-6 rounded-3xl shadow-md border border-gray-100 mb-8 flex flex-col md:flex-row items-center justify-between gap-4">
+            <!-- Tabs -->
+            <div class="flex items-center gap-2 w-full md:w-auto overflow-x-auto pb-2 md:pb-0">
+                <button onclick="filterPaper('all')" id="tab-all" class="tab-btn px-5 py-2.5 rounded-2xl font-black text-sm bg-teal-600 text-white shadow-md transition whitespace-nowrap">
+                    सर्व चाचण्या (६०)
+                </button>
+                <button onclick="filterPaper('paper1')" id="tab-p1" class="tab-btn px-5 py-2.5 rounded-2xl font-bold text-sm bg-gray-100 text-gray-700 hover:bg-gray-200 transition whitespace-nowrap">
+                    📘 पेपर १: मराठी व गणित (३०)
+                </button>
+                <button onclick="filterPaper('paper2')" id="tab-p2" class="tab-btn px-5 py-2.5 rounded-2xl font-bold text-sm bg-gray-100 text-gray-700 hover:bg-gray-200 transition whitespace-nowrap">
+                    📕 पेपर २: इंग्रजी व बुद्धिमत्ता (३०)
+                </button>
+            </div>
+
+            <!-- Search input -->
+            <div class="relative w-full md:w-72">
+                <i class="fas fa-search absolute left-4 top-3.5 text-gray-400 text-sm"></i>
+                <input type="text" id="search-input" onkeyup="handleSearch()" placeholder="टॉपिक किंवा विषय शोधा..." class="w-full pl-11 pr-4 py-2.5 bg-gray-50 border border-gray-200 rounded-2xl text-sm font-semibold focus:outline-none focus:ring-2 focus:ring-teal-500 focus:bg-white transition">
+            </div>
+        </div>
+
+        <!-- Grid of Tests -->
+        <div id="tests-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            <!-- Dynamically populated -->
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-gray-400 py-8 text-center text-sm mt-auto border-t border-gray-800">
+        <div class="container mx-auto px-4">
+            <h4 class="text-white font-black text-lg mb-2">SUCCESS DIGITAL</h4>
+            <p class="text-sm text-gray-400 mb-2">महाराष्ट्र राज्य परीक्षा परिषद (MSCE) पुणे उच्च प्राथमिक शिष्यवृत्ती टेस्ट सिरीज</p>
+            <p class="text-xs text-gray-600">&copy; 2026 Success Digital. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="data/scholarship_class7_bank.js"></script>
+    <script>
+        let currentFilter = 'all';
+
+        const testsGrid = document.getElementById('tests-grid');
+
+        function renderTests() {
+            testsGrid.innerHTML = '';
+            const meta = window.scholarshipClass7Meta;
+            if (!meta) return;
+
+            const papersToRender = currentFilter === 'all' ? ['paper1', 'paper2'] : [currentFilter];
+
+            papersToRender.forEach(paperKey => {
+                const pInfo = meta.papers[paperKey];
+                const isP1 = paperKey === 'paper1';
+
+                for (let i = 1; i <= pInfo.totalTests; i++) {
+                    const testName = pInfo.testNames[i] || `चाचणी क्र. ${i}`;
+                    const numPad = String(i).padStart(2, '0');
+                    const linkUrl = `test.html?paper=${paperKey}&test=${i}`;
+
+                    const card = document.createElement('div');
+                    card.className = 'test-card bg-white p-5 rounded-3xl border border-gray-100 shadow-sm flex flex-col justify-between';
+                    card.dataset.name = testName.toLowerCase();
+                    card.dataset.paper = paperKey;
+
+                    card.innerHTML = `
+                        <div>
+                            <div class="flex items-center justify-between mb-3">
+                                <span class="px-2.5 py-1 rounded-lg text-[11px] font-black uppercase ${isP1 ? 'bg-teal-100 text-teal-800' : 'bg-rose-100 text-rose-800'}">
+                                    ${isP1 ? 'पेपर १' : 'पेपर २'} • Test #${numPad}
+                                </span>
+                                <span class="text-xs font-bold text-gray-400 flex items-center gap-1">
+                                    <i class="far fa-clock"></i> 20 मिनिटे
+                                </span>
+                            </div>
+                            <h3 class="font-extrabold text-gray-900 text-base mb-2 leading-snug line-clamp-2">
+                                ${testName}
+                            </h3>
+                            <div class="flex items-center gap-3 text-xs text-gray-500 font-semibold mb-4">
+                                <span><i class="fas fa-check-circle text-teal-600 mr-1"></i>20 प्रश्न</span>
+                                <span><i class="fas fa-award text-amber-500 mr-1"></i>40 गुण</span>
+                                <span><i class="fas fa-tag text-indigo-500 mr-1"></i>MSCE PYQ</span>
+                            </div>
+                        </div>
+
+                        <div class="pt-3 border-t border-gray-50 flex items-center justify-between">
+                            <a href="${linkUrl}" class="w-full py-2.5 px-4 rounded-xl font-black text-sm text-center text-white transition ${isP1 ? 'bg-teal-600 hover:bg-teal-700' : 'bg-rose-600 hover:bg-rose-700'} shadow-md flex items-center justify-center gap-2">
+                                <span>टेस्ट सोडवा</span> <i class="fas fa-arrow-right text-xs"></i>
+                            </a>
+                        </div>
+                    `;
+                    testsGrid.appendChild(card);
+                }
+            });
+        }
+
+        function filterPaper(key) {
+            currentFilter = key;
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.className = 'tab-btn px-5 py-2.5 rounded-2xl font-bold text-sm bg-gray-100 text-gray-700 hover:bg-gray-200 transition whitespace-nowrap';
+            });
+            if (key === 'all') {
+                document.getElementById('tab-all').className = 'tab-btn px-5 py-2.5 rounded-2xl font-black text-sm bg-teal-600 text-white shadow-md transition whitespace-nowrap';
+            } else if (key === 'paper1') {
+                document.getElementById('tab-p1').className = 'tab-btn px-5 py-2.5 rounded-2xl font-black text-sm bg-teal-600 text-white shadow-md transition whitespace-nowrap';
+            } else if (key === 'paper2') {
+                document.getElementById('tab-p2').className = 'tab-btn px-5 py-2.5 rounded-2xl font-black text-sm bg-rose-600 text-white shadow-md transition whitespace-nowrap';
+            }
+            renderTests();
+        }
+
+        function handleSearch() {
+            const query = document.getElementById('search-input').value.toLowerCase().trim();
+            document.querySelectorAll('.test-card').forEach(card => {
+                const name = card.dataset.name;
+                if (!query || name.includes(query)) {
+                    card.style.display = 'flex';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        window.onload = function() {
+            renderTests();
+        };
+    </script>
+</body>
+</html>
