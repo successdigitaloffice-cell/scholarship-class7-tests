@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C7-P2-24",
+  "classLevel": 7,
+  "paper": 2,
+  "testNumber": 24,
+  "testName": "बुद्धिमत्ता — तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
+      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "options": [
+        "१० मुले",
+        "५ मुले",
+        "१५ मुले",
+        "३० मुले"
+      ],
+      "answer": 1,
+      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+    }
+  ]
+}
