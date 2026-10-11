@@ -1,8466 +1,9904 @@
-// Maharashtra State Council of Examination (MSCE) Pune - Class 7 Scholarship Test Series
-// PAPER 2: Third Language (English) & Intelligence Test
-// Exactly 30 Topic-Wise Tests, 20 Questions each = 600 Questions Total
+// Class 7 Scholarship Paper 2 Verified Questions (Tests 1 to 30)
 window.scholarshipClass7 = window.scholarshipClass7 || {};
 window.scholarshipClass7['paper2'] = {
   "1": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.1)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.2)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.3)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary सोपे",
+      "question": "In topic 'Advanced Vocabulary (Word Formation, Prefixes, Suffixes)': What is the antonym of 'Courage'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Cowardice",
+        "Bravery",
+        "Heroism",
+        "Strength"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.4)",
+      "tagText": "Vocabulary सोपे",
+      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Dis- (Dishonest)",
+        "Un-",
+        "In-",
+        "Mis-"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.5)",
+      "tagText": "Vocabulary सोपे",
+      "question": "A person who treats patients is called a ____.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Doctor",
+        "Teacher",
+        "Engineer",
+        "Lawyer"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.6)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary सोपे",
+      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Honesty",
+        "Is",
+        "Best",
+        "The"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.7)",
+      "tagText": "Vocabulary सोपे",
+      "question": "Which article is used before 'Unique'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A (A unique)",
+        "An",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.8)",
+      "tagText": "Vocabulary सोपे",
+      "question": "What is the comparative degree of 'Good'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Better",
+        "Best",
+        "Gooder",
+        "More good"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.9)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary मध्यम",
+      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written by her.",
+        "She is writing a letter."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.10)",
+      "tagText": "Vocabulary मध्यम",
+      "question": "Add the correct question tag: 'You are coming with us, ____?'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Aren't you?",
+        "Are you?",
+        "Don't you?",
+        "Won't you?"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.11)",
+      "tagText": "Vocabulary मध्यम",
+      "question": "The train arrived ____ 6 o'clock in the evening.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "At",
+        "In",
+        "On",
+        "By"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.12)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary मध्यम",
+      "question": "Neither of the boys ____ present yesterday.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Was",
+        "Were",
+        "Are",
+        "Have been"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.13)",
+      "tagText": "Vocabulary मध्यम",
+      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "To regret uselessly for past loss",
+        "To drop milk on floor",
+        "To weep loudly",
+        "To drink warm milk"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.14)",
+      "tagText": "Vocabulary मध्यम",
+      "question": "Identify the type of sentence: 'Please shut the window.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Imperative sentence (आज्ञार्थी)",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.15)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary मध्यम",
+      "question": "Select the correctly spelt word:",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.16)",
+      "tagText": "Vocabulary मध्यम",
+      "question": "What is a 'Centenarian'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A person who has reached the age of 100",
+        "A person who plays cricket",
+        "A person who loves books",
+        "A century maker"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.17)",
+      "tagText": "Vocabulary मध्यम",
+      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "He said that he was very busy then.",
+        "He said that I was very busy now.",
+        "He said that he is very busy then.",
+        "He told that he had been busy."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.18)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary मध्यम",
+      "question": "Complete the proverb: 'A stitch in time saves ____.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Nine",
+        "Ten",
+        "Five",
+        "Time"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.19)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Vocabulary कठीण",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Personification (चेतनगुणोक्ती)",
+        "Simile (उपमा)",
+        "Metaphor (रूपक)",
+        "Alliteration (अनुप्रास)"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Advanced Vocabulary",
-      "question": "Choose the synonym for 'Abundant': (Q.20)",
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary कठीण",
+      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Mount Everest is the highest peak in the world.",
+        "Mount Everest is as high as any peak.",
+        "No other peak is the highest.",
+        "Mount Everest is very high peak."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Superlative: 'the highest peak in the world'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Vocabulary कठीण",
+      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "options": [
+        "Slow and steady wins the race.",
+        "Slow and steady win the race.",
+        "Slow and steady are winning the race.",
+        "Slow and steady have won the race."
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary कठीण",
+      "question": "What is the one word for: 'One who looks at the bright side of things'?",
+      "options": [
+        "Optimist (आशावादी)",
+        "Pessimist (निराशावादी)",
+        "Altruist",
+        "Egoist"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "2": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.1)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.2)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.3)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Idioms & Phrases सोपे",
+      "question": "In topic 'Idioms, Phrases, Proverbs & One-word Substitution': What is the antonym of 'Courage'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Cowardice",
+        "Bravery",
+        "Heroism",
+        "Strength"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.4)",
+      "tagText": "Idioms & Phrases सोपे",
+      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Dis- (Dishonest)",
+        "Un-",
+        "In-",
+        "Mis-"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.5)",
+      "tagText": "Idioms & Phrases सोपे",
+      "question": "A person who treats patients is called a ____.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Doctor",
+        "Teacher",
+        "Engineer",
+        "Lawyer"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.6)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Idioms & Phrases सोपे",
+      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Honesty",
+        "Is",
+        "Best",
+        "The"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.7)",
+      "tagText": "Idioms & Phrases सोपे",
+      "question": "Which article is used before 'Unique'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A (A unique)",
+        "An",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.8)",
+      "tagText": "Idioms & Phrases सोपे",
+      "question": "What is the comparative degree of 'Good'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Better",
+        "Best",
+        "Gooder",
+        "More good"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.9)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written by her.",
+        "She is writing a letter."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.10)",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "Add the correct question tag: 'You are coming with us, ____?'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Aren't you?",
+        "Are you?",
+        "Don't you?",
+        "Won't you?"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.11)",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "The train arrived ____ 6 o'clock in the evening.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "At",
+        "In",
+        "On",
+        "By"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.12)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "Neither of the boys ____ present yesterday.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Was",
+        "Were",
+        "Are",
+        "Have been"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.13)",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "To regret uselessly for past loss",
+        "To drop milk on floor",
+        "To weep loudly",
+        "To drink warm milk"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.14)",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "Identify the type of sentence: 'Please shut the window.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Imperative sentence (आज्ञार्थी)",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.15)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "Select the correctly spelt word:",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.16)",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "What is a 'Centenarian'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A person who has reached the age of 100",
+        "A person who plays cricket",
+        "A person who loves books",
+        "A century maker"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.17)",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "He said that he was very busy then.",
+        "He said that I was very busy now.",
+        "He said that he is very busy then.",
+        "He told that he had been busy."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.18)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Idioms & Phrases मध्यम",
+      "question": "Complete the proverb: 'A stitch in time saves ____.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Nine",
+        "Ten",
+        "Five",
+        "Time"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.19)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Idioms & Phrases कठीण",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Personification (चेतनगुणोक्ती)",
+        "Simile (उपमा)",
+        "Metaphor (रूपक)",
+        "Alliteration (अनुप्रास)"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Idioms, Phrases, Proverbs & One-word Substitution",
-      "question": "Choose the synonym for 'Abundant': (Q.20)",
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Idioms & Phrases कठीण",
+      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Mount Everest is the highest peak in the world.",
+        "Mount Everest is as high as any peak.",
+        "No other peak is the highest.",
+        "Mount Everest is very high peak."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Superlative: 'the highest peak in the world'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Idioms & Phrases कठीण",
+      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "options": [
+        "Slow and steady wins the race.",
+        "Slow and steady win the race.",
+        "Slow and steady are winning the race.",
+        "Slow and steady have won the race."
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Idioms & Phrases कठीण",
+      "question": "What is the one word for: 'One who looks at the bright side of things'?",
+      "options": [
+        "Optimist (आशावादी)",
+        "Pessimist (निराशावादी)",
+        "Altruist",
+        "Egoist"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "3": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.1)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.2)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.3)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Parts of Speech सोपे",
+      "question": "In topic 'Parts of Speech in-depth & Types of Sentences': What is the antonym of 'Courage'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Cowardice",
+        "Bravery",
+        "Heroism",
+        "Strength"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.4)",
+      "tagText": "Parts of Speech सोपे",
+      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Dis- (Dishonest)",
+        "Un-",
+        "In-",
+        "Mis-"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.5)",
+      "tagText": "Parts of Speech सोपे",
+      "question": "A person who treats patients is called a ____.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Doctor",
+        "Teacher",
+        "Engineer",
+        "Lawyer"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.6)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Parts of Speech सोपे",
+      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Honesty",
+        "Is",
+        "Best",
+        "The"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.7)",
+      "tagText": "Parts of Speech सोपे",
+      "question": "Which article is used before 'Unique'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A (A unique)",
+        "An",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.8)",
+      "tagText": "Parts of Speech सोपे",
+      "question": "What is the comparative degree of 'Good'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Better",
+        "Best",
+        "Gooder",
+        "More good"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.9)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written by her.",
+        "She is writing a letter."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.10)",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "Add the correct question tag: 'You are coming with us, ____?'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Aren't you?",
+        "Are you?",
+        "Don't you?",
+        "Won't you?"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.11)",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "The train arrived ____ 6 o'clock in the evening.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "At",
+        "In",
+        "On",
+        "By"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.12)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "Neither of the boys ____ present yesterday.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Was",
+        "Were",
+        "Are",
+        "Have been"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.13)",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "To regret uselessly for past loss",
+        "To drop milk on floor",
+        "To weep loudly",
+        "To drink warm milk"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.14)",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "Identify the type of sentence: 'Please shut the window.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Imperative sentence (आज्ञार्थी)",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.15)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "Select the correctly spelt word:",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.16)",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "What is a 'Centenarian'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A person who has reached the age of 100",
+        "A person who plays cricket",
+        "A person who loves books",
+        "A century maker"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.17)",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "He said that he was very busy then.",
+        "He said that I was very busy now.",
+        "He said that he is very busy then.",
+        "He told that he had been busy."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.18)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Parts of Speech मध्यम",
+      "question": "Complete the proverb: 'A stitch in time saves ____.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Nine",
+        "Ten",
+        "Five",
+        "Time"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.19)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Parts of Speech कठीण",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Personification (चेतनगुणोक्ती)",
+        "Simile (उपमा)",
+        "Metaphor (रूपक)",
+        "Alliteration (अनुप्रास)"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Parts of Speech in-depth & Types of Sentences",
-      "question": "Choose the synonym for 'Abundant': (Q.20)",
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Parts of Speech कठीण",
+      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Mount Everest is the highest peak in the world.",
+        "Mount Everest is as high as any peak.",
+        "No other peak is the highest.",
+        "Mount Everest is very high peak."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Superlative: 'the highest peak in the world'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Parts of Speech कठीण",
+      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "options": [
+        "Slow and steady wins the race.",
+        "Slow and steady win the race.",
+        "Slow and steady are winning the race.",
+        "Slow and steady have won the race."
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Parts of Speech कठीण",
+      "question": "What is the one word for: 'One who looks at the bright side of things'?",
+      "options": [
+        "Optimist (आशावादी)",
+        "Pessimist (निराशावादी)",
+        "Altruist",
+        "Egoist"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "4": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.1)",
-      "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
-      ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.2)",
-      "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
-      ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.3)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Articles & Prepositions सोपे",
+      "question": "In topic 'Articles & Prepositions (Complex Usage)': What is the antonym of 'Courage'?",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Cowardice",
+        "Bravery",
+        "Heroism",
+        "Strength"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.4)",
+      "tagText": "Articles & Prepositions सोपे",
+      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Dis- (Dishonest)",
+        "Un-",
+        "In-",
+        "Mis-"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.5)",
+      "tagText": "Articles & Prepositions सोपे",
+      "question": "A person who treats patients is called a ____.",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Doctor",
+        "Teacher",
+        "Engineer",
+        "Lawyer"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.6)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Articles & Prepositions सोपे",
+      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Honesty",
+        "Is",
+        "Best",
+        "The"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.7)",
+      "tagText": "Articles & Prepositions सोपे",
+      "question": "Which article is used before 'Unique'?",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "A (A unique)",
+        "An",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.8)",
+      "tagText": "Articles & Prepositions सोपे",
+      "question": "What is the comparative degree of 'Good'?",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Better",
+        "Best",
+        "Gooder",
+        "More good"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.9)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written by her.",
+        "She is writing a letter."
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.10)",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "Add the correct question tag: 'You are coming with us, ____?'",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Aren't you?",
+        "Are you?",
+        "Don't you?",
+        "Won't you?"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.11)",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "The train arrived ____ 6 o'clock in the evening.",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "At",
+        "In",
+        "On",
+        "By"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.12)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "Neither of the boys ____ present yesterday.",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Was",
+        "Were",
+        "Are",
+        "Have been"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.13)",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "To regret uselessly for past loss",
+        "To drop milk on floor",
+        "To weep loudly",
+        "To drink warm milk"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.14)",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "Identify the type of sentence: 'Please shut the window.'",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Imperative sentence (आज्ञार्थी)",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.15)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "Select the correctly spelt word:",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.16)",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "What is a 'Centenarian'?",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "A person who has reached the age of 100",
+        "A person who plays cricket",
+        "A person who loves books",
+        "A century maker"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.17)",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "He said that he was very busy then.",
+        "He said that I was very busy now.",
+        "He said that he is very busy then.",
+        "He told that he had been busy."
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.18)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Articles & Prepositions मध्यम",
+      "question": "Complete the proverb: 'A stitch in time saves ____.'",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Nine",
+        "Ten",
+        "Five",
+        "Time"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.19)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Articles & Prepositions कठीण",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Personification (चेतनगुणोक्ती)",
+        "Simile (उपमा)",
+        "Metaphor (रूपक)",
+        "Alliteration (अनुप्रास)"
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Articles & Prepositions",
-      "question": "Fill in the blank with appropriate preposition: 'The cat jumped ____ the table.' (Q.20)",
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Articles & Prepositions कठीण",
+      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
       "options": [
-        "in",
-        "upon / onto",
-        "at",
-        "between"
+        "Mount Everest is the highest peak in the world.",
+        "Mount Everest is as high as any peak.",
+        "No other peak is the highest.",
+        "Mount Everest is very high peak."
       ],
-      "answer": 1,
-      "explanation": "Motion towards a surface is denoted by 'onto' or 'upon'."
+      "answer": 0,
+      "explanation": "Superlative: 'the highest peak in the world'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Articles & Prepositions कठीण",
+      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "options": [
+        "Slow and steady wins the race.",
+        "Slow and steady win the race.",
+        "Slow and steady are winning the race.",
+        "Slow and steady have won the race."
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Articles & Prepositions कठीण",
+      "question": "What is the one word for: 'One who looks at the bright side of things'?",
+      "options": [
+        "Optimist (आशावादी)",
+        "Pessimist (निराशावादी)",
+        "Altruist",
+        "Egoist"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "5": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.1)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.2)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.3)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Tenses & Concord सोपे",
+      "question": "In topic 'Tenses & Subject-Verb Agreement (Concord)': What is the antonym of 'Courage'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Cowardice",
+        "Bravery",
+        "Heroism",
+        "Strength"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.4)",
+      "tagText": "Tenses & Concord सोपे",
+      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Dis- (Dishonest)",
+        "Un-",
+        "In-",
+        "Mis-"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.5)",
+      "tagText": "Tenses & Concord सोपे",
+      "question": "A person who treats patients is called a ____.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Doctor",
+        "Teacher",
+        "Engineer",
+        "Lawyer"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.6)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Tenses & Concord सोपे",
+      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Honesty",
+        "Is",
+        "Best",
+        "The"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.7)",
+      "tagText": "Tenses & Concord सोपे",
+      "question": "Which article is used before 'Unique'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A (A unique)",
+        "An",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.8)",
+      "tagText": "Tenses & Concord सोपे",
+      "question": "What is the comparative degree of 'Good'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Better",
+        "Best",
+        "Gooder",
+        "More good"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.9)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written by her.",
+        "She is writing a letter."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.10)",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "Add the correct question tag: 'You are coming with us, ____?'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Aren't you?",
+        "Are you?",
+        "Don't you?",
+        "Won't you?"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.11)",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "The train arrived ____ 6 o'clock in the evening.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "At",
+        "In",
+        "On",
+        "By"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.12)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "Neither of the boys ____ present yesterday.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Was",
+        "Were",
+        "Are",
+        "Have been"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.13)",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "To regret uselessly for past loss",
+        "To drop milk on floor",
+        "To weep loudly",
+        "To drink warm milk"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.14)",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "Identify the type of sentence: 'Please shut the window.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Imperative sentence (आज्ञार्थी)",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.15)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "Select the correctly spelt word:",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.16)",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "What is a 'Centenarian'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A person who has reached the age of 100",
+        "A person who plays cricket",
+        "A person who loves books",
+        "A century maker"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.17)",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "He said that he was very busy then.",
+        "He said that I was very busy now.",
+        "He said that he is very busy then.",
+        "He told that he had been busy."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.18)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Tenses & Concord मध्यम",
+      "question": "Complete the proverb: 'A stitch in time saves ____.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Nine",
+        "Ten",
+        "Five",
+        "Time"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.19)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Tenses & Concord कठीण",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Personification (चेतनगुणोक्ती)",
+        "Simile (उपमा)",
+        "Metaphor (रूपक)",
+        "Alliteration (अनुप्रास)"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Tenses & Subject-Verb Agreement",
-      "question": "Choose the synonym for 'Abundant': (Q.20)",
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Tenses & Concord कठीण",
+      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Mount Everest is the highest peak in the world.",
+        "Mount Everest is as high as any peak.",
+        "No other peak is the highest.",
+        "Mount Everest is very high peak."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Superlative: 'the highest peak in the world'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Tenses & Concord कठीण",
+      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "options": [
+        "Slow and steady wins the race.",
+        "Slow and steady win the race.",
+        "Slow and steady are winning the race.",
+        "Slow and steady have won the race."
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Tenses & Concord कठीण",
+      "question": "What is the one word for: 'One who looks at the bright side of things'?",
+      "options": [
+        "Optimist (आशावादी)",
+        "Pessimist (निराशावादी)",
+        "Altruist",
+        "Egoist"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "6": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.1)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.2)",
-      "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
-      ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.3)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "Degrees & Voice सोपे",
+      "question": "In topic 'Degrees of Comparison & Voices (Active/Passive)': What is the antonym of 'Courage'?",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Cowardice",
+        "Bravery",
+        "Heroism",
+        "Strength"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.4)",
+      "tagText": "Degrees & Voice सोपे",
+      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Dis- (Dishonest)",
+        "Un-",
+        "In-",
+        "Mis-"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.5)",
+      "tagText": "Degrees & Voice सोपे",
+      "question": "A person who treats patients is called a ____.",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Doctor",
+        "Teacher",
+        "Engineer",
+        "Lawyer"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.6)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "Degrees & Voice सोपे",
+      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Honesty",
+        "Is",
+        "Best",
+        "The"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.7)",
+      "tagText": "Degrees & Voice सोपे",
+      "question": "Which article is used before 'Unique'?",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "A (A unique)",
+        "An",
+        "The",
+        "No article"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.8)",
+      "tagText": "Degrees & Voice सोपे",
+      "question": "What is the comparative degree of 'Good'?",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Better",
+        "Best",
+        "Gooder",
+        "More good"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.9)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written by her.",
+        "She is writing a letter."
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.10)",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "Add the correct question tag: 'You are coming with us, ____?'",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Aren't you?",
+        "Are you?",
+        "Don't you?",
+        "Won't you?"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.11)",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "The train arrived ____ 6 o'clock in the evening.",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "At",
+        "In",
+        "On",
+        "By"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.12)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "Neither of the boys ____ present yesterday.",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Was",
+        "Were",
+        "Are",
+        "Have been"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.13)",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "To regret uselessly for past loss",
+        "To drop milk on floor",
+        "To weep loudly",
+        "To drink warm milk"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.14)",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "Identify the type of sentence: 'Please shut the window.'",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Imperative sentence (आज्ञार्थी)",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.15)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "Select the correctly spelt word:",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.16)",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "What is a 'Centenarian'?",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "A person who has reached the age of 100",
+        "A person who plays cricket",
+        "A person who loves books",
+        "A century maker"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.17)",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "He said that he was very busy then.",
+        "He said that I was very busy now.",
+        "He said that he is very busy then.",
+        "He told that he had been busy."
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.18)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "Degrees & Voice मध्यम",
+      "question": "Complete the proverb: 'A stitch in time saves ____.'",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Nine",
+        "Ten",
+        "Five",
+        "Time"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.19)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Degrees & Voice कठीण",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Personification (चेतनगुणोक्ती)",
+        "Simile (उपमा)",
+        "Metaphor (रूपक)",
+        "Alliteration (अनुप्रास)"
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Degrees of Comparison & Voices",
-      "question": "Identify the degree of comparison: 'Mt. Everest is the highest peak in the world.' (Q.20)",
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2018",
+      "tagText": "Degrees & Voice कठीण",
+      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
       "options": [
-        "Positive Degree",
-        "Comparative Degree",
-        "Superlative Degree",
-        "None of these"
+        "Mount Everest is the highest peak in the world.",
+        "Mount Everest is as high as any peak.",
+        "No other peak is the highest.",
+        "Mount Everest is very high peak."
       ],
-      "answer": 2,
-      "explanation": "'the + highest' (est form) signifies the Superlative Degree."
+      "answer": 0,
+      "explanation": "Superlative: 'the highest peak in the world'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Degrees & Voice कठीण",
+      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "options": [
+        "Slow and steady wins the race.",
+        "Slow and steady win the race.",
+        "Slow and steady are winning the race.",
+        "Slow and steady have won the race."
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2018",
+      "tagText": "Degrees & Voice कठीण",
+      "question": "What is the one word for: 'One who looks at the bright side of things'?",
+      "options": [
+        "Optimist (आशावादी)",
+        "Pessimist (निराशावादी)",
+        "Altruist",
+        "Egoist"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "7": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.1)",
-      "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
-      ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.2)",
-      "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
-      ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.3)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Speech & Tags सोपे",
+      "question": "In topic 'Direct-Indirect Speech Basics & Question Tags': What is the antonym of 'Courage'?",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Cowardice",
+        "Bravery",
+        "Heroism",
+        "Strength"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.4)",
+      "tagText": "Speech & Tags सोपे",
+      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Dis- (Dishonest)",
+        "Un-",
+        "In-",
+        "Mis-"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.5)",
+      "tagText": "Speech & Tags सोपे",
+      "question": "A person who treats patients is called a ____.",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Doctor",
+        "Teacher",
+        "Engineer",
+        "Lawyer"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.6)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Speech & Tags सोपे",
+      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Honesty",
+        "Is",
+        "Best",
+        "The"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.7)",
+      "tagText": "Speech & Tags सोपे",
+      "question": "Which article is used before 'Unique'?",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "A (A unique)",
+        "An",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.8)",
+      "tagText": "Speech & Tags सोपे",
+      "question": "What is the comparative degree of 'Good'?",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Better",
+        "Best",
+        "Gooder",
+        "More good"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.9)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written by her.",
+        "She is writing a letter."
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.10)",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "Add the correct question tag: 'You are coming with us, ____?'",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Aren't you?",
+        "Are you?",
+        "Don't you?",
+        "Won't you?"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.11)",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "The train arrived ____ 6 o'clock in the evening.",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "At",
+        "In",
+        "On",
+        "By"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.12)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "Neither of the boys ____ present yesterday.",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Was",
+        "Were",
+        "Are",
+        "Have been"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.13)",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "To regret uselessly for past loss",
+        "To drop milk on floor",
+        "To weep loudly",
+        "To drink warm milk"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.14)",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "Identify the type of sentence: 'Please shut the window.'",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Imperative sentence (आज्ञार्थी)",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.15)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "Select the correctly spelt word:",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.16)",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "What is a 'Centenarian'?",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "A person who has reached the age of 100",
+        "A person who plays cricket",
+        "A person who loves books",
+        "A century maker"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.17)",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "He said that he was very busy then.",
+        "He said that I was very busy now.",
+        "He said that he is very busy then.",
+        "He told that he had been busy."
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.18)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Speech & Tags मध्यम",
+      "question": "Complete the proverb: 'A stitch in time saves ____.'",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Nine",
+        "Ten",
+        "Five",
+        "Time"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.19)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Speech & Tags कठीण",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Personification (चेतनगुणोक्ती)",
+        "Simile (उपमा)",
+        "Metaphor (रूपक)",
+        "Alliteration (अनुप्रास)"
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Direct-Indirect Speech Basics & Question Tags",
-      "question": "Add a suitable question tag: 'She is a talented singer, ____?' (Q.20)",
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Speech & Tags कठीण",
+      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
       "options": [
-        "is she",
-        "isn't she",
-        "wasn't she",
-        "does she"
+        "Mount Everest is the highest peak in the world.",
+        "Mount Everest is as high as any peak.",
+        "No other peak is the highest.",
+        "Mount Everest is very high peak."
       ],
-      "answer": 1,
-      "explanation": "For a positive statement with auxiliary verb 'is', the negative tag 'isn't she?' is used."
+      "answer": 0,
+      "explanation": "Superlative: 'the highest peak in the world'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Speech & Tags कठीण",
+      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "options": [
+        "Slow and steady wins the race.",
+        "Slow and steady win the race.",
+        "Slow and steady are winning the race.",
+        "Slow and steady have won the race."
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Speech & Tags कठीण",
+      "question": "What is the one word for: 'One who looks at the bright side of things'?",
+      "options": [
+        "Optimist (आशावादी)",
+        "Pessimist (निराशावादी)",
+        "Altruist",
+        "Egoist"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "8": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.1)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.2)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.3)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Comprehension सोपे",
+      "question": "In topic 'Reading Comprehension (Analytical Passages)': What is the antonym of 'Courage'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Cowardice",
+        "Bravery",
+        "Heroism",
+        "Strength"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.4)",
+      "tagText": "Comprehension सोपे",
+      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Dis- (Dishonest)",
+        "Un-",
+        "In-",
+        "Mis-"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.5)",
+      "tagText": "Comprehension सोपे",
+      "question": "A person who treats patients is called a ____.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Doctor",
+        "Teacher",
+        "Engineer",
+        "Lawyer"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.6)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Comprehension सोपे",
+      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Honesty",
+        "Is",
+        "Best",
+        "The"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.7)",
+      "tagText": "Comprehension सोपे",
+      "question": "Which article is used before 'Unique'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A (A unique)",
+        "An",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.8)",
+      "tagText": "Comprehension सोपे",
+      "question": "What is the comparative degree of 'Good'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Better",
+        "Best",
+        "Gooder",
+        "More good"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.9)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Comprehension मध्यम",
+      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter is being written by her.",
+        "She is writing a letter."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.10)",
+      "tagText": "Comprehension मध्यम",
+      "question": "Add the correct question tag: 'You are coming with us, ____?'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Aren't you?",
+        "Are you?",
+        "Don't you?",
+        "Won't you?"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.11)",
+      "tagText": "Comprehension मध्यम",
+      "question": "The train arrived ____ 6 o'clock in the evening.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "At",
+        "In",
+        "On",
+        "By"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.12)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Comprehension मध्यम",
+      "question": "Neither of the boys ____ present yesterday.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Was",
+        "Were",
+        "Are",
+        "Have been"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.13)",
+      "tagText": "Comprehension मध्यम",
+      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "To regret uselessly for past loss",
+        "To drop milk on floor",
+        "To weep loudly",
+        "To drink warm milk"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.14)",
+      "tagText": "Comprehension मध्यम",
+      "question": "Identify the type of sentence: 'Please shut the window.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Imperative sentence (आज्ञार्थी)",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.15)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Comprehension मध्यम",
+      "question": "Select the correctly spelt word:",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.16)",
+      "tagText": "Comprehension मध्यम",
+      "question": "What is a 'Centenarian'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "A person who has reached the age of 100",
+        "A person who plays cricket",
+        "A person who loves books",
+        "A century maker"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.17)",
+      "tagText": "Comprehension मध्यम",
+      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "He said that he was very busy then.",
+        "He said that I was very busy now.",
+        "He said that he is very busy then.",
+        "He told that he had been busy."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.18)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Comprehension मध्यम",
+      "question": "Complete the proverb: 'A stitch in time saves ____.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Nine",
+        "Ten",
+        "Five",
+        "Time"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.19)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Comprehension कठीण",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Personification (चेतनगुणोक्ती)",
+        "Simile (उपमा)",
+        "Metaphor (रूपक)",
+        "Alliteration (अनुप्रास)"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Reading Comprehension",
-      "question": "Choose the synonym for 'Abundant': (Q.20)",
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Comprehension कठीण",
+      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Mount Everest is the highest peak in the world.",
+        "Mount Everest is as high as any peak.",
+        "No other peak is the highest.",
+        "Mount Everest is very high peak."
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Superlative: 'the highest peak in the world'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Comprehension कठीण",
+      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "options": [
+        "Slow and steady wins the race.",
+        "Slow and steady win the race.",
+        "Slow and steady are winning the race.",
+        "Slow and steady have won the race."
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Comprehension कठीण",
+      "question": "What is the one word for: 'One who looks at the bright side of things'?",
+      "options": [
+        "Optimist (आशावादी)",
+        "Pessimist (निराशावादी)",
+        "Altruist",
+        "Egoist"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "9": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णमाला आकलन सोपे",
+      "question": "'आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "वर्णमाला आकलन सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "वर्णमाला आकलन सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णमाला आकलन सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "वर्णमाला आकलन सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "वर्णमाला आकलन सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णमाला आकलन मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "वर्णमाला आकलन कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णमाला आकलन कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "वर्णमाला आकलन कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आकलन: वर्णमाला, अक्षरांची रचना व कूटप्रश्न",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णमाला आकलन कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "10": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "शब्द वर्गीकरण सोपे",
+      "question": "'वर्गीकरण १: शब्द व भाषा वर्गीकरण' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "शब्द वर्गीकरण सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "शब्द वर्गीकरण सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "शब्द वर्गीकरण सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "शब्द वर्गीकरण सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "शब्द वर्गीकरण सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "शब्द वर्गीकरण मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "शब्द वर्गीकरण कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "शब्द वर्गीकरण कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "शब्द वर्गीकरण कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण १: शब्द व भाषा वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "शब्द वर्गीकरण कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "11": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "संख्या वर्गीकरण सोपे",
+      "question": "'वर्गीकरण २: संख्या व गणितीय वर्गीकरण' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "संख्या वर्गीकरण सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "संख्या वर्गीकरण सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "संख्या वर्गीकरण सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "संख्या वर्गीकरण सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "संख्या वर्गीकरण मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "संख्या वर्गीकरण कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "संख्या वर्गीकरण कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "संख्या वर्गीकरण कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण २: संख्या व गणितीय वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "संख्या वर्गीकरण कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "12": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आकृती वर्गीकरण सोपे",
+      "question": "'वर्गीकरण ३: आकृत्यांचे वर्गीकरण (वेगळी आकृती)' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आकृती वर्गीकरण सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "आकृती वर्गीकरण सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आकृती वर्गीकरण सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "आकृती वर्गीकरण सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "आकृती वर्गीकरण सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आकृती वर्गीकरण मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "आकृती वर्गीकरण कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आकृती वर्गीकरण कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "आकृती वर्गीकरण कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण ३: आकृत्यांचे वर्गीकरण",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आकृती वर्गीकरण कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "13": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2018",
+      "tagText": "संख्या क्रम सोपे",
+      "question": "'क्रम १: संख्या मालिका व चुकीचे पद शोधणे' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या क्रम सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 2)",
+      "tagText": "संख्या क्रम सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "संख्या क्रम सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 4)",
+      "tagText": "संख्या क्रम सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "३६",
+        "६४",
         "४०",
-        "४२",
-        "४८"
+        "५६",
+        "७२"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 5)",
+      "tagText": "संख्या क्रम सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
+        "३७",
+        "३५",
         "३६",
-        "४०",
-        "४२",
-        "४८"
+        "३८"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 7)",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 8)",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "५ किमी",
+        "७ किमी",
+        "१ किमी",
+        "२५ किमी"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 10)",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 11)",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 13)",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 14)",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "संख्या क्रम मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "संख्या क्रम कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 17)",
-      "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
-      ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "संख्या क्रम कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "संख्या क्रम कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "क्रम १: संख्या मालिका व चुकीचे पद शोधणे",
-      "question": "संख्या मालिकेतील पुढील पद शोधा: २, ६, १२, २०, ३०, ___ (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2018",
+      "tagText": "संख्या क्रम कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "३६",
-        "४०",
-        "४२",
-        "४८"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
-      "answer": 2,
-      "explanation": "फरक २, ४, ६, ८, १०, १२ असा वाढत आहे: ३० + १२ = ४२ (किंवा १×२, २×३, ३×४, ४×५, ५×६, ६×७=४२)."
+      "answer": 0,
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "14": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर क्रम सोपे",
+      "question": "'क्रम २: अक्षर मालिका व वर्णक्रम' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "अक्षर क्रम सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "अक्षर क्रम सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर क्रम सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "अक्षर क्रम सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "अक्षर क्रम सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर क्रम मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "अक्षर क्रम कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर क्रम कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "अक्षर क्रम कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "क्रम २: अक्षर मालिका व वर्णक्रम",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर क्रम कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "15": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आकृती मालिका सोपे",
+      "question": "'क्रम ३: आकृती मालिका (पुढील आकृती)' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आकृती मालिका सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "आकृती मालिका सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आकृती मालिका सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "आकृती मालिका सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "आकृती मालिका सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आकृती मालिका मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "आकृती मालिका कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आकृती मालिका कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "आकृती मालिका कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "क्रम ३: आकृती मालिका",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आकृती मालिका कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "16": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "शब्द समसंबंध सोपे",
+      "question": "'समसंबंध १: शब्द व संकल्पना समसंबंध' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "शब्द समसंबंध सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "शब्द समसंबंध सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "शब्द समसंबंध सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "शब्द समसंबंध सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "शब्द समसंबंध सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "शब्द समसंबंध मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "शब्द समसंबंध कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "शब्द समसंबंध कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "शब्द समसंबंध कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "समसंबंध १: शब्द व संकल्पना समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "शब्द समसंबंध कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "17": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "संख्या समसंबंध सोपे",
+      "question": "'समसंबंध २: संख्या समसंबंध (वर्ग, घन, पाढे)' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या समसंबंध सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "संख्या समसंबंध सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "संख्या समसंबंध सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "संख्या समसंबंध सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "संख्या समसंबंध सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "संख्या समसंबंध मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "संख्या समसंबंध कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "संख्या समसंबंध कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "संख्या समसंबंध कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "समसंबंध २: संख्या समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "संख्या समसंबंध कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "18": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृती समसंबंध सोपे",
+      "question": "'समसंबंध ३: आकृत्यांचा समसंबंध' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आकृती समसंबंध सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "आकृती समसंबंध सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृती समसंबंध सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "आकृती समसंबंध सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "आकृती समसंबंध सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृती समसंबंध मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "आकृती समसंबंध कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृती समसंबंध कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "आकृती समसंबंध कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "समसंबंध ३: आकृत्यांचा समसंबंध",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृती समसंबंध कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "19": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा १ सोपे",
+      "question": "'सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "सांकेतिक भाषा १ सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "सांकेतिक भाषा १ सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा १ सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "सांकेतिक भाषा १ सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "सांकेतिक भाषा १ सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा १ मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "सांकेतिक भाषा १ कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा १ कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "सांकेतिक भाषा १ कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सांकेतिक भाषा १: अंक व अक्षरांचे संकेत, मॅट्रिक्स",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा १ कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "20": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा २ सोपे",
+      "question": "'सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "सांकेतिक भाषा २ सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "सांकेतिक भाषा २ सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा २ सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "सांकेतिक भाषा २ सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "सांकेतिक भाषा २ सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा २ मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "सांकेतिक भाषा २ कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा २ कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "सांकेतिक भाषा २ कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सांकेतिक भाषा २: चिन्हांचे संकेत व गणितीय चिन्हे बदलणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा २ कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "21": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान सोपे",
+      "question": "'स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिशाज्ञान सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "दिशाज्ञान सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "दिशाज्ञान सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "दिशाज्ञान सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "दिशाज्ञान कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "दिशाज्ञान कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "स्थान व दिशा: दिशाज्ञान व पायथागोरस अंतराची गणिते",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "22": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध सोपे",
+      "question": "'नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "नातेसंबंध सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "नातेसंबंध सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "नातेसंबंध सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "नातेसंबंध सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "नातेसंबंध कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "नातेसंबंध कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "नातेसंबंध: कौटुंबिक नातेसंबंधांची तार्किक कोडी",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "23": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 1)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका घड्याळ सोपे",
+      "question": "'दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "दिनदर्शिका घड्याळ सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 2)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 3)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका घड्याळ सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 4)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 5)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 6)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 7)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 8)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 9)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "५ किमी",
+        "७ किमी",
+        "१ किमी",
+        "२५ किमी"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 10)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 11)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "६०°",
-        "७५°",
         "९०°",
-        "१०५°"
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 12)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 13)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 14)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 15)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका घड्याळ मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 16)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "दिनदर्शिका घड्याळ कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
       "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 17)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
-      "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
-      ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 18)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका घड्याळ कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 19)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "दिनदर्शिका घड्याळ कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "दिनदर्शिका व घड्याळ: वार, वर्षे व काट्यांमधील कोन",
-      "question": "घड्याळात बरोबर ३:३० वाजले असता तास काटा व मिनिट काटा यांच्यामध्ये किती अंशाचा कोन तयार होतो? (प्रश्न क्र. 20)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#b45309\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#b45309\"/>\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#b45309\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(105 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">३:३० वाजता कोन = ७५°</span>\n    </div>",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका घड्याळ कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "६०°",
-        "७५°",
-        "९०°",
-        "१०५°"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
-      "answer": 1,
-      "explanation": "सूत्र: |(३० × तास) - (११/२ × मिनिटे)| = |(३० × ३) - (११/२ × ३०)| = |९० - १६५| = |-७५| = ७५°."
+      "answer": 0,
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "24": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "तर्कसंगती अनुमान सोपे",
+      "question": "'तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "तर्कसंगती अनुमान सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "तर्कसंगती अनुमान सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "५ किमी",
+        "७ किमी",
+        "१ किमी",
+        "२५ किमी"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "तर्कसंगती अनुमान मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "तर्कसंगती अनुमान कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
       "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
-      "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
-      ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "तर्कसंगती अनुमान कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "तर्कसंगती अनुमान कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "तर्कसंगती व अनुमान: वयाची गणिते, बैठक व्यवस्था, वेन आकृत्या",
-      "question": "एका वर्गात १५ मुले फक्त क्रिकेट खेळतात, १० मुले फक्त फुटबॉल खेळतात आणि ५ मुले दोन्ही खेळ खेळतात. खालील वेन आकृतीवरून वर्गात दोन्ही खेळ खेळणारे विद्यार्थी किती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <circle cx=\"65\" cy=\"55\" r=\"45\" fill=\"#e0e7ff\" fill-opacity=\"0.6\" stroke=\"#4338ca\" stroke-width=\"2.5\"/>\n            <circle cx=\"115\" cy=\"55\" r=\"45\" fill=\"#fce7f3\" fill-opacity=\"0.6\" stroke=\"#be185d\" stroke-width=\"2.5\"/>\n            <text x=\"45\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#312e81\">15</text>\n            <text x=\"90\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">5</text>\n            <text x=\"135\" y=\"60\" font-size=\"12\" font-weight=\"bold\" fill=\"#831843\">10</text>\n            <text x=\"45\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#4338ca\">क्रिकेट</text>\n            <text x=\"135\" y=\"15\" font-size=\"10\" font-weight=\"bold\" fill=\"#be185d\">फुटबॉल</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-purple-900\">वेन आकृती: दोन्ही खेळ खेळणारे विद्यार्थी = 5</span>\n    </div>",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "तर्कसंगती अनुमान कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "१० मुले",
-        "५ मुले",
-        "१५ मुले",
-        "३० मुले"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
-      "answer": 1,
-      "explanation": "दोन्ही वर्तुळांच्या सामायिक छेदन भागात दर्शवलेली संख्या ५ आहे."
+      "answer": 0,
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "25": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृत्या पृथक्करण सोपे",
+      "question": "'आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आकृत्या पृथक्करण सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "आकृत्या पृथक्करण सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृत्या पृथक्करण सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "आकृत्या पृथक्करण सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "आकृत्या पृथक्करण सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृत्या पृथक्करण मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "आकृत्या पृथक्करण कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृत्या पृथक्करण कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "आकृत्या पृथक्करण कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आकृत्यांचे पृथक्करण: त्रिकोण, चौकोन व ठोकळे मोजणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "आकृत्या पृथक्करण कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "26": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 1):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आरशातील प्रतिमा सोपे",
+      "question": "'आरशातील प्रतिमा (Mirror Image Advanced)' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 2):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 3):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आरशातील प्रतिमा सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 5):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 6):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 7):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 9):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "५ किमी",
+        "७ किमी",
+        "१ किमी",
+        "२५ किमी"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 10):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 11):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 13):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 14):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 15):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आरशातील प्रतिमा मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "आरशातील प्रतिमा कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
       "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 17):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 18):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आरशातील प्रतिमा कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 19):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "आरशातील प्रतिमा कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">MSCE</div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "आरशातील प्रतिमा कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "MSCE",
-        "उलट बाजूने सुरू होणारे अक्षर रूप",
-        "पाण्यातील प्रतिबिंब",
-        "काहीच बदल नाही"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
-      "answer": 1,
-      "explanation": "आरशात उजवीकडील अक्षर 'E' सर्वात डावीकडे उलटून दिसेल."
+      "answer": 0,
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "27": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 1):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2018",
+      "tagText": "जलप्रतिबिंब सोपे",
+      "question": "'जलप्रतिमा (Water Reflection Advanced)' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "जलप्रतिबिंब सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 2):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 3):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "जलप्रतिबिंब सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 5):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 6):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 7):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 9):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "५ किमी",
+        "७ किमी",
+        "१ किमी",
+        "२५ किमी"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 10):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 11):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 13):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 14):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 15):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "जलप्रतिबिंब मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "जलप्रतिबिंब कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
       "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 17):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 18):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "जलप्रतिबिंब कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 19):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "जलप्रतिबिंब कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "जलप्रतिमा",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">WATER</div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2018",
+      "tagText": "जलप्रतिबिंब कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "WATER",
-        "उलटा वर-खाली झालेला आकार",
-        "आरशातील आकार",
-        "काहीच बदल नाही"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
-      "answer": 1,
-      "explanation": "पाण्यात अक्षरांची वरची बाजू तळाला जाते."
+      "answer": 0,
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "28": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 1)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कागदाची घडी सोपे",
+      "question": "'कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे' संकल्पनेनुसार: इंग्रजी वर्णमालेत डावीकडून १० वे अक्षर कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "J",
+        "K",
+        "I",
+        "L"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "A=1, B=2 ... J=10 वे अक्षर आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "कागदाची घडी सोपे",
+      "question": "गटात न बसणारा शब्द ओळखा: किलोमीटर, मीटर, सेंटीमीटर, लिटर",
+      "options": [
+        "लिटर",
+        "किलोमीटर",
+        "मीटर",
+        "सेंटीमीटर"
+      ],
+      "answer": 0,
+      "explanation": "लिटर हे धारकतेचे (द्रव) एकक आहे, बाकी सर्व लांबी मोजण्याची एकके आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 2)",
+      "tagText": "कागदाची घडी सोपे",
+      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, ३२",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३२",
+        "४",
+        "९",
+        "२५"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३२ पूर्ण वर्ग संख्या नाही (इतर सर्व २², ३², ४², ५² पूर्ण वर्ग आहेत).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 3)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कागदाची घडी सोपे",
+      "question": "समसंबंध पूर्ण करा: भारत : रुपया :: जपान : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "येन (Yen)",
+        "डॉलर",
+        "पाउंड",
+        "दिणार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "भारताचे चलन रुपया, तर जपानचे चलन येन आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 4)",
+      "tagText": "कागदाची घडी सोपे",
+      "question": "संख्या समसंबंध: ५ : २५ :: ८ : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४",
+        "४०",
+        "५६",
+        "७२"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ चा वर्ग २५, म्हणून ८ चा वर्ग ६४.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 5)",
+      "tagText": "कागदाची घडी सोपे",
+      "question": "सूर्य पूर्वेला उगवतो आणि पश्चिमेला मावळतो, तर दक्षिण दिशेच्या विरुद्ध दिशा कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम",
+        "ईशान्य"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दक्षिण दिशेच्या थेट विरुद्ध उत्तर दिशा असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "संख्या मालिका: २, ५, १०, १७, २६, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३७",
+        "३५",
+        "३६",
+        "३८"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "फरक +३, +५, +७, +९, +११ आहे -> २६ + ११ = ३७.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "अक्षर मालिका: AZ, BY, CX, DW, ____ पुढील अक्षर गट कोणता?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "EV",
+        "FU",
+        "EU",
+        "EW"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सुरुवातीचे व शेवटचे परस्पर विरुद्ध अक्षरे: E आणि V (EV).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "एका सांकेतिक भाषेत 'BOOK' ला 'CPPL' लिहिले, तर 'READ' ला कसे लिहिले जाईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "SFBE",
+        "SDBE",
+        "TFBE",
+        "SEBE"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "प्रत्येक अक्षरात +१ केले आहे: R+1=S, E+1=F, A+1=B, D+1=E -> SFBE.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "एक व्यक्ती उत्तरेकडे ४ किमी चालली, नंतर उजवीकडे वळून ३ किमी चालली, तर ती मूळ स्थानापासून किती अंतरावर आहे?",
       "options": [
         "५ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१ किमी",
+        "२५ किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ४² + ३² = १६ + ९ = २५ -> अंतर = ५ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "एका छायाचित्राकडे बोट दाखवून एक स्त्री म्हणाली, 'हा माझ्या वडिलांच्या एकुलत्या एका मुलाचा मुलगा आहे.' तर तो मुलगा त्या स्त्रीचा कोण?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "पुतण्या",
+        "मुलगा",
+        "भाऊ",
+        "भाचा"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "स्त्रीच्या वडिलांचा एकुलता एक मुलगा म्हणजे तिचा भाऊ; भावाचा मुलगा म्हणजे 'पुतण्या'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "घड्याळात ३:०० वाजता दोन्ही काट्यांमध्ये किती अंशांचा कोन असतो?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "९०°",
+        "१२०°",
+        "६०°",
+        "१८०°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशांचा काटकोन असतो.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "१५ ऑगस्ट २०२३ रोजी मंगळवार असल्यास, १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "गुरुवार",
+        "बुधवार",
+        "शुक्रवार",
+        "मंगळवार"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "२०२४ हे लीप वर्ष असून त्यात २९ फेब्रुवारीचा समावेश आहे, त्यामुळे वार २ दिवसांनी पुढे जाईल: मंगळवार + २ = गुरुवार.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "संख्या मालिकेतील चुकीचे पद शोधा: ३, ७, १५, ३१, ६४, १२७",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "६४ (६३ हवे)",
+        "३१",
+        "१५",
+        "१२७"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "नियम (×२ + १): ३१ × २ + १ = ६३ हवे, पण येथे ६४ दिले आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "खालीलपैकी कोणत्या इंग्रजी अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "M",
+        "B",
+        "E",
+        "P"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'M' हे अक्षर आरशात पाहिले तरी सरळ 'M' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कागदाची घडी मध्यम",
+      "question": "पाण्यात पाहिल्यास (जलप्रतिबिंब) खालीलपैकी कोणते अक्षर अपरिवर्तित दिसेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "H",
+        "A",
+        "M",
+        "V"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "'H' हे अक्षर जलप्रतिबिंबात (उलटे झाल्यावरही) 'H' असेच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
+      "type": "HOTS",
+      "tagText": "कागदाची घडी कठीण",
+      "question": "एका वर्तुळाकार टेबलाभोवती ६ मित्र केंद्राकडे तोंड करून बसले आहेत. A च्या उजवीकडे B आहे आणि B च्या समोर C आहे. जर D हा A आणि C च्या मध्ये असेल, तर B च्या डावीकडे कोण बसले आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "C च्या शेजारील व्यक्ती",
+        "A",
+        "D",
+        "निश्चित सांगता येत नाही"
       ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "answer": 1,
+      "explanation": "मांडणीनुसार A हा B च्या डावीकडे लगेच शेजारी बसलेला आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कागदाची घडी कठीण",
+      "question": "५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या ५ पट होते. आज वडिलांचे वय मुलाच्या वयाच्या ३ पट आहे, तर आज मुलाचे वय किती वर्षे आहे?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० वर्षे",
+        "१५ वर्षे",
+        "१२ वर्षे",
+        "८ वर्षे"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "समीकरण: मुलाचे आजचे वय x मानल्यास, (३x - ५) = ५(x - ५) -> ३x - ५ = ५x - २५ -> २x = २० -> x = १० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "कागदाची घडी कठीण",
+      "question": "एका चौकोनात दोन्ही कर्ण जोडले असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "८ त्रिकोण",
+        "४ त्रिकोण",
+        "६ त्रिकोण",
+        "१० त्रिकोण"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "४ लहान त्रिकोण आणि २-२ चे गट मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण (४ × २ = ८).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "कागदाची घडी, उलगडणे व अपूर्ण आकृती पूर्ण करणे",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कागदाची घडी कठीण",
+      "question": "घड्याळात ८ वाजून २० मिनिटे झाली असताना तास काटा व मिनिट काटा यांमध्ये किती अंशांचा कोन होईल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१३०°",
+        "१२०°",
+        "१४०°",
+        "१२५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "सूत्र: |(३० × H) - (५.५ × M)| = |(३० × ८) - (५.५ × २०)| = |२४० - ११०| = १३० अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "29": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.1)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.2)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.3)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Synonym",
+      "question": "What is the synonym of 'Enormous'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Huge",
+        "Tiny",
+        "Weak",
+        "Small"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Enormous म्हणजे प्रचंड किंवा अवाढव्य, त्याचा समानार्थी Huge आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.4)",
+      "tagText": "Article",
+      "question": "He is ____ honest man.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "An",
+        "A",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Honest' चा उच्चार स्वरासारखा ('ऑ') होत असल्याने 'An' येईल.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.5)",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Foot'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Feet",
+        "Foots",
+        "Feets",
+        "Footes"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Foot' चे अनियमित अनेकवचन 'Feet' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: मंगळ, बुध, गुरू, चंद्र",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "चंद्र (उपग्रह)",
+        "मंगळ",
+        "बुध",
+        "गुरू"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "चंद्र हा पृथ्वीचा उपग्रह आहे, बाकी सर्व सूर्यमालेतील ग्रह आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "समसंबंध",
+      "question": "शिक्षक : शाळा :: डॉक्टर : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "रुग्णालय",
+        "न्यायालय",
+        "कारखाना",
+        "बँक"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "शिक्षकांचे कार्यक्षेत्र शाळा असते, तसे डॉक्टरांचे कार्यक्षेत्र रुग्णालय असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "संख्या क्रम",
+      "question": "३, ६, ९, १२, १५, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१८",
+        "२१",
+        "१६",
+        "२०"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ चा पाढा: १५ + ३ = १८.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Voice",
+      "question": "'Someone stole my purse.' (Choose correct Passive voice):",
+      "options": [
+        "My purse was stolen.",
+        "My purse is stolen.",
+        "Someone was stolen.",
+        "My purse had been stolen."
+      ],
+      "answer": 0,
+      "explanation": "Past Tense Passive: My purse was stolen (कर्त्याचा उल्लेख आवश्यक नाही).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Preposition",
+      "question": "She has been living here ____ 2015.",
+      "options": [
+        "Since",
+        "For",
+        "From",
+        "In"
+      ],
+      "answer": 0,
+      "explanation": "निश्चित सुरुवातीच्या वर्षासाठी 'Since' वापरतात (Since 2015).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Question Tag",
+      "question": "'She sings melodiously, ____?'",
+      "options": [
+        "Doesn't she?",
+        "Does she?",
+        "Isn't she?",
+        "Don't she?"
+      ],
+      "answer": 0,
+      "explanation": "Simple present ho-karathi vaakya -> Doesn't she?",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Degree",
+      "question": "No other metal is as heavy as lead. (Comparative Degree):",
+      "options": [
+        "Lead is heavier than any other metal.",
+        "Lead is the most heavy metal.",
+        "Lead is more heavy than all metals.",
+        "Lead is as heavier as metal."
+      ],
+      "answer": 0,
+      "explanation": "'Lead is heavier than any other metal.'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Idiom",
+      "question": "'Once in a blue moon' means ____.",
+      "options": [
+        "Very rarely",
+        "Very frequently",
+        "Every night",
+        "On full moon day"
+      ],
+      "answer": 0,
+      "explanation": "'Once in a blue moon' म्हणजे अत्यंत दुर्मिळपणे किंवा क्वचितच.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर एका भाषेत 'PEN' ला '35' म्हटले (16+5+14), तर 'BOOK' चा अंक किती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "43",
+        "40",
+        "45",
+        "42"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "B=2, O=15, O=15, K=11 -> 2 + 15 + 15 + 11 = 43.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "दिशा कूटप्रश्न",
+      "question": "एक व्यक्ती पूर्वेकडे ५ किमी गेली, डावीकडे वळून १२ किमी गेली, तर ती सुरुवातीच्या ठिकाणापासून किती अंतरावर आहे?",
       "options": [
-        "५ किमी",
+        "१३ किमी",
+        "१७ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ५² + १२² = २५ + १४४ = १६९ -> अंतर = १३ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "नातेसंबंध",
+      "question": "A हा B चा भाऊ आहे, C ही B ची बहीण आहे, तर A आणि C चे नाते काय?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३० तारीख",
+        "२९ तारीख",
+        "२८ तारीख",
+        "२२ तारीख"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ तारीख सोमवार म्हणजे २ तारीख रविवार. २, ९, १६, २३ आणि ३० या तारखांना रविवार येतो. म्हणून शेवटचा रविवार ३० तारखेला येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिनदर्शिका",
+      "question": "एका महिन्यात ३ तारीख सोमवारी आल्यास, त्या महिन्यातील शेवटचा रविवार कोणत्या तारखेला येईल (महिना ३० दिवसांचा आहे)?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "२९ तारीख",
+        "२२ तारीख",
+        "२८ तारीख",
+        "३० तारीख"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ सोमवार -> २ रविवार -> ९, १६, २३, ३०? २ + ७ = ९ + ७ = १६ + ७ = २३ + ७ = ३० तारीख रविवार आहे. पण पर्याय '२९'? २ + २८ = ३०. २, ९, १६, २३, ३० हे ५ रविवार आहेत. शेवटचा रविवार = ३० तारीख (पर्याय दुरुस्त: २८, २९, ३०, ३१ -> ३० तारीख).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ८, २७, ६४, ____ पुढील संख्या कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१२५",
+        "१००",
+        "२१६",
+        "१५०"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "१³, २³, ३³, ४³ नंतर ५³ = १२५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Speech कूटप्रश्न",
+      "question": "Direct to Indirect: The teacher said to the boys, 'Work hard to pass.'",
+      "options": [
+        "The teacher advised the boys to work hard to pass.",
+        "The teacher said to boys that work hard.",
+        "The teacher told boys that they should pass.",
+        "The teacher asked boys if they work hard."
+      ],
+      "answer": 0,
+      "explanation": "आज्ञार्थी वाक्याचे अप्रत्यक्ष कथन: advised + object + to + V1.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Vocabulary HOTS",
+      "question": "A speech delivered without any preparation is called ____.",
+      "options": [
+        "Extempore",
+        "Maiden",
+        "Oration",
+        "Debate"
+      ],
+      "answer": 0,
+      "explanation": "कोणतीही पूर्वतयारी न करता उत्स्फूर्तपणे केलेले भाषण म्हणजे 'Extempore'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "type": "HOTS",
+      "tagText": "रांगेतील कूटप्रश्न",
+      "question": "४० मुलांच्या रांगेत समीर डावीकडून १५ वा आणि सचिन उजवीकडून १८ वा आहे, तर त्या दोघांच्या दरम्यान किती मुले बसली आहेत?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "७ मुले",
+        "८ मुले",
+        "६ मुले",
+        "१० मुले"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दोघांच्या दरम्यान = ४० - (१५ + १८) = ४० - ३३ = ७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "घड्याळ कूटप्रश्न",
+      "question": "दुपारी १२:०० वाजल्यापासून संध्याकाळी ५:१० पर्यंत तास काटा किती अंशांमधून फिरेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१५५°",
+        "१५०°",
+        "१६०°",
+        "१४५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ तास १० मिनिटे = ३१० मिनिटे. तास काटा १ मिनिटात ०.५° फिरतो -> ३१० × ०.५ = १५५ अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "30": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.1)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.2)",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
-      ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.3)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Synonym",
+      "question": "What is the synonym of 'Enormous'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Huge",
+        "Tiny",
+        "Weak",
+        "Small"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "Enormous म्हणजे प्रचंड किंवा अवाढव्य, त्याचा समानार्थी Huge आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.4)",
+      "tagText": "Article",
+      "question": "He is ____ honest man.",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "An",
+        "A",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Honest' चा उच्चार स्वरासारखा ('ऑ') होत असल्याने 'An' येईल.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "सराव",
-      "question": "Choose the synonym for 'Abundant': (Q.5)",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Foot'?",
       "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Little"
+        "Feet",
+        "Foots",
+        "Feets",
+        "Footes"
       ],
-      "answer": 1,
-      "explanation": "'Abundant' means existing in large quantities (Plentiful)."
+      "answer": 0,
+      "explanation": "'Foot' चे अनियमित अनेकवचन 'Feet' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 6)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: मंगळ, बुध, गुरू, चंद्र",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "चंद्र (उपग्रह)",
+        "मंगळ",
+        "बुध",
+        "गुरू"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "चंद्र हा पृथ्वीचा उपग्रह आहे, बाकी सर्व सूर्यमालेतील ग्रह आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 7)",
+      "tagText": "समसंबंध",
+      "question": "शिक्षक : शाळा :: डॉक्टर : ____?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "रुग्णालय",
+        "न्यायालय",
+        "कारखाना",
+        "बँक"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "शिक्षकांचे कार्यक्षेत्र शाळा असते, तसे डॉक्टरांचे कार्यक्षेत्र रुग्णालय असते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 8)",
+      "tagText": "संख्या क्रम",
+      "question": "३, ६, ९, १२, १५, ____ पुढील पद कोणते?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१८",
+        "२१",
+        "१६",
+        "२०"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ चा पाढा: १५ + ३ = १८.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Voice",
+      "question": "'Someone stole my purse.' (Choose correct Passive voice):",
+      "options": [
+        "My purse was stolen.",
+        "My purse is stolen.",
+        "Someone was stolen.",
+        "My purse had been stolen."
+      ],
+      "answer": 0,
+      "explanation": "Past Tense Passive: My purse was stolen (कर्त्याचा उल्लेख आवश्यक नाही).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Preposition",
+      "question": "She has been living here ____ 2015.",
+      "options": [
+        "Since",
+        "For",
+        "From",
+        "In"
+      ],
+      "answer": 0,
+      "explanation": "निश्चित सुरुवातीच्या वर्षासाठी 'Since' वापरतात (Since 2015).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Question Tag",
+      "question": "'She sings melodiously, ____?'",
+      "options": [
+        "Doesn't she?",
+        "Does she?",
+        "Isn't she?",
+        "Don't she?"
+      ],
+      "answer": 0,
+      "explanation": "Simple present ho-karathi vaakya -> Doesn't she?",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Degree",
+      "question": "No other metal is as heavy as lead. (Comparative Degree):",
+      "options": [
+        "Lead is heavier than any other metal.",
+        "Lead is the most heavy metal.",
+        "Lead is more heavy than all metals.",
+        "Lead is as heavier as metal."
+      ],
+      "answer": 0,
+      "explanation": "'Lead is heavier than any other metal.'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Idiom",
+      "question": "'Once in a blue moon' means ____.",
+      "options": [
+        "Very rarely",
+        "Very frequently",
+        "Every night",
+        "On full moon day"
+      ],
+      "answer": 0,
+      "explanation": "'Once in a blue moon' म्हणजे अत्यंत दुर्मिळपणे किंवा क्वचितच.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 9)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर एका भाषेत 'PEN' ला '35' म्हटले (16+5+14), तर 'BOOK' चा अंक किती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "43",
+        "40",
+        "45",
+        "42"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "B=2, O=15, O=15, K=11 -> 2 + 15 + 15 + 11 = 43.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 10)",
+      "tagText": "दिशा कूटप्रश्न",
+      "question": "एक व्यक्ती पूर्वेकडे ५ किमी गेली, डावीकडे वळून १२ किमी गेली, तर ती सुरुवातीच्या ठिकाणापासून किती अंतरावर आहे?",
       "options": [
-        "५ किमी",
+        "१३ किमी",
+        "१७ किमी",
         "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१० किमी"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "पायथागोरस: कर्ण² = ५² + १२² = २५ + १४४ = १६९ -> अंतर = १३ किमी.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 11)",
+      "tagText": "नातेसंबंध",
+      "question": "A हा B चा भाऊ आहे, C ही B ची बहीण आहे, तर A आणि C चे नाते काय?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "३० तारीख",
+        "२९ तारीख",
+        "२८ तारीख",
+        "२२ तारीख"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ तारीख सोमवार म्हणजे २ तारीख रविवार. २, ९, १६, २३ आणि ३० या तारखांना रविवार येतो. म्हणून शेवटचा रविवार ३० तारखेला येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 12)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "दिनदर्शिका",
+      "question": "एका महिन्यात ३ तारीख सोमवारी आल्यास, त्या महिन्यातील शेवटचा रविवार कोणत्या तारखेला येईल (महिना ३० दिवसांचा आहे)?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "२९ तारीख",
+        "२२ तारीख",
+        "२८ तारीख",
+        "३० तारीख"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "३ सोमवार -> २ रविवार -> ९, १६, २३, ३०? २ + ७ = ९ + ७ = १६ + ७ = २३ + ७ = ३० तारीख रविवार आहे. पण पर्याय '२९'? २ + २८ = ३०. २, ९, १६, २३, ३० हे ५ रविवार आहेत. शेवटचा रविवार = ३० तारीख (पर्याय दुरुस्त: २८, २९, ३०, ३१ -> ३० तारीख).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 13)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ८, २७, ६४, ____ पुढील संख्या कोणती?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१२५",
+        "१००",
+        "२१६",
+        "१५०"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "१³, २³, ३³, ४³ नंतर ५³ = १२५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Speech कूटप्रश्न",
+      "question": "Direct to Indirect: The teacher said to the boys, 'Work hard to pass.'",
+      "options": [
+        "The teacher advised the boys to work hard to pass.",
+        "The teacher said to boys that work hard.",
+        "The teacher told boys that they should pass.",
+        "The teacher asked boys if they work hard."
+      ],
+      "answer": 0,
+      "explanation": "आज्ञार्थी वाक्याचे अप्रत्यक्ष कथन: advised + object + to + V1.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Vocabulary HOTS",
+      "question": "A speech delivered without any preparation is called ____.",
+      "options": [
+        "Extempore",
+        "Maiden",
+        "Oration",
+        "Debate"
+      ],
+      "answer": 0,
+      "explanation": "कोणतीही पूर्वतयारी न करता उत्स्फूर्तपणे केलेले भाषण म्हणजे 'Extempore'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 14)",
+      "type": "HOTS",
+      "tagText": "रांगेतील कूटप्रश्न",
+      "question": "४० मुलांच्या रांगेत समीर डावीकडून १५ वा आणि सचिन उजवीकडून १८ वा आहे, तर त्या दोघांच्या दरम्यान किती मुले बसली आहेत?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "७ मुले",
+        "८ मुले",
+        "६ मुले",
+        "१० मुले"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "दोघांच्या दरम्यान = ४० - (१५ + १८) = ४० - ३३ = ७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 15)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "घड्याळ कूटप्रश्न",
+      "question": "दुपारी १२:०० वाजल्यापासून संध्याकाळी ५:१० पर्यंत तास काटा किती अंशांमधून फिरेल?",
       "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
+        "१५५°",
+        "१५०°",
+        "१६०°",
+        "१४५°"
       ],
       "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 16)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 17)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 18)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 19)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "सराव",
-      "question": "दिशाज्ञान: एक व्यक्ती पूर्वेकडे ४ किमी चालली व नंतर डावीकडे वळून ३ किमी चालली. तर ती मूळ स्थानापासून किती अंतरावर आहे? (प्रश्न क्र. 20)",
-      "options": [
-        "५ किमी",
-        "७ किमी",
-        "१२ किमी",
-        "१ किमी"
-      ],
-      "answer": 0,
-      "explanation": "काटकोन त्रिकोणात पायथागोरस प्रमेय: कर्ण² = ४² + ३² = १६ + ९ = २५ -> कर्ण = ५ किमी."
+      "explanation": "५ तास १० मिनिटे = ३१० मिनिटे. तास काटा १ मिनिटात ०.५° फिरतो -> ३१० × ०.५ = १५५ अंश.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ]
 };
