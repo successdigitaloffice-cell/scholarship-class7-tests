@@ -49,6 +49,14 @@
         }
         
         .disabled { pointer-events: none; }
+        
+        @keyframes pulseGlow {
+            0%, 100% { box-shadow: 0 0 15px rgba(245, 158, 11, 0.4); transform: scale(1); }
+            50% { box-shadow: 0 0 25px rgba(245, 158, 11, 0.85); transform: scale(1.03); }
+        }
+        .pulse-btn-anim {
+            animation: pulseGlow 2.5s infinite;
+        }
     </style>
 </head>
 <body class="text-gray-800 antialiased min-h-screen flex flex-col selection:bg-teal-200 selection:text-teal-900">
@@ -69,7 +77,11 @@
                 </div>
             </div>
             
-            <div class="flex items-center gap-3">
+            <div class="flex items-center gap-2 md:gap-3">
+                <!-- App Download CTA in Header -->
+                <a href="https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share" target="_blank" class="bg-gradient-to-r from-amber-400 via-yellow-400 to-amber-500 hover:from-amber-300 hover:to-yellow-400 text-slate-950 text-xs font-black px-3.5 py-1.5 rounded-full shadow-md transition transform hover:scale-105 flex items-center gap-1.5">
+                    <i class="fab fa-google-play"></i> <span class="hidden sm:inline">ॲप डाऊनलोड करा</span><span class="sm:hidden">App</span>
+                </a>
                 <div id="timer-display" class="hidden bg-black/25 backdrop-blur-sm px-3 md:px-4 py-1.5 rounded-full font-bold flex items-center gap-2 border border-white/10">
                     <i class="far fa-clock text-yellow-300 animate-pulse"></i> <span id="time" class="tracking-wider">20:00</span>
                 </div>
@@ -112,6 +124,31 @@
                 </div>
             </div>
 
+            <!-- Welcome App Promotion Card -->
+            <div class="mb-8 p-5 rounded-2xl bg-gradient-to-r from-teal-950 via-cyan-950 to-slate-900 text-white shadow-xl border border-teal-700/50 text-left flex flex-col sm:flex-row items-center justify-between gap-4">
+                <div class="flex items-center gap-3.5">
+                    <div class="w-12 h-12 rounded-2xl bg-gradient-to-tr from-amber-400 to-yellow-500 text-slate-950 flex items-center justify-center text-2xl shadow-lg shrink-0">
+                        <i class="fab fa-google-play"></i>
+                    </div>
+                    <div>
+                        <div class="flex items-center gap-2">
+                            <span class="bg-amber-400 text-teal-950 font-black text-[10px] px-2.5 py-0.5 rounded-full uppercase">Success Digital App</span>
+                            <span class="text-xs text-amber-300 font-extrabold">⭐ १००% शिष्यवृत्ती यश</span>
+                        </div>
+                        <h4 class="font-extrabold text-sm md:text-base text-white mt-0.5 leading-snug">
+                            इयत्ता सातवी संपूर्ण १२० टेस्ट सिरीज व ऑल महाराष्ट्र रँकिंग!
+                        </h4>
+                        <p class="text-[11px] md:text-xs text-teal-200">
+                            विषयवार ६०+६० सराव चाचण्या, व्हिडिओ विश्लेषण व PDF नोट्ससाठी आजच जॉइन करा!
+                        </p>
+                    </div>
+                </div>
+                <a href="https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share" target="_blank" class="w-full sm:w-auto bg-gradient-to-r from-amber-400 via-yellow-400 to-amber-500 hover:from-amber-300 hover:to-yellow-400 text-slate-950 font-black text-xs md:text-sm px-5 py-2.5 rounded-xl shadow-md transition transform hover:scale-105 active:scale-95 flex items-center justify-center gap-2 whitespace-nowrap shrink-0">
+                    <i class="fas fa-download"></i>
+                    <span>ॲप डाउनलोड करा</span>
+                </a>
+            </div>
+
             <button onclick="startQuiz()" id="start-btn" class="w-full sm:w-auto bg-gradient-to-r from-teal-600 via-cyan-600 to-indigo-700 hover:from-teal-700 hover:to-indigo-800 text-white font-extrabold text-lg py-4 px-10 rounded-2xl shadow-xl transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3">
                 <span>चाचणी सुरू करा</span> <i class="fas fa-arrow-right"></i>
             </button>
@@ -152,7 +189,37 @@
                     </div>
                 </div>
 
-                <div class="flex justify-between items-center mt-6 pt-4 border-t border-gray-100">
+                <!-- Attractive App & Test Series Promotion - Visible on EACH QUESTION -->
+                <div class="mt-6 mb-4 p-4 md:p-5 rounded-2xl bg-gradient-to-r from-teal-950 via-cyan-950 to-slate-900 text-white shadow-xl border border-teal-700/60 relative overflow-hidden group">
+                    <div class="absolute -right-6 -bottom-6 w-24 h-24 bg-amber-400/10 rounded-full blur-xl pointer-events-none"></div>
+                    <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
+                        <div class="flex items-center gap-3.5 text-left w-full sm:w-auto">
+                            <div class="w-12 h-12 rounded-2xl bg-gradient-to-tr from-amber-400 to-yellow-500 text-slate-950 flex items-center justify-center text-2xl shadow-lg shrink-0">
+                                <i class="fab fa-google-play"></i>
+                            </div>
+                            <div>
+                                <div class="flex items-center gap-2 flex-wrap">
+                                    <span class="bg-amber-400 text-teal-950 font-black text-[10px] px-2.5 py-0.5 rounded-full uppercase tracking-wider">Success Digital App</span>
+                                    <span class="text-xs text-amber-300 font-extrabold flex items-center gap-1">
+                                        <i class="fas fa-star text-[10px]"></i> १००% शिष्यवृत्ती यश
+                                    </span>
+                                </div>
+                                <h4 class="font-extrabold text-sm md:text-base text-white mt-1 leading-snug">
+                                    इयत्ता सातवी संपूर्ण १२० टेस्ट सिरीज व ऑल महाराष्ट्र रँकिंग हवी आहे का?
+                                </h4>
+                                <p class="text-[11px] md:text-xs text-teal-200 font-medium">
+                                    विषयवार ६०+६० चाचण्या, सविस्तर विश्लेषण व PDF नोट्ससाठी आत्ताच जॉइन करा!
+                                </p>
+                            </div>
+                        </div>
+                        <a href="https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share" target="_blank" class="w-full sm:w-auto bg-gradient-to-r from-amber-400 via-yellow-400 to-amber-500 hover:from-amber-300 hover:to-yellow-400 text-slate-950 font-black text-xs md:text-sm px-5 py-3 rounded-xl shadow-lg hover:shadow-amber-500/30 transition transform hover:scale-105 active:scale-95 flex items-center justify-center gap-2 whitespace-nowrap shrink-0">
+                            <i class="fas fa-download text-sm"></i>
+                            <span>टेस्ट सिरीज जॉइन करा (Download App)</span>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="flex justify-between items-center mt-4 pt-4 border-t border-gray-100">
                     <button id="prev-btn" onclick="prevQuestion()" class="text-gray-500 hover:text-teal-600 font-bold text-sm px-4 py-2 rounded-xl transition flex items-center gap-1">
                         <i class="fas fa-arrow-left"></i> मागे
                     </button>
@@ -187,6 +254,36 @@
                 <div class="bg-purple-50 p-4 rounded-2xl border border-purple-200">
                     <p class="text-xs font-bold text-purple-800">अंदाजित रँक</p>
                     <p class="text-3xl font-black text-purple-600 mt-1">#<span id="final-rank">१</span></p>
+                </div>
+            </div>
+
+            <!-- Mega App Conversion Card on Result Screen -->
+            <div class="my-6 p-6 md:p-8 rounded-3xl bg-gradient-to-br from-teal-950 via-cyan-950 to-slate-950 text-white shadow-2xl border-2 border-amber-400/40 text-left relative overflow-hidden">
+                <div class="absolute -right-10 -bottom-10 w-48 h-48 bg-amber-400/15 rounded-full blur-2xl pointer-events-none"></div>
+                <div class="flex flex-col md:flex-row items-center justify-between gap-6">
+                    <div>
+                        <div class="inline-flex items-center gap-2 bg-amber-400 text-teal-950 font-black text-xs px-3 py-1 rounded-full uppercase mb-2">
+                            <i class="fas fa-crown"></i> Success Digital Classes
+                        </div>
+                        <h3 class="text-xl md:text-2xl font-black text-white mb-2 leading-tight">
+                            🚀 उच्च प्राथमिक शिष्यवृत्ती गुणवत्ता यादीत स्थान मिळवायचे आहे का?
+                        </h3>
+                        <p class="text-sm text-teal-100 font-medium mb-4">
+                            आमच्या अधिकृत मोबाइल ॲपवर सातवीची संपूर्ण १२० टॉपिक-वाइज टेस्ट सिरीज उपलब्ध आहे:
+                        </p>
+                        <div class="grid grid-cols-2 gap-2 text-xs text-amber-200 font-bold">
+                            <div><i class="fas fa-check-circle text-teal-400 mr-1.5"></i>१२० संपूर्ण सराव चाचण्या</div>
+                            <div><i class="fas fa-check-circle text-teal-400 mr-1.5"></i>All Maharashtra Live Rank</div>
+                            <div><i class="fas fa-check-circle text-teal-400 mr-1.5"></i>सर्व मागील वर्षांचे PYQ</div>
+                            <div><i class="fas fa-check-circle text-teal-400 mr-1.5"></i>हस्तलिखित PDF नोट्स</div>
+                        </div>
+                    </div>
+                    <div class="w-full md:w-auto text-center shrink-0">
+                        <a href="https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share" target="_blank" class="block w-full md:w-auto bg-gradient-to-r from-amber-400 via-yellow-400 to-amber-500 hover:from-amber-300 hover:to-yellow-400 text-slate-950 font-black text-base px-8 py-4 rounded-2xl shadow-xl transition transform hover:scale-105 active:scale-95 pulse-btn-anim">
+                            <i class="fab fa-google-play mr-2"></i> Play Store वरून ॲप डाऊनलोड करा
+                        </a>
+                        <span class="block text-[11px] text-teal-200 mt-2 font-semibold">⭐ 4.8 Rating • 10,000+ Students Active</span>
+                    </div>
                 </div>
             </div>
 
@@ -409,7 +506,7 @@
             let correct = 0;
             quizData.forEach((q, i) => { if(userAnswers[i] === q.answer) correct++; });
             const score = correct * 2;
-            const text = `🎯 *इयत्ता सातवी स्कॉलरशिप टेस्ट निकाल!* 🎯\n📝 *${testTitle}*\n✅ माझे गुण: ${score}/40 (${Math.round((correct/quizData.length)*100)}% Accuracy)\n\nतुम्हीही ही सराव टेस्ट मोफत सोडवा आणि रँक तपासा:\n🔗 ${window.location.href}`;
+            const text = `🎯 *इयत्ता सातवी स्कॉलरशिप टेस्ट निकाल!* 🎯\n📝 *${testTitle}*\n✅ माझे गुण: ${score}/40 (${Math.round((correct/quizData.length)*100)}% Accuracy)\n\nतुम्हीही ही सराव टेस्ट मोफत सोडवा आणि रँक तपासा:\n🔗 ${window.location.href}\n\n📲 *संपूर्ण १२० टेस्ट सिरीज व All Maharashtra Live Rank साठी आजच ॲप डाऊनलोड करा:* \n👉 https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share`;
             window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, '_blank');
         }
     </script>
