@@ -449,14 +449,59 @@
             diagContainer.innerHTML = '';
             let rawQ = q.question;
 
-            if (rawQ.includes('<div') || rawQ.includes('<svg')) {
+            // Handle dedicated Passage / Poem / Dialogue / Notice Card
+            if (q.passage || q.poem || q.context) {
+                const passageContent = q.passage || q.poem || q.context;
+                let qText = rawQ;
+                if (qText.includes('\n\n**Question') || qText.includes('\n\n**प्रश्न') || qText.includes('\n\nQuestion') || qText.includes('\n\nप्रश्न')) {
+                    const parts = qText.split(/\n\n(?=\*\*?(?:Question|प्रश्न))/i);
+                    if (parts.length > 1) {
+                        qText = parts[parts.length - 1].replace(/\*\*/g, '').trim();
+                    }
+                }
+
+                let badgeIcon = '📖';
+                let badgeTitle = 'संदर्भ उतारा / परिच्छेद (Read Passage Carefully to Answer)';
+                if (passageContent.includes('📜') || passageContent.includes('कविता') || /poem/i.test(passageContent)) {
+                    badgeIcon = '📜';
+                    badgeTitle = 'संदर्भ कविता / पद्य (Read Poem Carefully to Answer)';
+                } else if (passageContent.includes('💬') || passageContent.includes('संवाद') || /conversation|dialogue/i.test(passageContent)) {
+                    badgeIcon = '💬';
+                    badgeTitle = 'संदर्भ संवाद / संभाषण (Read Dialogue Carefully to Answer)';
+                } else if (passageContent.includes('📋') || passageContent.includes('notice') || passageContent.includes('leaflet')) {
+                    badgeIcon = '📋';
+                    badgeTitle = 'सूचना पत्रक / जाहिरात (Read Notice / Leaflet Carefully to Answer)';
+                }
+
+                let cleanPassage = passageContent
+                    .replace(/^[📖📜💬📋📝]\s*\*\*[^*]+\*\*\s*\n*/, '')
+                    .trim();
+
+                diagContainer.innerHTML = `
+                    <div class="mb-6 rounded-2xl bg-gradient-to-br from-amber-50/90 via-orange-50/40 to-yellow-50/90 border-2 border-amber-300/80 p-5 md:p-6 shadow-sm text-left">
+                        <div class="flex items-center gap-2 mb-3 pb-2.5 border-b border-amber-200 text-amber-950 font-black text-xs md:text-sm tracking-wide">
+                            <span class="text-xl">${badgeIcon}</span>
+                            <span>${badgeTitle}</span>
+                        </div>
+                        <div class="text-gray-900 text-sm md:text-base leading-relaxed whitespace-pre-line font-medium font-serif select-text">
+${cleanPassage}
+                        </div>
+                    </div>
+                `;
+                rawQ = qText;
+            } else if (rawQ.includes('<div') || rawQ.includes('<svg')) {
                 const match = rawQ.match(/(<div[\s\S]*?<\/div>)/);
                 if (match) {
                     diagContainer.innerHTML = match[1];
                     rawQ = rawQ.replace(match[1], '').trim();
                 }
             }
-            document.getElementById('question-text').textContent = `${currentQuestionIndex + 1}. ${rawQ}`;
+            
+            // Clean markdown asterisks if any
+            let displayQ = rawQ.replace(/\*\*/g, '').trim();
+            // If displayQ already starts with "प्रश्न X." or "Question X.", strip it to avoid "1. प्रश्न १. ..."
+            displayQ = displayQ.replace(/^(?:प्रश्न\s*\d+\.?|Question\s*\d+\.?)\s*/i, '');
+            document.getElementById('question-text').textContent = `${currentQuestionIndex + 1}. ${displayQ}`;
 
             const optContainer = document.getElementById('options-container');
             optContainer.innerHTML = '';
