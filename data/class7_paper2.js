@@ -1,6 +1,6 @@
-// Class 7 Scholarship Paper 2 Verified Questions (Tests 1 to 30)
+// Verified Paper 2 Questions Bank (Tests 1 to 30)
 window.scholarshipClass7 = window.scholarshipClass7 || {};
-window.scholarshipClass7['paper2'] = {
+window.scholarshipClass7.paper2 = {
   "1": [
     {
       "subject": "इंग्रजी",
@@ -2315,49 +2315,52 @@ window.scholarshipClass7['paper2'] = {
     {
       "subject": "इंग्रजी",
       "type": "PYQ",
-      "pyqYear": "MSCE 2023",
-      "tagText": "Comprehension सोपे",
-      "question": "In topic 'Reading Comprehension (Analytical Passages)': What is the antonym of 'Courage'?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Analytical Prose",
+      "passage": "📖 **Read the following analytical passage carefully and answer the questions that follow:**\n\n\"The Indian Space Research Organisation (ISRO) has carved an indelible mark on the global arena of space technology. Driven by the visionary ambition of Dr. Vikram Sarabhai, India's space odyssey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963. Over the subsequent decades, through sheer indigenous perseverance and frugal innovation, Indian scientists successfully engineered world-class launch vehicles like the PSLV and GSLV.\n\nThe triumph of the Chandrayaan-3 mission, which achieved a historic soft landing on the uncharted South Pole of the Moon, demonstrated India's technological prowess and unflinching determination. What distinguishes ISRO's scientific endeavours is not merely their cost-effectiveness, but their steadfast dedication to societal benefits—ranging from tele-education and weather forecasting to disaster warning systems for farmers and fishermen. True scientific advancement is that which uplifts the common citizen while expanding the frontiers of human curiosity.\"",
+      "question": "📖 **Read the following analytical passage carefully and answer the questions that follow:**\n\n\"The Indian Space Research Organisation (ISRO) has carved an indelible mark on the global arena of space technology. Driven by the visionary ambition of Dr. Vikram Sarabhai, India's space odyssey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963. Over the subsequent decades, through sheer indigenous perseverance and frugal innovation, Indian scientists successfully engineered world-class launch vehicles like the PSLV and GSLV.\n\nThe triumph of the Chandrayaan-3 mission, which achieved a historic soft landing on the uncharted South Pole of the Moon, demonstrated India's technological prowess and unflinching determination. What distinguishes ISRO's scientific endeavours is not merely their cost-effectiveness, but their steadfast dedication to societal benefits—ranging from tele-education and weather forecasting to disaster warning systems for farmers and fishermen. True scientific advancement is that which uplifts the common citizen while expanding the frontiers of human curiosity.\"\n\n**Question 1.** Where did India's space odyssey originally commence in 1963?",
       "options": [
-        "Cowardice",
-        "Bravery",
-        "Heroism",
-        "Strength"
+        "In Thumba, Kerala",
+        "In Sriharikota, Andhra Pradesh",
+        "In Bengaluru, Karnataka",
+        "In New Delhi"
       ],
       "answer": 0,
-      "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
+      "explanation": "As stated in the passage, India's space journey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
     },
     {
       "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Comprehension सोपे",
-      "question": "Which prefix can be added to 'HONEST' to make its opposite?",
+      "tagText": "Contextual Vocab",
+      "passage": "📖 **Read the following analytical passage carefully and answer the questions that follow:**\n\n\"The Indian Space Research Organisation (ISRO) has carved an indelible mark on the global arena of space technology. Driven by the visionary ambition of Dr. Vikram Sarabhai, India's space odyssey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963. Over the subsequent decades, through sheer indigenous perseverance and frugal innovation, Indian scientists successfully engineered world-class launch vehicles like the PSLV and GSLV.\n\nThe triumph of the Chandrayaan-3 mission, which achieved a historic soft landing on the uncharted South Pole of the Moon, demonstrated India's technological prowess and unflinching determination. What distinguishes ISRO's scientific endeavours is not merely their cost-effectiveness, but their steadfast dedication to societal benefits—ranging from tele-education and weather forecasting to disaster warning systems for farmers and fishermen. True scientific advancement is that which uplifts the common citizen while expanding the frontiers of human curiosity.\"",
+      "question": "📖 **Read the following analytical passage carefully and answer the questions that follow:**\n\n\"The Indian Space Research Organisation (ISRO) has carved an indelible mark on the global arena of space technology. Driven by the visionary ambition of Dr. Vikram Sarabhai, India's space odyssey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963. Over the subsequent decades, through sheer indigenous perseverance and frugal innovation, Indian scientists successfully engineered world-class launch vehicles like the PSLV and GSLV.\n\nThe triumph of the Chandrayaan-3 mission, which achieved a historic soft landing on the uncharted South Pole of the Moon, demonstrated India's technological prowess and unflinching determination. What distinguishes ISRO's scientific endeavours is not merely their cost-effectiveness, but their steadfast dedication to societal benefits—ranging from tele-education and weather forecasting to disaster warning systems for farmers and fishermen. True scientific advancement is that which uplifts the common citizen while expanding the frontiers of human curiosity.\"\n\n**Question 2.** What is the antonym of 'INDIGENOUS' as used in the passage?",
       "options": [
-        "Dis- (Dishonest)",
-        "Un-",
-        "In-",
-        "Mis-"
+        "Foreign / Imported",
+        "Native",
+        "Local",
+        "Traditional"
       ],
       "answer": 0,
-      "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
+      "explanation": "Indigenous means native or homegrown (स्वदेशी); its opposite is foreign or imported (परदेशी).",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
     },
     {
       "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Comprehension सोपे",
-      "question": "A person who treats patients is called a ____.",
+      "tagText": "Inferential Reading",
+      "passage": "📖 **Read the following analytical passage carefully and answer the questions that follow:**\n\n\"The Indian Space Research Organisation (ISRO) has carved an indelible mark on the global arena of space technology. Driven by the visionary ambition of Dr. Vikram Sarabhai, India's space odyssey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963. Over the subsequent decades, through sheer indigenous perseverance and frugal innovation, Indian scientists successfully engineered world-class launch vehicles like the PSLV and GSLV.\n\nThe triumph of the Chandrayaan-3 mission, which achieved a historic soft landing on the uncharted South Pole of the Moon, demonstrated India's technological prowess and unflinching determination. What distinguishes ISRO's scientific endeavours is not merely their cost-effectiveness, but their steadfast dedication to societal benefits—ranging from tele-education and weather forecasting to disaster warning systems for farmers and fishermen. True scientific advancement is that which uplifts the common citizen while expanding the frontiers of human curiosity.\"",
+      "question": "📖 **Read the following analytical passage carefully and answer the questions that follow:**\n\n\"The Indian Space Research Organisation (ISRO) has carved an indelible mark on the global arena of space technology. Driven by the visionary ambition of Dr. Vikram Sarabhai, India's space odyssey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963. Over the subsequent decades, through sheer indigenous perseverance and frugal innovation, Indian scientists successfully engineered world-class launch vehicles like the PSLV and GSLV.\n\nThe triumph of the Chandrayaan-3 mission, which achieved a historic soft landing on the uncharted South Pole of the Moon, demonstrated India's technological prowess and unflinching determination. What distinguishes ISRO's scientific endeavours is not merely their cost-effectiveness, but their steadfast dedication to societal benefits—ranging from tele-education and weather forecasting to disaster warning systems for farmers and fishermen. True scientific advancement is that which uplifts the common citizen while expanding the frontiers of human curiosity.\"\n\n**Question 3.** According to the author, what truly distinguishes ISRO's scientific missions?",
       "options": [
-        "Doctor",
-        "Teacher",
-        "Engineer",
-        "Lawyer"
+        "Dedication to societal benefits and common citizens",
+        "Spending the maximum amount of money",
+        "Focusing only on luxury tourism",
+        "Ignoring environmental and weather needs"
       ],
       "answer": 0,
-      "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
+      "explanation": "The passage explicitly notes that ISRO is distinguished by its steadfast dedication to societal benefits like weather forecasting and disaster warning for citizens.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
     },
@@ -2365,278 +2368,293 @@ window.scholarshipClass7['paper2'] = {
       "subject": "इंग्रजी",
       "type": "PYQ",
       "pyqYear": "MSCE 2023",
-      "tagText": "Comprehension सोपे",
-      "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
+      "tagText": "Title Selection",
+      "passage": "📖 **Read the following analytical passage carefully and answer the questions that follow:**\n\n\"The Indian Space Research Organisation (ISRO) has carved an indelible mark on the global arena of space technology. Driven by the visionary ambition of Dr. Vikram Sarabhai, India's space odyssey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963. Over the subsequent decades, through sheer indigenous perseverance and frugal innovation, Indian scientists successfully engineered world-class launch vehicles like the PSLV and GSLV.\n\nThe triumph of the Chandrayaan-3 mission, which achieved a historic soft landing on the uncharted South Pole of the Moon, demonstrated India's technological prowess and unflinching determination. What distinguishes ISRO's scientific endeavours is not merely their cost-effectiveness, but their steadfast dedication to societal benefits—ranging from tele-education and weather forecasting to disaster warning systems for farmers and fishermen. True scientific advancement is that which uplifts the common citizen while expanding the frontiers of human curiosity.\"",
+      "question": "📖 **Read the following analytical passage carefully and answer the questions that follow:**\n\n\"The Indian Space Research Organisation (ISRO) has carved an indelible mark on the global arena of space technology. Driven by the visionary ambition of Dr. Vikram Sarabhai, India's space odyssey commenced modestly from a small fishing hamlet in Thumba, Kerala, in 1963. Over the subsequent decades, through sheer indigenous perseverance and frugal innovation, Indian scientists successfully engineered world-class launch vehicles like the PSLV and GSLV.\n\nThe triumph of the Chandrayaan-3 mission, which achieved a historic soft landing on the uncharted South Pole of the Moon, demonstrated India's technological prowess and unflinching determination. What distinguishes ISRO's scientific endeavours is not merely their cost-effectiveness, but their steadfast dedication to societal benefits—ranging from tele-education and weather forecasting to disaster warning systems for farmers and fishermen. True scientific advancement is that which uplifts the common citizen while expanding the frontiers of human curiosity.\"\n\n**Question 4.** Which of the following is the most suitable title for this passage?",
       "options": [
-        "Honesty",
-        "Is",
-        "Best",
-        "The"
+        "ISRO: A Journey of Indigenous Pride and Purpose",
+        "How to Build Rockets Quickly",
+        "The History of Fishing in Kerala",
+        "Tourism on the Moon"
       ],
       "answer": 0,
-      "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
-      "difficulty": "सोपे",
-      "difficultyEn": "Easy"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "Concept",
-      "tagText": "Comprehension सोपे",
-      "question": "Which article is used before 'Unique'?",
-      "options": [
-        "A (A unique)",
-        "An",
-        "The",
-        "No article"
-      ],
-      "answer": 0,
-      "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
-      "difficulty": "सोपे",
-      "difficultyEn": "Easy"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "IMP",
-      "tagText": "Comprehension सोपे",
-      "question": "What is the comparative degree of 'Good'?",
-      "options": [
-        "Better",
-        "Best",
-        "Gooder",
-        "More good"
-      ],
-      "answer": 0,
-      "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
+      "explanation": "The passage chronicles ISRO's journey of self-reliance, innovation, and national purpose.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
     },
     {
       "subject": "इंग्रजी",
       "type": "PYQ",
-      "pyqYear": "MSCE 2023",
-      "tagText": "Comprehension मध्यम",
-      "question": "Choose the correct Passive voice of: 'She writes a letter.'",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Poetic Theme",
+      "passage": "📜 **Read the following poem carefully and answer the questions that follow:**\n\nWhen shadows stretch across the lane,\nAnd weary footsteps mark the rain,\nDo not retreat, do not concede,\nFor perseverance is your steed!\n\nThe darkest night must yield to dawn,\nThe deepest sorrow shall be gone;\nWith steady faith and fearless eyes,\nWatch how the wounded eagle flies!\n\nIt climbs above the gathering cloud,\nUnbowed, unbroken, strong and proud;\nWithin your heart a lantern gleams,\nTo light the pathway of your dreams!",
+      "question": "📜 **Read the following poem carefully and answer the questions that follow:**\n\nWhen shadows stretch across the lane,\nAnd weary footsteps mark the rain,\nDo not retreat, do not concede,\nFor perseverance is your steed!\n\nThe darkest night must yield to dawn,\nThe deepest sorrow shall be gone;\nWith steady faith and fearless eyes,\nWatch how the wounded eagle flies!\n\nIt climbs above the gathering cloud,\nUnbowed, unbroken, strong and proud;\nWithin your heart a lantern gleams,\nTo light the pathway of your dreams!\n\n**Question 5.** What central message does the poet convey to the reader in the poem?",
       "options": [
-        "A letter is written by her.",
-        "A letter was written by her.",
-        "A letter is being written by her.",
-        "She is writing a letter."
+        "Never give up in the face of hardship, keep persevering",
+        "Surrender when rain and dark shadows appear",
+        "Avoid all challenges and stay indoors",
+        "Seek revenge against adversity"
       ],
       "answer": 0,
-      "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
+      "explanation": "The poem urges readers never to concede and to persevere through trials like a wounded eagle.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Poetic Device",
+      "passage": "📜 **Read the following poem carefully and answer the questions that follow:**\n\nWhen shadows stretch across the lane,\nAnd weary footsteps mark the rain,\nDo not retreat, do not concede,\nFor perseverance is your steed!\n\nThe darkest night must yield to dawn,\nThe deepest sorrow shall be gone;\nWith steady faith and fearless eyes,\nWatch how the wounded eagle flies!\n\nIt climbs above the gathering cloud,\nUnbowed, unbroken, strong and proud;\nWithin your heart a lantern gleams,\nTo light the pathway of your dreams!",
+      "question": "📜 **Read the following poem carefully and answer the questions that follow:**\n\nWhen shadows stretch across the lane,\nAnd weary footsteps mark the rain,\nDo not retreat, do not concede,\nFor perseverance is your steed!\n\nThe darkest night must yield to dawn,\nThe deepest sorrow shall be gone;\nWith steady faith and fearless eyes,\nWatch how the wounded eagle flies!\n\nIt climbs above the gathering cloud,\nUnbowed, unbroken, strong and proud;\nWithin your heart a lantern gleams,\nTo light the pathway of your dreams!\n\n**Question 6.** In the line 'Watch how the wounded eagle flies', what quality does the eagle symbolize?",
+      "options": [
+        "Unbroken courage and resilience",
+        "Cruelty and anger",
+        "Fear and defeat",
+        "Loneliness and sadness"
+      ],
+      "answer": 0,
+      "explanation": "The eagle climbing above gathering clouds symbolizes indomitable courage and rising above adversity.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Metaphor Comprehension",
+      "passage": "📜 **Read the following poem carefully and answer the questions that follow:**\n\nWhen shadows stretch across the lane,\nAnd weary footsteps mark the rain,\nDo not retreat, do not concede,\nFor perseverance is your steed!\n\nThe darkest night must yield to dawn,\nThe deepest sorrow shall be gone;\nWith steady faith and fearless eyes,\nWatch how the wounded eagle flies!\n\nIt climbs above the gathering cloud,\nUnbowed, unbroken, strong and proud;\nWithin your heart a lantern gleams,\nTo light the pathway of your dreams!",
+      "question": "📜 **Read the following poem carefully and answer the questions that follow:**\n\nWhen shadows stretch across the lane,\nAnd weary footsteps mark the rain,\nDo not retreat, do not concede,\nFor perseverance is your steed!\n\nThe darkest night must yield to dawn,\nThe deepest sorrow shall be gone;\nWith steady faith and fearless eyes,\nWatch how the wounded eagle flies!\n\nIt climbs above the gathering cloud,\nUnbowed, unbroken, strong and proud;\nWithin your heart a lantern gleams,\nTo light the pathway of your dreams!\n\n**Question 7.** What does 'Within your heart a lantern gleams' mean?",
+      "options": [
+        "An inner spark of hope and determination",
+        "A physical lamp placed inside a room",
+        "A flashlight used in the rain",
+        "Fear of the dark night"
+      ],
+      "answer": 0,
+      "explanation": "The gleaming lantern is a metaphor for the inner light of hope and ambition.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Comprehension मध्यम",
-      "question": "Add the correct question tag: 'You are coming with us, ____?'",
+      "tagText": "Rhyme & Tone",
+      "passage": "📜 **Read the following poem carefully and answer the questions that follow:**\n\nWhen shadows stretch across the lane,\nAnd weary footsteps mark the rain,\nDo not retreat, do not concede,\nFor perseverance is your steed!\n\nThe darkest night must yield to dawn,\nThe deepest sorrow shall be gone;\nWith steady faith and fearless eyes,\nWatch how the wounded eagle flies!\n\nIt climbs above the gathering cloud,\nUnbowed, unbroken, strong and proud;\nWithin your heart a lantern gleams,\nTo light the pathway of your dreams!",
+      "question": "📜 **Read the following poem carefully and answer the questions that follow:**\n\nWhen shadows stretch across the lane,\nAnd weary footsteps mark the rain,\nDo not retreat, do not concede,\nFor perseverance is your steed!\n\nThe darkest night must yield to dawn,\nThe deepest sorrow shall be gone;\nWith steady faith and fearless eyes,\nWatch how the wounded eagle flies!\n\nIt climbs above the gathering cloud,\nUnbowed, unbroken, strong and proud;\nWithin your heart a lantern gleams,\nTo light the pathway of your dreams!\n\n**Question 8.** What is the overall tone of the speaker in this poem?",
       "options": [
-        "Aren't you?",
-        "Are you?",
-        "Don't you?",
-        "Won't you?"
+        "Inspiring and encouraging",
+        "Pessimistic and sorrowful",
+        "Humorous and playful",
+        "Indifferent and cold"
       ],
       "answer": 0,
-      "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "IMP",
-      "tagText": "Comprehension मध्यम",
-      "question": "The train arrived ____ 6 o'clock in the evening.",
-      "options": [
-        "At",
-        "In",
-        "On",
-        "By"
-      ],
-      "answer": 0,
-      "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
+      "explanation": "The speaker's tone is profoundly inspiring, uplifting, and motivational.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "PYQ",
-      "pyqYear": "MSCE 2023",
-      "tagText": "Comprehension मध्यम",
-      "question": "Neither of the boys ____ present yesterday.",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Environmental Reading",
+      "passage": "📖 **Read the following environmental passage carefully and answer the questions that follow:**\n\n\"Forests are the living lungs of our blue planet, performing intricate ecological functions that sustain all terrestrial life. In tropical rainforests like those of the Western Ghats in India, countless species of flora and fauna coexist in delicate harmony. Every towering tree absorbs carbon dioxide, releases life-sustaining oxygen, and anchors the topsoil against erosion caused by torrential downpours.\n\nHowever, unchecked deforestation, urban encroachment, and industrial expansion pose an existential threat to these precious ecosystems. The rampant loss of natural canopy disrupts rainfall cycles, exacerbates global warming, and accelerates species extinction. Conserving our verdant wilderness is therefore not an idealistic indulgence, but a vital imperative for the survival of future generations.\"",
+      "question": "📖 **Read the following environmental passage carefully and answer the questions that follow:**\n\n\"Forests are the living lungs of our blue planet, performing intricate ecological functions that sustain all terrestrial life. In tropical rainforests like those of the Western Ghats in India, countless species of flora and fauna coexist in delicate harmony. Every towering tree absorbs carbon dioxide, releases life-sustaining oxygen, and anchors the topsoil against erosion caused by torrential downpours.\n\nHowever, unchecked deforestation, urban encroachment, and industrial expansion pose an existential threat to these precious ecosystems. The rampant loss of natural canopy disrupts rainfall cycles, exacerbates global warming, and accelerates species extinction. Conserving our verdant wilderness is therefore not an idealistic indulgence, but a vital imperative for the survival of future generations.\"\n\n**Question 9.** Why are forests metaphorically called the 'living lungs of our blue planet'?",
       "options": [
-        "Was",
-        "Were",
-        "Are",
-        "Have been"
+        "They absorb carbon dioxide and release life-sustaining oxygen",
+        "They look like human lungs from an aeroplane",
+        "They produce water and clouds artificially",
+        "They stop all winds from blowing"
       ],
       "answer": 0,
-      "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
+      "explanation": "Forests exchange gases by absorbing carbon dioxide and providing oxygen, acting as planetary lungs.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Comprehension मध्यम",
-      "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
+      "tagText": "Fact Verification",
+      "passage": "📖 **Read the following environmental passage carefully and answer the questions that follow:**\n\n\"Forests are the living lungs of our blue planet, performing intricate ecological functions that sustain all terrestrial life. In tropical rainforests like those of the Western Ghats in India, countless species of flora and fauna coexist in delicate harmony. Every towering tree absorbs carbon dioxide, releases life-sustaining oxygen, and anchors the topsoil against erosion caused by torrential downpours.\n\nHowever, unchecked deforestation, urban encroachment, and industrial expansion pose an existential threat to these precious ecosystems. The rampant loss of natural canopy disrupts rainfall cycles, exacerbates global warming, and accelerates species extinction. Conserving our verdant wilderness is therefore not an idealistic indulgence, but a vital imperative for the survival of future generations.\"",
+      "question": "📖 **Read the following environmental passage carefully and answer the questions that follow:**\n\n\"Forests are the living lungs of our blue planet, performing intricate ecological functions that sustain all terrestrial life. In tropical rainforests like those of the Western Ghats in India, countless species of flora and fauna coexist in delicate harmony. Every towering tree absorbs carbon dioxide, releases life-sustaining oxygen, and anchors the topsoil against erosion caused by torrential downpours.\n\nHowever, unchecked deforestation, urban encroachment, and industrial expansion pose an existential threat to these precious ecosystems. The rampant loss of natural canopy disrupts rainfall cycles, exacerbates global warming, and accelerates species extinction. Conserving our verdant wilderness is therefore not an idealistic indulgence, but a vital imperative for the survival of future generations.\"\n\n**Question 10.** Based on the passage, which of the following statements is INCORRECT?",
       "options": [
-        "To regret uselessly for past loss",
-        "To drop milk on floor",
-        "To weep loudly",
-        "To drink warm milk"
+        "Forest conservation is merely an idealistic indulgence without practical need.",
+        "Tree roots anchor topsoil and prevent soil erosion.",
+        "Deforestation disrupts natural rainfall patterns.",
+        "The Western Ghats contain rich biodiversity of plants and animals."
       ],
       "answer": 0,
-      "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
+      "explanation": "The passage states that forest conservation is NOT an idealistic indulgence, but a vital imperative for survival.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Comprehension मध्यम",
-      "question": "Identify the type of sentence: 'Please shut the window.'",
+      "tagText": "Vocabulary in Context",
+      "passage": "📖 **Read the following environmental passage carefully and answer the questions that follow:**\n\n\"Forests are the living lungs of our blue planet, performing intricate ecological functions that sustain all terrestrial life. In tropical rainforests like those of the Western Ghats in India, countless species of flora and fauna coexist in delicate harmony. Every towering tree absorbs carbon dioxide, releases life-sustaining oxygen, and anchors the topsoil against erosion caused by torrential downpours.\n\nHowever, unchecked deforestation, urban encroachment, and industrial expansion pose an existential threat to these precious ecosystems. The rampant loss of natural canopy disrupts rainfall cycles, exacerbates global warming, and accelerates species extinction. Conserving our verdant wilderness is therefore not an idealistic indulgence, but a vital imperative for the survival of future generations.\"",
+      "question": "📖 **Read the following environmental passage carefully and answer the questions that follow:**\n\n\"Forests are the living lungs of our blue planet, performing intricate ecological functions that sustain all terrestrial life. In tropical rainforests like those of the Western Ghats in India, countless species of flora and fauna coexist in delicate harmony. Every towering tree absorbs carbon dioxide, releases life-sustaining oxygen, and anchors the topsoil against erosion caused by torrential downpours.\n\nHowever, unchecked deforestation, urban encroachment, and industrial expansion pose an existential threat to these precious ecosystems. The rampant loss of natural canopy disrupts rainfall cycles, exacerbates global warming, and accelerates species extinction. Conserving our verdant wilderness is therefore not an idealistic indulgence, but a vital imperative for the survival of future generations.\"\n\n**Question 11.** What does the word 'VERDANT' mean in the phrase 'verdant wilderness'?",
       "options": [
-        "Imperative sentence (आज्ञार्थी)",
-        "Declarative sentence",
-        "Interrogative sentence",
-        "Exclamatory sentence"
+        "Green and fresh with flourishing vegetation",
+        "Dry and barren desert",
+        "Polluted and dirty",
+        "Cold and frozen"
       ],
       "answer": 0,
-      "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "PYQ",
-      "pyqYear": "MSCE 2023",
-      "tagText": "Comprehension मध्यम",
-      "question": "Select the correctly spelt word:",
-      "options": [
-        "Accommodation",
-        "Accomodation",
-        "Acommodation",
-        "Acomodation"
-      ],
-      "answer": 0,
-      "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "Concept",
-      "tagText": "Comprehension मध्यम",
-      "question": "What is a 'Centenarian'?",
-      "options": [
-        "A person who has reached the age of 100",
-        "A person who plays cricket",
-        "A person who loves books",
-        "A century maker"
-      ],
-      "answer": 0,
-      "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "IMP",
-      "tagText": "Comprehension मध्यम",
-      "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
-      "options": [
-        "He said that he was very busy then.",
-        "He said that I was very busy now.",
-        "He said that he is very busy then.",
-        "He told that he had been busy."
-      ],
-      "answer": 0,
-      "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "PYQ",
-      "pyqYear": "MSCE 2023",
-      "tagText": "Comprehension मध्यम",
-      "question": "Complete the proverb: 'A stitch in time saves ____.'",
-      "options": [
-        "Nine",
-        "Ten",
-        "Five",
-        "Time"
-      ],
-      "answer": 0,
-      "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
+      "explanation": "Verdant means lush green, fresh, and abundant with plant life (हिरवेगार).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "HOTS",
-      "tagText": "Comprehension कठीण",
-      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+      "tagText": "Critical Thinking",
+      "passage": "📖 **Read the following environmental passage carefully and answer the questions that follow:**\n\n\"Forests are the living lungs of our blue planet, performing intricate ecological functions that sustain all terrestrial life. In tropical rainforests like those of the Western Ghats in India, countless species of flora and fauna coexist in delicate harmony. Every towering tree absorbs carbon dioxide, releases life-sustaining oxygen, and anchors the topsoil against erosion caused by torrential downpours.\n\nHowever, unchecked deforestation, urban encroachment, and industrial expansion pose an existential threat to these precious ecosystems. The rampant loss of natural canopy disrupts rainfall cycles, exacerbates global warming, and accelerates species extinction. Conserving our verdant wilderness is therefore not an idealistic indulgence, but a vital imperative for the survival of future generations.\"",
+      "question": "📖 **Read the following environmental passage carefully and answer the questions that follow:**\n\n\"Forests are the living lungs of our blue planet, performing intricate ecological functions that sustain all terrestrial life. In tropical rainforests like those of the Western Ghats in India, countless species of flora and fauna coexist in delicate harmony. Every towering tree absorbs carbon dioxide, releases life-sustaining oxygen, and anchors the topsoil against erosion caused by torrential downpours.\n\nHowever, unchecked deforestation, urban encroachment, and industrial expansion pose an existential threat to these precious ecosystems. The rampant loss of natural canopy disrupts rainfall cycles, exacerbates global warming, and accelerates species extinction. Conserving our verdant wilderness is therefore not an idealistic indulgence, but a vital imperative for the survival of future generations.\"\n\n**Question 12.** What is the author's primary warning regarding unchecked deforestation?",
       "options": [
-        "Personification (चेतनगुणोक्ती)",
-        "Simile (उपमा)",
-        "Metaphor (रूपक)",
-        "Alliteration (अनुप्रास)"
+        "It causes global warming and threatens the survival of future generations.",
+        "It makes roads wider and easier to travel.",
+        "It increases agricultural wealth permanently.",
+        "It reduces the need for raincoats and umbrellas."
       ],
       "answer": 0,
-      "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
-      "difficulty": "कठीण",
-      "difficultyEn": "Hard"
+      "explanation": "The author warns that deforestation exacerbates global warming and threatens future generations.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "PYQ",
       "pyqYear": "MSCE 2023",
-      "tagText": "Comprehension कठीण",
-      "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
+      "tagText": "Dialogue Comprehension",
+      "passage": "💬 **Read the following conversation carefully and answer the questions that follow:**\n\n(In a school computer laboratory, teacher Mr. Sharma is discussing digital awareness with students Ananya and Kabir.)\n\nAnanya: \"Sir, almost everyone in our class has access to smartphones and social media platforms. Isn't the internet completely safe as long as we use passwords?\"\nMr. Sharma (smiling calmly): \"Passwords are a good first line of defence, Ananya, but safety requires continuous vigilance. The digital realm contains phishing links, suspicious messages, and cyber-bullies. You must cultivate digital hygiene.\"\nKabir: \"What exactly do you mean by digital hygiene, Sir?\"\nMr. Sharma: \"It means protecting your personal privacy, verifying facts before forwarding messages, never interacting with unknown strangers, and remembering the golden rule: 'Think twice before you click.' Your online reputation is as valuable as your real-world character.\"\nKabir: \"That makes immense sense! We should use technology for creative learning rather than mindlessly surfing.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions that follow:**\n\n(In a school computer laboratory, teacher Mr. Sharma is discussing digital awareness with students Ananya and Kabir.)\n\nAnanya: \"Sir, almost everyone in our class has access to smartphones and social media platforms. Isn't the internet completely safe as long as we use passwords?\"\nMr. Sharma (smiling calmly): \"Passwords are a good first line of defence, Ananya, but safety requires continuous vigilance. The digital realm contains phishing links, suspicious messages, and cyber-bullies. You must cultivate digital hygiene.\"\nKabir: \"What exactly do you mean by digital hygiene, Sir?\"\nMr. Sharma: \"It means protecting your personal privacy, verifying facts before forwarding messages, never interacting with unknown strangers, and remembering the golden rule: 'Think twice before you click.' Your online reputation is as valuable as your real-world character.\"\nKabir: \"That makes immense sense! We should use technology for creative learning rather than mindlessly surfing.\"\n\n**Question 13.** What key concept is Mr. Sharma explaining to his students in the computer lab?",
       "options": [
-        "Mount Everest is the highest peak in the world.",
-        "Mount Everest is as high as any peak.",
-        "No other peak is the highest.",
-        "Mount Everest is very high peak."
+        "Digital hygiene and online safety",
+        "How to crack software passwords",
+        "How to play video games faster",
+        "Buying expensive smartphones"
       ],
       "answer": 0,
-      "explanation": "Superlative: 'the highest peak in the world'.",
+      "explanation": "Mr. Sharma explains digital hygiene, privacy protection, and vigilance on online platforms.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Dialogue Analysis",
+      "passage": "💬 **Read the following conversation carefully and answer the questions that follow:**\n\n(In a school computer laboratory, teacher Mr. Sharma is discussing digital awareness with students Ananya and Kabir.)\n\nAnanya: \"Sir, almost everyone in our class has access to smartphones and social media platforms. Isn't the internet completely safe as long as we use passwords?\"\nMr. Sharma (smiling calmly): \"Passwords are a good first line of defence, Ananya, but safety requires continuous vigilance. The digital realm contains phishing links, suspicious messages, and cyber-bullies. You must cultivate digital hygiene.\"\nKabir: \"What exactly do you mean by digital hygiene, Sir?\"\nMr. Sharma: \"It means protecting your personal privacy, verifying facts before forwarding messages, never interacting with unknown strangers, and remembering the golden rule: 'Think twice before you click.' Your online reputation is as valuable as your real-world character.\"\nKabir: \"That makes immense sense! We should use technology for creative learning rather than mindlessly surfing.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions that follow:**\n\n(In a school computer laboratory, teacher Mr. Sharma is discussing digital awareness with students Ananya and Kabir.)\n\nAnanya: \"Sir, almost everyone in our class has access to smartphones and social media platforms. Isn't the internet completely safe as long as we use passwords?\"\nMr. Sharma (smiling calmly): \"Passwords are a good first line of defence, Ananya, but safety requires continuous vigilance. The digital realm contains phishing links, suspicious messages, and cyber-bullies. You must cultivate digital hygiene.\"\nKabir: \"What exactly do you mean by digital hygiene, Sir?\"\nMr. Sharma: \"It means protecting your personal privacy, verifying facts before forwarding messages, never interacting with unknown strangers, and remembering the golden rule: 'Think twice before you click.' Your online reputation is as valuable as your real-world character.\"\nKabir: \"That makes immense sense! We should use technology for creative learning rather than mindlessly surfing.\"\n\n**Question 14.** How many active speakers participate in this conversation?",
+      "options": [
+        "3 speakers (Mr. Sharma, Ananya, and Kabir)",
+        "2 speakers",
+        "4 speakers",
+        "Only 1 speaker"
+      ],
+      "answer": 0,
+      "explanation": "The conversation involves three individuals: Mr. Sharma, Ananya, and Kabir.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Idiomatic Expression",
+      "passage": "💬 **Read the following conversation carefully and answer the questions that follow:**\n\n(In a school computer laboratory, teacher Mr. Sharma is discussing digital awareness with students Ananya and Kabir.)\n\nAnanya: \"Sir, almost everyone in our class has access to smartphones and social media platforms. Isn't the internet completely safe as long as we use passwords?\"\nMr. Sharma (smiling calmly): \"Passwords are a good first line of defence, Ananya, but safety requires continuous vigilance. The digital realm contains phishing links, suspicious messages, and cyber-bullies. You must cultivate digital hygiene.\"\nKabir: \"What exactly do you mean by digital hygiene, Sir?\"\nMr. Sharma: \"It means protecting your personal privacy, verifying facts before forwarding messages, never interacting with unknown strangers, and remembering the golden rule: 'Think twice before you click.' Your online reputation is as valuable as your real-world character.\"\nKabir: \"That makes immense sense! We should use technology for creative learning rather than mindlessly surfing.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions that follow:**\n\n(In a school computer laboratory, teacher Mr. Sharma is discussing digital awareness with students Ananya and Kabir.)\n\nAnanya: \"Sir, almost everyone in our class has access to smartphones and social media platforms. Isn't the internet completely safe as long as we use passwords?\"\nMr. Sharma (smiling calmly): \"Passwords are a good first line of defence, Ananya, but safety requires continuous vigilance. The digital realm contains phishing links, suspicious messages, and cyber-bullies. You must cultivate digital hygiene.\"\nKabir: \"What exactly do you mean by digital hygiene, Sir?\"\nMr. Sharma: \"It means protecting your personal privacy, verifying facts before forwarding messages, never interacting with unknown strangers, and remembering the golden rule: 'Think twice before you click.' Your online reputation is as valuable as your real-world character.\"\nKabir: \"That makes immense sense! We should use technology for creative learning rather than mindlessly surfing.\"\n\n**Question 15.** What is the intended meaning of the golden rule: 'Think twice before you click'?",
+      "options": [
+        "Carefully verify the safety and source of links before opening them",
+        "Click on every link at least two times",
+        "Never turn on a computer mouse",
+        "Wait two minutes before typing your name"
+      ],
+      "answer": 0,
+      "explanation": "It advises users to pause and evaluate whether a link or post is safe and credible before opening or sharing it.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Character Inference",
+      "passage": "💬 **Read the following conversation carefully and answer the questions that follow:**\n\n(In a school computer laboratory, teacher Mr. Sharma is discussing digital awareness with students Ananya and Kabir.)\n\nAnanya: \"Sir, almost everyone in our class has access to smartphones and social media platforms. Isn't the internet completely safe as long as we use passwords?\"\nMr. Sharma (smiling calmly): \"Passwords are a good first line of defence, Ananya, but safety requires continuous vigilance. The digital realm contains phishing links, suspicious messages, and cyber-bullies. You must cultivate digital hygiene.\"\nKabir: \"What exactly do you mean by digital hygiene, Sir?\"\nMr. Sharma: \"It means protecting your personal privacy, verifying facts before forwarding messages, never interacting with unknown strangers, and remembering the golden rule: 'Think twice before you click.' Your online reputation is as valuable as your real-world character.\"\nKabir: \"That makes immense sense! We should use technology for creative learning rather than mindlessly surfing.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions that follow:**\n\n(In a school computer laboratory, teacher Mr. Sharma is discussing digital awareness with students Ananya and Kabir.)\n\nAnanya: \"Sir, almost everyone in our class has access to smartphones and social media platforms. Isn't the internet completely safe as long as we use passwords?\"\nMr. Sharma (smiling calmly): \"Passwords are a good first line of defence, Ananya, but safety requires continuous vigilance. The digital realm contains phishing links, suspicious messages, and cyber-bullies. You must cultivate digital hygiene.\"\nKabir: \"What exactly do you mean by digital hygiene, Sir?\"\nMr. Sharma: \"It means protecting your personal privacy, verifying facts before forwarding messages, never interacting with unknown strangers, and remembering the golden rule: 'Think twice before you click.' Your online reputation is as valuable as your real-world character.\"\nKabir: \"That makes immense sense! We should use technology for creative learning rather than mindlessly surfing.\"\n\n**Question 16.** According to Kabir's concluding remark, what is the best use of technology for students?",
+      "options": [
+        "Creative learning and skill development",
+        "Mindless web surfing and gossiping",
+        "Spending entire nights on social media",
+        "Interacting with unknown strangers"
+      ],
+      "answer": 0,
+      "explanation": "Kabir emphasizes using technology for creative learning rather than mindless surfing.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Leaflet Comprehension",
+      "passage": "📋 **Read the following public notice / leaflet carefully and answer the questions that follow:**\n\n┌─────────────────────────────────────────────────────────────┐\n│             MAHARASHTRA STATE ECO-CLUB ALLIANCE             │\n│            ANNUAL INTER-SCHOOL NATURE SYMPOSIUM             │\n│                       & TREE CANOPY DRIVE                   │\n│                                                             │\n│  Date: 25th October 2026           Time: 8:30 AM to 2:00 PM  │\n│  Venue: Sambhaji Udyan Amphitheatre, Pune                   │\n│                                                             │\n│  Key Highlights:                                            │\n│  • Free distribution of 5,000 native saplings (Neem, Banyan)│\n│  • Eco-Poster Presentation & Science Quiz for Classes 5-8   │\n│  • Keynote Address by Eminent Environmentalists             │\n│                                                             │\n│  Important Instructions:                                    │\n│  1. Entry is strictly free for all school students.         │\n│  2. Carry your own eco-friendly water bottles (No plastic). │\n│  3. Pre-register your school delegation before 20th Oct.    │\n│                                                             │\n│  Organised by: Department of Environment & Forest Education │\n└─────────────────────────────────────────────────────────────┘",
+      "question": "📋 **Read the following public notice / leaflet carefully and answer the questions that follow:**\n\n┌─────────────────────────────────────────────────────────────┐\n│             MAHARASHTRA STATE ECO-CLUB ALLIANCE             │\n│            ANNUAL INTER-SCHOOL NATURE SYMPOSIUM             │\n│                       & TREE CANOPY DRIVE                   │\n│                                                             │\n│  Date: 25th October 2026           Time: 8:30 AM to 2:00 PM  │\n│  Venue: Sambhaji Udyan Amphitheatre, Pune                   │\n│                                                             │\n│  Key Highlights:                                            │\n│  • Free distribution of 5,000 native saplings (Neem, Banyan)│\n│  • Eco-Poster Presentation & Science Quiz for Classes 5-8   │\n│  • Keynote Address by Eminent Environmentalists             │\n│                                                             │\n│  Important Instructions:                                    │\n│  1. Entry is strictly free for all school students.         │\n│  2. Carry your own eco-friendly water bottles (No plastic). │\n│  3. Pre-register your school delegation before 20th Oct.    │\n│                                                             │\n│  Organised by: Department of Environment & Forest Education │\n└─────────────────────────────────────────────────────────────┘\n\n**Question 17.** What is the main event announced in the public leaflet?",
+      "options": [
+        "Annual Inter-School Nature Symposium & Tree Canopy Drive",
+        "A commercial film shooting event",
+        "A grand football tournament",
+        "An electronic gadget sale"
+      ],
+      "answer": 0,
+      "explanation": "The leaflet announces the 'Annual Inter-School Nature Symposium & Tree Canopy Drive'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Detail Verification",
+      "passage": "📋 **Read the following public notice / leaflet carefully and answer the questions that follow:**\n\n┌─────────────────────────────────────────────────────────────┐\n│             MAHARASHTRA STATE ECO-CLUB ALLIANCE             │\n│            ANNUAL INTER-SCHOOL NATURE SYMPOSIUM             │\n│                       & TREE CANOPY DRIVE                   │\n│                                                             │\n│  Date: 25th October 2026           Time: 8:30 AM to 2:00 PM  │\n│  Venue: Sambhaji Udyan Amphitheatre, Pune                   │\n│                                                             │\n│  Key Highlights:                                            │\n│  • Free distribution of 5,000 native saplings (Neem, Banyan)│\n│  • Eco-Poster Presentation & Science Quiz for Classes 5-8   │\n│  • Keynote Address by Eminent Environmentalists             │\n│                                                             │\n│  Important Instructions:                                    │\n│  1. Entry is strictly free for all school students.         │\n│  2. Carry your own eco-friendly water bottles (No plastic). │\n│  3. Pre-register your school delegation before 20th Oct.    │\n│                                                             │\n│  Organised by: Department of Environment & Forest Education │\n└─────────────────────────────────────────────────────────────┘",
+      "question": "📋 **Read the following public notice / leaflet carefully and answer the questions that follow:**\n\n┌─────────────────────────────────────────────────────────────┐\n│             MAHARASHTRA STATE ECO-CLUB ALLIANCE             │\n│            ANNUAL INTER-SCHOOL NATURE SYMPOSIUM             │\n│                       & TREE CANOPY DRIVE                   │\n│                                                             │\n│  Date: 25th October 2026           Time: 8:30 AM to 2:00 PM  │\n│  Venue: Sambhaji Udyan Amphitheatre, Pune                   │\n│                                                             │\n│  Key Highlights:                                            │\n│  • Free distribution of 5,000 native saplings (Neem, Banyan)│\n│  • Eco-Poster Presentation & Science Quiz for Classes 5-8   │\n│  • Keynote Address by Eminent Environmentalists             │\n│                                                             │\n│  Important Instructions:                                    │\n│  1. Entry is strictly free for all school students.         │\n│  2. Carry your own eco-friendly water bottles (No plastic). │\n│  3. Pre-register your school delegation before 20th Oct.    │\n│                                                             │\n│  Organised by: Department of Environment & Forest Education │\n└─────────────────────────────────────────────────────────────┘\n\n**Question 18.** Which essential instruction must participants strictly adhere to at the venue?",
+      "options": [
+        "Carry eco-friendly water bottles and avoid single-use plastics",
+        "Pay an entry fee of Rs. 500 at the counter",
+        "Bring plastic cups and disposable plates",
+        "Arrive at midnight"
+      ],
+      "answer": 0,
+      "explanation": "Instruction #2 explicitly states: 'Carry your own eco-friendly water bottles (No plastic)'.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Notice Vocabulary",
+      "passage": "📋 **Read the following public notice / leaflet carefully and answer the questions that follow:**\n\n┌─────────────────────────────────────────────────────────────┐\n│             MAHARASHTRA STATE ECO-CLUB ALLIANCE             │\n│            ANNUAL INTER-SCHOOL NATURE SYMPOSIUM             │\n│                       & TREE CANOPY DRIVE                   │\n│                                                             │\n│  Date: 25th October 2026           Time: 8:30 AM to 2:00 PM  │\n│  Venue: Sambhaji Udyan Amphitheatre, Pune                   │\n│                                                             │\n│  Key Highlights:                                            │\n│  • Free distribution of 5,000 native saplings (Neem, Banyan)│\n│  • Eco-Poster Presentation & Science Quiz for Classes 5-8   │\n│  • Keynote Address by Eminent Environmentalists             │\n│                                                             │\n│  Important Instructions:                                    │\n│  1. Entry is strictly free for all school students.         │\n│  2. Carry your own eco-friendly water bottles (No plastic). │\n│  3. Pre-register your school delegation before 20th Oct.    │\n│                                                             │\n│  Organised by: Department of Environment & Forest Education │\n└─────────────────────────────────────────────────────────────┘",
+      "question": "📋 **Read the following public notice / leaflet carefully and answer the questions that follow:**\n\n┌─────────────────────────────────────────────────────────────┐\n│             MAHARASHTRA STATE ECO-CLUB ALLIANCE             │\n│            ANNUAL INTER-SCHOOL NATURE SYMPOSIUM             │\n│                       & TREE CANOPY DRIVE                   │\n│                                                             │\n│  Date: 25th October 2026           Time: 8:30 AM to 2:00 PM  │\n│  Venue: Sambhaji Udyan Amphitheatre, Pune                   │\n│                                                             │\n│  Key Highlights:                                            │\n│  • Free distribution of 5,000 native saplings (Neem, Banyan)│\n│  • Eco-Poster Presentation & Science Quiz for Classes 5-8   │\n│  • Keynote Address by Eminent Environmentalists             │\n│                                                             │\n│  Important Instructions:                                    │\n│  1. Entry is strictly free for all school students.         │\n│  2. Carry your own eco-friendly water bottles (No plastic). │\n│  3. Pre-register your school delegation before 20th Oct.    │\n│                                                             │\n│  Organised by: Department of Environment & Forest Education │\n└─────────────────────────────────────────────────────────────┘\n\n**Question 19.** What is the synonym of 'EMINENT' as in 'Keynote Address by Eminent Environmentalists'?",
+      "options": [
+        "Renowned / Distinguished",
+        "Unknown",
+        "Careless",
+        "Ordinary"
+      ],
+      "answer": 0,
+      "explanation": "Eminent means renowned, distinguished, or celebrated (प्रख्यात / नामवंत).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
     },
     {
       "subject": "इंग्रजी",
       "type": "HOTS",
-      "tagText": "Comprehension कठीण",
-      "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+      "tagText": "Audience & Purpose",
+      "passage": "📋 **Read the following public notice / leaflet carefully and answer the questions that follow:**\n\n┌─────────────────────────────────────────────────────────────┐\n│             MAHARASHTRA STATE ECO-CLUB ALLIANCE             │\n│            ANNUAL INTER-SCHOOL NATURE SYMPOSIUM             │\n│                       & TREE CANOPY DRIVE                   │\n│                                                             │\n│  Date: 25th October 2026           Time: 8:30 AM to 2:00 PM  │\n│  Venue: Sambhaji Udyan Amphitheatre, Pune                   │\n│                                                             │\n│  Key Highlights:                                            │\n│  • Free distribution of 5,000 native saplings (Neem, Banyan)│\n│  • Eco-Poster Presentation & Science Quiz for Classes 5-8   │\n│  • Keynote Address by Eminent Environmentalists             │\n│                                                             │\n│  Important Instructions:                                    │\n│  1. Entry is strictly free for all school students.         │\n│  2. Carry your own eco-friendly water bottles (No plastic). │\n│  3. Pre-register your school delegation before 20th Oct.    │\n│                                                             │\n│  Organised by: Department of Environment & Forest Education │\n└─────────────────────────────────────────────────────────────┘",
+      "question": "📋 **Read the following public notice / leaflet carefully and answer the questions that follow:**\n\n┌─────────────────────────────────────────────────────────────┐\n│             MAHARASHTRA STATE ECO-CLUB ALLIANCE             │\n│            ANNUAL INTER-SCHOOL NATURE SYMPOSIUM             │\n│                       & TREE CANOPY DRIVE                   │\n│                                                             │\n│  Date: 25th October 2026           Time: 8:30 AM to 2:00 PM  │\n│  Venue: Sambhaji Udyan Amphitheatre, Pune                   │\n│                                                             │\n│  Key Highlights:                                            │\n│  • Free distribution of 5,000 native saplings (Neem, Banyan)│\n│  • Eco-Poster Presentation & Science Quiz for Classes 5-8   │\n│  • Keynote Address by Eminent Environmentalists             │\n│                                                             │\n│  Important Instructions:                                    │\n│  1. Entry is strictly free for all school students.         │\n│  2. Carry your own eco-friendly water bottles (No plastic). │\n│  3. Pre-register your school delegation before 20th Oct.    │\n│                                                             │\n│  Organised by: Department of Environment & Forest Education │\n└─────────────────────────────────────────────────────────────┘\n\n**Question 20.** Who is the designated target audience for the Eco-Poster & Science Quiz activities?",
       "options": [
-        "Slow and steady wins the race.",
-        "Slow and steady win the race.",
-        "Slow and steady are winning the race.",
-        "Slow and steady have won the race."
+        "School students of Classes 5 to 8",
+        "College professors only",
+        "Toddlers and infants",
+        "Corporate business executives"
       ],
       "answer": 0,
-      "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
-      "difficulty": "कठीण",
-      "difficultyEn": "Hard"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "PYQ",
-      "pyqYear": "MSCE 2023",
-      "tagText": "Comprehension कठीण",
-      "question": "What is the one word for: 'One who looks at the bright side of things'?",
-      "options": [
-        "Optimist (आशावादी)",
-        "Pessimist (निराशावादी)",
-        "Altruist",
-        "Egoist"
-      ],
-      "answer": 0,
-      "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
+      "explanation": "The notice specifies: 'Eco-Poster Presentation & Science Quiz for Classes 5-8'.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
     }
