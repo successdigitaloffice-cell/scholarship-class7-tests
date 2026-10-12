@@ -6,12 +6,12 @@
     "tagText": "Degrees & Voice सोपे",
     "question": "In topic 'Degrees of Comparison & Voices (Active/Passive)': What is the antonym of 'Courage'?",
     "options": [
-      "Cowardice",
       "Bravery",
+      "Strength",
       "Heroism",
-      "Strength"
+      "Cowardice"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -23,8 +23,8 @@
     "question": "Which prefix can be added to 'HONEST' to make its opposite?",
     "options": [
       "Dis- (Dishonest)",
-      "Un-",
       "In-",
+      "Un-",
       "Mis-"
     ],
     "answer": 0,
@@ -38,12 +38,12 @@
     "tagText": "Degrees & Voice सोपे",
     "question": "A person who treats patients is called a ____.",
     "options": [
+      "Engineer",
       "Doctor",
       "Teacher",
-      "Engineer",
       "Lawyer"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -55,12 +55,12 @@
     "tagText": "Degrees & Voice सोपे",
     "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
     "options": [
-      "Honesty",
-      "Is",
       "Best",
-      "The"
+      "The",
+      "Honesty",
+      "Is"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -71,12 +71,12 @@
     "tagText": "Degrees & Voice सोपे",
     "question": "Which article is used before 'Unique'?",
     "options": [
-      "A (A unique)",
-      "An",
       "The",
-      "No article"
+      "An",
+      "No article",
+      "A (A unique)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -87,12 +87,12 @@
     "tagText": "Degrees & Voice सोपे",
     "question": "What is the comparative degree of 'Good'?",
     "options": [
+      "More good",
       "Better",
       "Best",
-      "Gooder",
-      "More good"
+      "Gooder"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -120,12 +120,12 @@
     "tagText": "Degrees & Voice मध्यम",
     "question": "Add the correct question tag: 'You are coming with us, ____?'",
     "options": [
+      "Won't you?",
       "Aren't you?",
-      "Are you?",
       "Don't you?",
-      "Won't you?"
+      "Are you?"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -136,12 +136,12 @@
     "tagText": "Degrees & Voice मध्यम",
     "question": "The train arrived ____ 6 o'clock in the evening.",
     "options": [
+      "On",
       "At",
       "In",
-      "On",
       "By"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -154,8 +154,8 @@
     "question": "Neither of the boys ____ present yesterday.",
     "options": [
       "Was",
-      "Were",
       "Are",
+      "Were",
       "Have been"
     ],
     "answer": 0,
@@ -169,12 +169,12 @@
     "tagText": "Degrees & Voice मध्यम",
     "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
     "options": [
-      "To regret uselessly for past loss",
-      "To drop milk on floor",
       "To weep loudly",
-      "To drink warm milk"
+      "To drop milk on floor",
+      "To drink warm milk",
+      "To regret uselessly for past loss"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -185,12 +185,12 @@
     "tagText": "Degrees & Voice मध्यम",
     "question": "Identify the type of sentence: 'Please shut the window.'",
     "options": [
-      "Imperative sentence (आज्ञार्थी)",
+      "Exclamatory sentence",
       "Declarative sentence",
-      "Interrogative sentence",
-      "Exclamatory sentence"
+      "Imperative sentence (आज्ञार्थी)",
+      "Interrogative sentence"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -202,12 +202,12 @@
     "tagText": "Degrees & Voice मध्यम",
     "question": "Select the correctly spelt word:",
     "options": [
-      "Accommodation",
+      "Acomodation",
       "Accomodation",
-      "Acommodation",
-      "Acomodation"
+      "Accommodation",
+      "Acommodation"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -218,12 +218,12 @@
     "tagText": "Degrees & Voice मध्यम",
     "question": "What is a 'Centenarian'?",
     "options": [
+      "A century maker",
       "A person who has reached the age of 100",
       "A person who plays cricket",
-      "A person who loves books",
-      "A century maker"
+      "A person who loves books"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -251,12 +251,12 @@
     "tagText": "Degrees & Voice मध्यम",
     "question": "Complete the proverb: 'A stitch in time saves ____.'",
     "options": [
-      "Nine",
       "Ten",
       "Five",
-      "Time"
+      "Time",
+      "Nine"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -267,12 +267,12 @@
     "tagText": "Degrees & Voice कठीण",
     "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
     "options": [
-      "Personification (चेतनगुणोक्ती)",
       "Simile (उपमा)",
-      "Metaphor (रूपक)",
-      "Alliteration (अनुप्रास)"
+      "Alliteration (अनुप्रास)",
+      "Personification (चेतनगुणोक्ती)",
+      "Metaphor (रूपक)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -284,12 +284,12 @@
     "tagText": "Degrees & Voice कठीण",
     "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
     "options": [
-      "Mount Everest is the highest peak in the world.",
       "Mount Everest is as high as any peak.",
+      "Mount Everest is very high peak.",
       "No other peak is the highest.",
-      "Mount Everest is very high peak."
+      "Mount Everest is the highest peak in the world."
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Superlative: 'the highest peak in the world'.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -300,12 +300,12 @@
     "tagText": "Degrees & Voice कठीण",
     "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
     "options": [
-      "Slow and steady wins the race.",
-      "Slow and steady win the race.",
+      "Slow and steady have won the race.",
       "Slow and steady are winning the race.",
-      "Slow and steady have won the race."
+      "Slow and steady wins the race.",
+      "Slow and steady win the race."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -318,8 +318,8 @@
     "question": "What is the one word for: 'One who looks at the bright side of things'?",
     "options": [
       "Optimist (आशावादी)",
-      "Pessimist (निराशावादी)",
       "Altruist",
+      "Pessimist (निराशावादी)",
       "Egoist"
     ],
     "answer": 0,
