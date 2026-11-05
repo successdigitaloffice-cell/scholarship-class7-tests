@@ -15,7 +15,7 @@
         body {
             font-family: 'Mukta', 'Inter', sans-serif;
             background: #f8fafc;
-            background-image: radial-gradient(#cbd5e1 1px, transparent 1px);
+            background-image: radial-gradient(#e2e8f0 1px, transparent 1px);
             background-size: 20px 20px;
         }
 
@@ -24,25 +24,25 @@
         }
         .test-card:hover {
             transform: translateY(-4px);
-            box-shadow: 0 12px 24px -10px rgba(15, 118, 110, 0.2);
+            box-shadow: 0 12px 24px -10px rgba(13, 148, 136, 0.2);
         }
     </style>
 </head>
 <body class="text-gray-800 antialiased min-h-screen flex flex-col selection:bg-teal-200 selection:text-teal-900">
 
     <!-- Top Banner -->
-    <header class="bg-gradient-to-r from-teal-800 via-cyan-800 to-indigo-900 text-white shadow-xl sticky top-0 z-50">
+    <header class="bg-gradient-to-r from-teal-900 via-teal-800 to-indigo-900 text-white shadow-xl sticky top-0 z-50">
         <div class="container mx-auto px-4 py-4 flex flex-col md:flex-row md:items-center justify-between gap-4">
             <div class="flex items-center gap-3">
                 <div class="bg-white p-2.5 rounded-2xl shadow-md text-teal-700">
-                    <i class="fas fa-user-graduate text-3xl"></i>
+                    <i class="fas fa-graduation-cap text-3xl"></i>
                 </div>
                 <div>
                     <div class="flex items-center gap-2">
                         <h1 class="text-xl md:text-2xl font-black tracking-wide">इयत्ता सातवी शिष्यवृत्ती परीक्षा</h1>
                         <span class="bg-amber-400 text-teal-950 font-black text-[10px] px-2 py-0.5 rounded-full uppercase">MSCE उच्च प्राथमिक</span>
                     </div>
-                    <p class="text-xs md:text-sm text-teal-100 font-medium">६० उच्च काठिण्यपातळी टॉपिक-वाइज चाचण्या | पेपर १ व पेपर २ | PYQ व आकृत्यांसह</p>
+                    <p class="text-xs md:text-sm text-teal-100 font-medium">६० टॉपिक-वाईज सराव चाचण्या | पेपर १ व पेपर २ | PYQ व आकृत्यांसह</p>
                 </div>
             </div>
 
@@ -75,7 +75,7 @@
                         <span class="text-xs text-amber-300 font-extrabold">⭐ Success Digital Classes</span>
                     </div>
                     <h2 class="text-lg md:text-xl font-black text-white">
-                        🚀 इयत्ता सातवी संपूर्ण शिष्यवृत्ती टेस्ट सिरीज, All Maharashtra Live Rank व PDF नोट्स!
+                        🚀 सातवी शिष्यवृत्ती गुणवत्ता यादी, All Maharashtra Live Rank व PDF नोट्स!
                     </h2>
                     <p class="text-xs md:text-sm text-teal-200 mt-1">
                         दहा हजारांपेक्षा जास्त सराव प्रश्न, मागील वर्षांच्या सर्व प्रश्नपत्रिका (PYQ) व व्हिडिओ लेक्चर्ससाठी आजच ॲप डाऊनलोड करा.
@@ -118,7 +118,11 @@
 
         <!-- Grid of Tests -->
         <div id="tests-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-            <!-- Dynamically populated -->
+            <!-- Loading Skeleton placeholder -->
+            <div class="col-span-full py-16 text-center">
+                <div class="inline-block animate-spin rounded-full h-10 w-10 border-4 border-teal-600 border-t-transparent mb-3"></div>
+                <p class="text-gray-600 font-bold text-base">सर्व ६० सराव चाचण्या लोड होत आहेत...</p>
+            </div>
         </div>
 
     </main>
@@ -127,7 +131,7 @@
     <footer class="bg-gray-900 text-gray-400 py-8 text-center text-sm mt-auto border-t border-gray-800">
         <div class="container mx-auto px-4">
             <h4 class="text-white font-black text-lg mb-2">SUCCESS DIGITAL</h4>
-            <p class="text-sm text-gray-400 mb-2">महाराष्ट्र राज्य परीक्षा परिषद (MSCE) पुणे उच्च प्राथमिक शिष्यवृत्ती टेस्ट सिरीज</p>
+            <p class="text-sm text-gray-400 mb-2">महाराष्ट्र राज्य परीक्षा परिषद (MSCE) पुणे शिष्यवृत्ती टेस्ट सिरीज</p>
             <p class="text-xs text-gray-600">&copy; 2026 Success Digital. All rights reserved.</p>
         </div>
     </footer>
@@ -136,14 +140,29 @@
     <script src="data/scholarship_class7_bank.js"></script>
     <script>
         let currentFilter = 'all';
-
         const testsGrid = document.getElementById('tests-grid');
 
-        function renderTests() {
-            testsGrid.innerHTML = '';
+        function renderTests(retries = 0) {
             const meta = window.scholarshipClass7Meta;
-            if (!meta) return;
+            if (!meta || !meta.papers || !meta.papers.paper1) {
+                if (retries < 25) {
+                    setTimeout(() => renderTests(retries + 1), 100);
+                    return;
+                }
+                testsGrid.innerHTML = `
+                    <div class="col-span-full text-center py-12 bg-white rounded-3xl p-8 border border-red-100 shadow-sm">
+                        <i class="fas fa-exclamation-circle text-amber-500 text-4xl mb-3"></i>
+                        <h3 class="text-lg font-black text-gray-800">चाचण्या लोड करण्यात समस्या आली</h3>
+                        <p class="text-sm text-gray-500 mt-1">कृपया पेज पुन्हा रीलोड करा.</p>
+                        <button onclick="location.reload()" class="mt-4 px-6 py-2.5 bg-teal-600 text-white font-black rounded-xl hover:bg-teal-700 transition">
+                            <i class="fas fa-redo mr-2"></i> पुन्हा लोड करा
+                        </button>
+                    </div>
+                `;
+                return;
+            }
 
+            testsGrid.innerHTML = '';
             const papersToRender = currentFilter === 'all' ? ['paper1', 'paper2'] : [currentFilter];
 
             papersToRender.forEach(paperKey => {
@@ -189,6 +208,7 @@
                     testsGrid.appendChild(card);
                 }
             });
+            handleSearch();
         }
 
         function filterPaper(key) {
@@ -207,20 +227,27 @@
         }
 
         function handleSearch() {
-            const query = document.getElementById('search-input').value.toLowerCase().trim();
-            document.querySelectorAll('.test-card').forEach(card => {
+            const query = (document.getElementById('search-input').value || '').toLowerCase().trim();
+            const cards = document.querySelectorAll('.test-card');
+            let visibleCount = 0;
+            cards.forEach(card => {
                 const name = card.dataset.name;
                 if (!query || name.includes(query)) {
                     card.style.display = 'flex';
+                    visibleCount++;
                 } else {
                     card.style.display = 'none';
                 }
             });
         }
 
-        window.onload = function() {
+        // Start render immediately and also on DOMContentLoaded / window load
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', () => renderTests());
+        } else {
             renderTests();
-        };
+        }
+        window.addEventListener('load', () => renderTests());
     </script>
 </body>
 </html>
