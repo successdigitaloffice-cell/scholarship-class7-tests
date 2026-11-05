@@ -115,7 +115,7 @@
             <p id="welcome-desc" class="text-gray-600 text-sm md:text-base max-w-lg mx-auto mb-6">अधिकृत MSCE अभ्यासक्रमावर आधारित उच्च प्राथमिक गुणवत्तापूर्ण प्रश्नसंच.</p>
             
             <!-- Info Badges -->
-            <div class="grid grid-cols-3 gap-3 max-w-md mx-auto mb-6">
+            <div class="grid grid-cols-3 gap-3 max-w-md mx-auto mb-5">
                 <div class="bg-slate-50 p-3 rounded-2xl border border-slate-200/80">
                     <i class="fas fa-list-ol text-teal-600 mb-1"></i>
                     <p class="text-xs text-gray-500 font-bold">एकूण प्रश्न</p>
@@ -131,6 +131,13 @@
                     <p class="text-xs text-gray-500 font-bold">वेळ मर्यादा</p>
                     <p class="text-lg font-black text-slate-800">20 मिनिटे</p>
                 </div>
+            </div>
+
+            <!-- PRIMARY START TEST CTA - PROMINENT AT TOP ABOVE FOLD -->
+            <div class="my-5">
+                <button onclick="startQuiz()" id="start-btn" class="w-full sm:w-auto bg-gradient-to-r from-teal-600 via-cyan-600 to-indigo-700 hover:from-teal-700 hover:to-indigo-800 text-white font-black text-lg md:text-xl py-4 px-12 rounded-2xl shadow-xl hover:shadow-teal-500/30 transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3">
+                    <span>चाचणी सुरू करा (Start Test)</span> <i class="fas fa-arrow-right"></i>
+                </button>
             </div>
 
             <!-- Exam Instructions Box -->
@@ -174,7 +181,7 @@
             </div>
 
             <!-- WhatsApp Scholarship Group Join Card -->
-            <div class="mb-8 p-4.5 rounded-2xl bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-900 text-white shadow-xl border border-emerald-500/40 text-left flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div class="mb-6 p-4.5 rounded-2xl bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-900 text-white shadow-xl border border-emerald-500/40 text-left flex flex-col sm:flex-row items-center justify-between gap-4">
                 <div class="flex items-center gap-3.5">
                     <div class="w-12 h-12 rounded-2xl bg-gradient-to-tr from-emerald-400 to-green-500 text-slate-950 flex items-center justify-center text-2xl shadow-lg shrink-0">
                         <i class="fab fa-whatsapp"></i>
@@ -198,9 +205,12 @@
                 </a>
             </div>
 
-            <button onclick="startQuiz()" id="start-btn" class="w-full sm:w-auto bg-gradient-to-r from-teal-600 via-cyan-600 to-indigo-700 hover:from-teal-700 hover:to-indigo-800 text-white font-extrabold text-lg py-4 px-10 rounded-2xl shadow-xl transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3">
-                <span>चाचणी सुरू करा</span> <i class="fas fa-arrow-right"></i>
-            </button>
+            <!-- Secondary Start Button at Bottom -->
+            <div class="mt-4 mb-2">
+                <button onclick="startQuiz()" class="w-full sm:w-auto bg-teal-600 hover:bg-teal-700 text-white font-extrabold text-base py-3.5 px-10 rounded-2xl shadow-lg transition inline-flex items-center justify-center gap-2">
+                    <span>चाचणी सुरू करा</span> <i class="fas fa-play text-xs"></i>
+                </button>
+            </div>
         </div>
 
         <!-- Quiz Container -->
@@ -343,6 +353,18 @@
                 </div>
             </div>
 
+            <!-- Comprehensive Answer Key & Question Review Section -->
+            <div class="my-8 text-left">
+                <div class="flex items-center justify-between mb-4 pb-2 border-b border-gray-200">
+                    <h3 class="text-lg md:text-xl font-black text-gray-900 flex items-center gap-2">
+                        <i class="fas fa-clipboard-check text-teal-600"></i>
+                        <span>सविस्तर प्रश्नोत्तर विश्लेषण व Answer Key</span>
+                    </h3>
+                    <span class="text-xs font-bold text-gray-500">सर्व २० प्रश्न व उत्तरे</span>
+                </div>
+                <div id="answer-key-container" class="space-y-4"></div>
+            </div>
+
             <!-- Action Buttons -->
             <div class="flex justify-center gap-3 flex-wrap">
                 <a href="https://chat.whatsapp.com/FtVpto7go849Ns7s3L8dk4" target="_blank" class="bg-gradient-to-r from-emerald-600 to-green-600 hover:from-emerald-500 hover:to-green-500 text-white font-extrabold px-6 py-2.5 rounded-xl shadow-lg transition transform hover:scale-105 active:scale-95 flex items-center gap-2">
@@ -370,10 +392,10 @@
         </div>
     </footer>
 
-    <!-- Scripts -->
-    <script src="data/class7_paper1.js"></script>
-    <script src="data/class7_paper2.js"></script>
-    <script src="data/scholarship_class7_bank.js"></script>
+    <!-- Scripts with Cache Busting -->
+    <script src="data/class7_paper1.js?v=20261105_v3"></script>
+    <script src="data/class7_paper2.js?v=20261105_v3"></script>
+    <script src="data/scholarship_class7_bank.js?v=20261105_v3"></script>
 
     <script>
         // 1. Parameter Normalization
@@ -416,29 +438,43 @@
         const nextBtn = document.getElementById('next-btn');
         const prevBtn = document.getElementById('prev-btn');
 
-        // Multi-tier question resolver
+        // Multi-tier question resolver with auto-retry
         async function resolveQuestions() {
-            // Tier 1: Try helper function from bank
-            if (typeof window.getTestQuestionsClass7 === 'function') {
-                try {
-                    const res = window.getTestQuestionsClass7(paperKey, testNumber);
-                    if (Array.isArray(res) && res.length > 0) return res;
-                } catch (e) { console.warn(e); }
-            }
-            // Tier 2: Check global objects directly
-            if (window.scholarshipClass7 && window.scholarshipClass7[paperKey] && window.scholarshipClass7[paperKey][testNumber]) {
-                return window.scholarshipClass7[paperKey][testNumber];
-            }
-            // Tier 3: Fetch local standalone questions.json
-            try {
-                const relUrl = `paper-${paperNum}/test-${paddedTestNum}/questions.json`;
-                const resp = await fetch(relUrl);
-                if (resp.ok) {
-                    const data = await resp.json();
-                    if (Array.isArray(data) && data.length > 0) return data;
+            // Tier 1 & Tier 2: Check global script objects with up to 15 quick attempts (1.5s)
+            for (let attempt = 0; attempt < 15; attempt++) {
+                if (typeof window.getTestQuestionsClass7 === 'function') {
+                    try {
+                        const res = window.getTestQuestionsClass7(paperKey, testNumber);
+                        if (Array.isArray(res) && res.length > 0) return res;
+                    } catch (e) { console.warn(e); }
                 }
-            } catch (e) {
-                console.warn('Local JSON fallback fetch failed:', e);
+                if (typeof window.getTestQuestions === 'function') {
+                    try {
+                        const res = window.getTestQuestions(paperKey, testNumber);
+                        if (Array.isArray(res) && res.length > 0) return res;
+                    } catch (e) { console.warn(e); }
+                }
+                if (window.scholarshipClass7 && window.scholarshipClass7[paperKey] && window.scholarshipClass7[paperKey][testNumber]) {
+                    return window.scholarshipClass7[paperKey][testNumber];
+                }
+                await new Promise(r => setTimeout(r, 100));
+            }
+
+            // Tier 3: Fetch local standalone questions.json
+            const relCandidates = [
+                `paper-${paperNum}/test-${paddedTestNum}/questions.json`,
+                `./paper-${paperNum}/test-${paddedTestNum}/questions.json`,
+                `questions.json`
+            ];
+            for (const relUrl of relCandidates) {
+                try {
+                    const absUrl = new URL(relUrl, window.location.href).href;
+                    const resp = await fetch(absUrl);
+                    if (resp.ok) {
+                        const data = await resp.json();
+                        if (Array.isArray(data) && data.length > 0) return data;
+                    }
+                } catch (e) { /* continue */ }
             }
             return [];
         }
@@ -480,13 +516,19 @@
             document.getElementById('total-q-badge').textContent = quizData.length;
             startBtn.disabled = false;
             startBtn.onclick = startQuiz;
-            startBtn.className = "w-full sm:w-auto bg-gradient-to-r from-teal-600 via-cyan-600 to-indigo-700 hover:from-teal-700 hover:to-indigo-800 text-white font-extrabold text-lg py-4 px-10 rounded-2xl shadow-xl transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3";
-            startBtn.innerHTML = `<span>चाचणी सुरू करा</span> <i class="fas fa-arrow-right"></i>`;
+            startBtn.className = "w-full sm:w-auto bg-gradient-to-r from-teal-600 via-cyan-600 to-indigo-700 hover:from-teal-700 hover:to-indigo-800 text-white font-black text-lg md:text-xl py-4 px-12 rounded-2xl shadow-xl hover:shadow-teal-500/30 transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3";
+            startBtn.innerHTML = `<span>चाचणी सुरू करा (Start Test)</span> <i class="fas fa-arrow-right"></i>`;
         }
 
-        window.onload = function() {
+        // Initialize immediately without waiting for slow external CDN fonts
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initTest);
+        } else {
             initTest();
-        };
+        }
+        window.addEventListener('load', () => {
+            if (!quizData || quizData.length === 0) initTest();
+        });
 
         function startQuiz() {
             welcomeScreen.classList.add('hidden');
@@ -744,6 +786,60 @@ ${cleanPassage}
             else if (accuracy >= 50) rankText = "३५";
             else rankText = "७५+";
             document.getElementById('final-rank').textContent = rankText;
+
+            renderAnswerKeyReview();
+        }
+
+        function renderAnswerKeyReview() {
+            const container = document.getElementById('answer-key-container');
+            if (!container) return;
+            container.innerHTML = '';
+
+            const marathiNumbers = ['(१)', '(२)', '(३)', '(४)'];
+            quizData.forEach((q, idx) => {
+                const userAns = userAnswers[idx];
+                const isCorrect = userAns === q.answer;
+
+                const card = document.createElement('div');
+                card.className = `p-4 md:p-5 rounded-2xl border-2 mb-4 text-left transition ${isCorrect ? 'border-green-300 bg-green-50/50' : 'border-rose-300 bg-rose-50/50'}`;
+
+                let statusBadge = isCorrect
+                    ? `<span class="bg-green-100 text-green-800 text-xs font-black px-3 py-1 rounded-full"><i class="fas fa-check mr-1"></i>बरोबर (+२ गुण)</span>`
+                    : `<span class="bg-rose-100 text-rose-800 text-xs font-black px-3 py-1 rounded-full"><i class="fas fa-times mr-1"></i>चूक (० गुण)</span>`;
+
+                let optionsHtml = q.options.map((opt, oIdx) => {
+                    let optStyle = "border-gray-200 bg-white text-gray-700";
+                    let icon = "";
+                    if (oIdx === q.answer) {
+                        optStyle = "border-green-500 bg-green-100/90 text-green-950 font-black ring-1 ring-green-400";
+                        icon = '<i class="fas fa-check-circle text-green-600 text-sm ml-auto"></i>';
+                    } else if (oIdx === userAns) {
+                        optStyle = "border-rose-400 bg-rose-100/90 text-rose-950 font-bold ring-1 ring-rose-400";
+                        icon = '<i class="fas fa-times-circle text-rose-600 text-sm ml-auto"></i>';
+                    }
+                    return `<div class="p-2.5 rounded-xl border text-xs md:text-sm flex items-center gap-2 mb-1.5 ${optStyle}">
+                        <span class="font-bold shrink-0">${marathiNumbers[oIdx] || `(${oIdx+1})`}</span>
+                        <span class="flex-grow">${opt}</span>
+                        ${icon}
+                    </div>`;
+                }).join('');
+
+                let cleanQ = q.question.replace(/\*\*/g, '').trim();
+                let cleanExp = (q.explanation || 'योग्य पर्याय दिलेला आहे.').replace(/\*\*/g, '').trim();
+
+                card.innerHTML = `
+                    <div class="flex items-center justify-between mb-2.5 pb-2 border-b border-gray-200">
+                        <span class="text-xs md:text-sm font-black text-gray-800">प्रश्न क्र. ${idx + 1}</span>
+                        ${statusBadge}
+                    </div>
+                    <p class="text-sm md:text-base font-extrabold text-gray-900 mb-3 whitespace-pre-line leading-relaxed">${cleanQ}</p>
+                    <div class="space-y-1 mb-3">${optionsHtml}</div>
+                    <div class="p-3 bg-amber-50 rounded-xl border border-amber-200 text-xs md:text-sm text-amber-950 leading-relaxed">
+                        <span class="font-bold text-amber-900"><i class="fas fa-lightbulb text-amber-600 mr-1"></i> सविस्तर स्पष्टीकरण:</span> ${cleanExp}
+                    </div>
+                `;
+                container.appendChild(card);
+            });
         }
 
         function shareScore() {
