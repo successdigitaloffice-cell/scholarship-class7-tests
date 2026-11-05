@@ -57,6 +57,11 @@
         .pulse-btn-anim {
             animation: pulseGlow 2.5s infinite;
         }
+
+        .diagram-display-wrapper svg {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body class="text-gray-800 antialiased min-h-screen flex flex-col selection:bg-teal-200 selection:text-teal-900">
@@ -110,7 +115,7 @@
             <p id="welcome-desc" class="text-gray-600 text-sm md:text-base max-w-lg mx-auto mb-6">अधिकृत MSCE अभ्यासक्रमावर आधारित उच्च प्राथमिक गुणवत्तापूर्ण प्रश्नसंच.</p>
             
             <!-- Info Badges -->
-            <div class="grid grid-cols-3 gap-3 max-w-md mx-auto mb-8">
+            <div class="grid grid-cols-3 gap-3 max-w-md mx-auto mb-6">
                 <div class="bg-slate-50 p-3 rounded-2xl border border-slate-200/80">
                     <i class="fas fa-list-ol text-teal-600 mb-1"></i>
                     <p class="text-xs text-gray-500 font-bold">एकूण प्रश्न</p>
@@ -128,8 +133,23 @@
                 </div>
             </div>
 
+            <!-- Exam Instructions Box -->
+            <div class="my-6 p-4 md:p-5 rounded-2xl bg-teal-50/70 border border-teal-200/80 text-left text-xs md:text-sm text-gray-700">
+                <div class="flex items-center gap-2 font-black text-teal-900 mb-2.5">
+                    <i class="fas fa-info-circle text-teal-600 text-base"></i>
+                    <span>महत्त्वाच्या सूचना (Exam Instructions):</span>
+                </div>
+                <ul class="space-y-1.5 list-disc list-inside font-medium text-gray-600">
+                    <li>सदर चाचणीमध्ये एकूण <b>२० बहुपर्यायी प्रश्न</b> आहेत.</li>
+                    <li>प्रत्येक प्रश्नाला <b>२ गुण</b> असून चाचणी एकूण <b>४० गुणांची</b> आहे.</li>
+                    <li>चाचणी सोडवण्यासाठी <b>२० मिनिटांची</b> वेळ मर्यादा आहे.</li>
+                    <li>चुकीच्या उत्तरासाठी कोणतेही <b>नकारात्मक गुण (Negative Marking) नाहीत</b>.</li>
+                    <li>उत्तर निवडताच अचूक उत्तर आणि <b>सविस्तर स्पष्टीकरण</b> लगेच दिसेल.</li>
+                </ul>
+            </div>
+
             <!-- Welcome App Promotion Card -->
-            <div class="mb-8 p-5 rounded-2xl bg-gradient-to-r from-teal-950 via-cyan-950 to-slate-900 text-white shadow-xl border border-teal-700/50 text-left flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div class="mb-6 p-5 rounded-2xl bg-gradient-to-r from-teal-950 via-cyan-950 to-slate-900 text-white shadow-xl border border-teal-700/50 text-left flex flex-col sm:flex-row items-center justify-between gap-4">
                 <div class="flex items-center gap-3.5">
                     <div class="w-12 h-12 rounded-2xl bg-gradient-to-tr from-amber-400 to-yellow-500 text-slate-950 flex items-center justify-center text-2xl shadow-lg shrink-0">
                         <i class="fab fa-google-play"></i>
@@ -185,6 +205,7 @@
 
         <!-- Quiz Container -->
         <div id="quiz-container" class="hidden fade-in space-y-6">
+            
             <div class="flex flex-wrap items-center justify-between gap-2 bg-white px-5 py-3 rounded-2xl shadow-sm border border-gray-100">
                 <div class="flex flex-wrap items-center gap-2">
                     <span id="subject-tag" class="bg-teal-100 text-teal-800 text-xs font-bold px-3 py-1 rounded-full uppercase">विषय</span>
@@ -208,8 +229,10 @@
                     प्रश्न लोड होत आहे...
                 </h3>
 
+                <!-- Options -->
                 <div id="options-container" class="space-y-3 mb-6"></div>
 
+                <!-- Explanation Box -->
                 <div id="explanation-box" class="hidden mt-6 p-5 rounded-2xl bg-amber-50 border border-amber-200 fade-in text-left">
                     <div class="flex items-start gap-3">
                         <i class="fas fa-lightbulb text-amber-500 text-xl mt-0.5"></i>
@@ -243,13 +266,14 @@
                                 </p>
                             </div>
                         </div>
-                        <a href="https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share" target="_blank" class="w-full sm:w-auto bg-gradient-to-r from-amber-400 via-yellow-400 to-amber-500 hover:from-amber-300 hover:to-yellow-400 text-slate-950 font-black text-xs md:text-sm px-5 py-3 rounded-xl shadow-lg hover:shadow-amber-500/30 transition transform hover:scale-105 active:scale-95 flex items-center justify-center gap-2 whitespace-nowrap shrink-0">
+                        <a href="https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share" target="_blank" class="w-full sm:w-auto bg-gradient-to-r from-amber-400 via-yellow-400 to-amber-500 hover:from-amber-300 hover:to-yellow-400 text-slate-950 font-black text-xs md:text-sm px-5 py-3 rounded-xl shadow-lg hover:shadow-yellow-500/30 transition transform hover:scale-105 active:scale-95 flex items-center justify-center gap-2 whitespace-nowrap shrink-0">
                             <i class="fas fa-download text-sm"></i>
                             <span>टेस्ट सिरीज जॉइन करा (Download App)</span>
                         </a>
                     </div>
                 </div>
 
+                <!-- Next / Submit Button -->
                 <div class="flex justify-between items-center mt-4 pt-4 border-t border-gray-100">
                     <button id="prev-btn" onclick="prevQuestion()" class="text-gray-500 hover:text-teal-600 font-bold text-sm px-4 py-2 rounded-xl transition flex items-center gap-1">
                         <i class="fas fa-arrow-left"></i> मागे
@@ -267,8 +291,9 @@
                 <i class="fas fa-trophy text-4xl"></i>
             </div>
             <h2 class="text-2xl md:text-3xl font-black text-gray-900 mb-1">अभिनंदन! चाचणी पूर्ण झाली</h2>
-            <p class="text-gray-500 text-sm mb-6">तुमचा निकाल खालीलप्रमाणे आहे:</p>
+            <p class="text-gray-500 text-sm mb-6" id="result-subtitle">तुमचा निकाल खालीलप्रमाणे आहे:</p>
 
+            <!-- Score Stats -->
             <div class="grid grid-cols-2 md:grid-cols-4 gap-3 max-w-xl mx-auto mb-6">
                 <div class="bg-teal-50 p-4 rounded-2xl border border-teal-200">
                     <p class="text-xs font-bold text-teal-800">मिळालेले गुण</p>
@@ -289,28 +314,28 @@
             </div>
 
             <!-- Mega App Conversion Card on Result Screen -->
-            <div class="my-6 p-6 md:p-8 rounded-3xl bg-gradient-to-br from-teal-950 via-cyan-950 to-slate-950 text-white shadow-2xl border-2 border-amber-400/40 text-left relative overflow-hidden">
-                <div class="absolute -right-10 -bottom-10 w-48 h-48 bg-amber-400/15 rounded-full blur-2xl pointer-events-none"></div>
+            <div class="my-6 p-6 md:p-8 rounded-3xl bg-gradient-to-br from-teal-950 via-cyan-950 to-slate-950 text-white shadow-2xl border-2 border-yellow-400/40 text-left relative overflow-hidden">
+                <div class="absolute -right-10 -bottom-10 w-48 h-48 bg-yellow-400/15 rounded-full blur-2xl pointer-events-none"></div>
                 <div class="flex flex-col md:flex-row items-center justify-between gap-6">
                     <div>
-                        <div class="inline-flex items-center gap-2 bg-amber-400 text-teal-950 font-black text-xs px-3 py-1 rounded-full uppercase mb-2">
+                        <div class="inline-flex items-center gap-2 bg-yellow-400 text-teal-950 font-black text-xs px-3 py-1 rounded-full uppercase mb-2">
                             <i class="fas fa-crown"></i> Success Digital Classes
                         </div>
                         <h3 class="text-xl md:text-2xl font-black text-white mb-2 leading-tight">
-                            🚀 उच्च प्राथमिक शिष्यवृत्ती गुणवत्ता यादीत स्थान मिळवायचे आहे का?
+                            🚀 शिष्यवृत्ती गुणवत्ता यादीत स्थान मिळवायचे आहे का?
                         </h3>
                         <p class="text-sm text-teal-100 font-medium mb-4">
-                            आमच्या अधिकृत मोबाइल ॲपवर सातवीची संपूर्ण १२० टॉपिक-वाइज टेस्ट सिरीज उपलब्ध आहे:
+                            आमच्या अधिकृत मोबाईल ॲपवर संपूर्ण १२० टॉपिक-वाईज टेस्ट सिरीज उपलब्ध आहे:
                         </p>
-                        <div class="grid grid-cols-2 gap-2 text-xs text-amber-200 font-bold">
-                            <div><i class="fas fa-check-circle text-teal-400 mr-1.5"></i>१२० संपूर्ण सराव चाचण्या</div>
-                            <div><i class="fas fa-check-circle text-teal-400 mr-1.5"></i>All Maharashtra Live Rank</div>
-                            <div><i class="fas fa-check-circle text-teal-400 mr-1.5"></i>सर्व मागील वर्षांचे PYQ</div>
-                            <div><i class="fas fa-check-circle text-teal-400 mr-1.5"></i>हस्तलिखित PDF नोट्स</div>
+                        <div class="grid grid-cols-2 gap-2 text-xs text-yellow-200 font-bold">
+                            <div><i class="fas fa-check-circle text-green-400 mr-1.5"></i>१२० संपूर्ण सराव चाचण्या</div>
+                            <div><i class="fas fa-check-circle text-green-400 mr-1.5"></i>All Maharashtra Live Rank</div>
+                            <div><i class="fas fa-check-circle text-green-400 mr-1.5"></i>सर्व मागील वर्षांचे PYQ</div>
+                            <div><i class="fas fa-check-circle text-green-400 mr-1.5"></i>हस्तलिखित PDF नोट्स</div>
                         </div>
                     </div>
                     <div class="w-full md:w-auto text-center shrink-0">
-                        <a href="https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share" target="_blank" class="block w-full md:w-auto bg-gradient-to-r from-amber-400 via-yellow-400 to-amber-500 hover:from-amber-300 hover:to-yellow-400 text-slate-950 font-black text-base px-8 py-4 rounded-2xl shadow-xl transition transform hover:scale-105 active:scale-95 pulse-btn-anim">
+                        <a href="https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share" target="_blank" class="block w-full md:w-auto bg-gradient-to-r from-yellow-400 via-amber-400 to-yellow-500 hover:from-yellow-300 hover:to-amber-400 text-slate-950 font-black text-base px-8 py-4 rounded-2xl shadow-xl transition transform hover:scale-105 active:scale-95 pulse-btn-anim">
                             <i class="fab fa-google-play mr-2"></i> Play Store वरून ॲप डाऊनलोड करा
                         </a>
                         <span class="block text-[11px] text-teal-200 mt-2 font-semibold">⭐ 4.8 Rating • 10,000+ Students Active</span>
@@ -318,6 +343,7 @@
                 </div>
             </div>
 
+            <!-- Action Buttons -->
             <div class="flex justify-center gap-3 flex-wrap">
                 <a href="https://chat.whatsapp.com/FtVpto7go849Ns7s3L8dk4" target="_blank" class="bg-gradient-to-r from-emerald-600 to-green-600 hover:from-emerald-500 hover:to-green-500 text-white font-extrabold px-6 py-2.5 rounded-xl shadow-lg transition transform hover:scale-105 active:scale-95 flex items-center gap-2">
                     <i class="fab fa-whatsapp text-lg"></i> स्कॉलरशिप ग्रुप जॉइन करा
@@ -336,10 +362,11 @@
 
     </main>
 
+    <!-- Footer -->
     <footer class="bg-gray-900 text-gray-400 py-6 text-center text-sm mt-auto border-t border-gray-800">
         <div class="container mx-auto px-4">
             <h4 class="text-white font-bold text-base mb-1">SUCCESS DIGITAL — शिष्यवृत्ती परीक्षा पोर्टल</h4>
-            <p class="text-xs text-gray-500">इयत्ता सातवी अधिकृत MSCE सराव चाचण्या</p>
+            <p class="text-xs text-gray-500">इयत्ता चौथी व सातवी अधिकृत MSCE सराव चाचण्या</p>
         </div>
     </footer>
 
@@ -349,20 +376,38 @@
     <script src="data/scholarship_class7_bank.js"></script>
 
     <script>
-        const urlParams = new URLSearchParams(window.location.search);
-        let paperParam = urlParams.get('paper') || 'paper1';
-        if (paperParam === '1') paperParam = 'paper1';
-        if (paperParam === '2') paperParam = 'paper2';
+        // 1. Parameter Normalization
+        function getNormalizedParams() {
+            const urlParams = new URLSearchParams(window.location.search);
+            let rawPaper = (urlParams.get('paper') || urlParams.get('p') || urlParams.get('Paper') || 'paper1').toLowerCase().trim();
+            let paperKey = 'paper1';
+            if (rawPaper.includes('2') || rawPaper.includes('ii') || rawPaper === 'p2') {
+                paperKey = 'paper2';
+            } else {
+                paperKey = 'paper1';
+            }
 
-        const testNum = parseInt(urlParams.get('test') || '1', 10);
+            let rawTest = urlParams.get('test') || urlParams.get('t') || urlParams.get('Test') || '1';
+            let digits = String(rawTest).replace(/\D+/g, '');
+            let testNumber = parseInt(digits, 10);
+            if (isNaN(testNumber) || testNumber < 1) testNumber = 1;
+            if (testNumber > 30) testNumber = 30;
+
+            return { paperKey, testNumber };
+        }
+
+        const { paperKey, testNumber } = getNormalizedParams();
+        const paperNum = paperKey === 'paper1' ? 1 : 2;
+        const paddedTestNum = String(testNumber).padStart(2, '0');
 
         let quizData = [];
         let currentQuestionIndex = 0;
         let userAnswers = [];
-        let timeLeft = 20 * 60;
+        let timeLeft = 20 * 60; // 20 mins
         let timerInterval = null;
         let testTitle = "";
 
+        // Elements
         const welcomeScreen = document.getElementById('welcome-screen');
         const quizContainer = document.getElementById('quiz-container');
         const resultScreen = document.getElementById('result-screen');
@@ -371,26 +416,76 @@
         const nextBtn = document.getElementById('next-btn');
         const prevBtn = document.getElementById('prev-btn');
 
-        window.onload = function() {
-            const paperMeta = window.scholarshipClass7Meta ? window.scholarshipClass7Meta.papers[paperParam] : null;
-            if (paperMeta && paperMeta.testNames[testNum]) {
-                testTitle = paperMeta.testNames[testNum];
+        // Multi-tier question resolver
+        async function resolveQuestions() {
+            // Tier 1: Try helper function from bank
+            if (typeof window.getTestQuestionsClass7 === 'function') {
+                try {
+                    const res = window.getTestQuestionsClass7(paperKey, testNumber);
+                    if (Array.isArray(res) && res.length > 0) return res;
+                } catch (e) { console.warn(e); }
+            }
+            // Tier 2: Check global objects directly
+            if (window.scholarshipClass7 && window.scholarshipClass7[paperKey] && window.scholarshipClass7[paperKey][testNumber]) {
+                return window.scholarshipClass7[paperKey][testNumber];
+            }
+            // Tier 3: Fetch local standalone questions.json
+            try {
+                const relUrl = `paper-${paperNum}/test-${paddedTestNum}/questions.json`;
+                const resp = await fetch(relUrl);
+                if (resp.ok) {
+                    const data = await resp.json();
+                    if (Array.isArray(data) && data.length > 0) return data;
+                }
+            } catch (e) {
+                console.warn('Local JSON fallback fetch failed:', e);
+            }
+            return [];
+        }
+
+        async function initTest() {
+            const meta = window.scholarshipClass7Meta;
+            const paperMeta = (meta && meta.papers) ? meta.papers[paperKey] : null;
+            if (paperMeta && paperMeta.testNames && paperMeta.testNames[testNumber]) {
+                testTitle = paperMeta.testNames[testNumber];
             } else {
-                testTitle = `चाचणी क्र. ${testNum}`;
+                testTitle = `चाचणी क्र. ${testNumber}`;
             }
 
             document.getElementById('page-title').textContent = `${testTitle} | सातवी स्कॉलरशिप`;
             document.getElementById('welcome-title').textContent = testTitle;
-            document.getElementById('welcome-badge').textContent = paperParam === 'paper1' ? 'पेपर १ (मराठी + गणित)' : 'पेपर २ (इंग्रजी + बुद्धिमत्ता)';
+            document.getElementById('welcome-badge').textContent = paperKey === 'paper1' ? 'पेपर १ (मराठी + गणित)' : 'पेपर २ (इंग्रजी + बुद्धिमत्ता)';
 
-            if (window.getTestQuestionsClass7) {
-                quizData = window.getTestQuestionsClass7(paperParam, testNum);
-            }
+            const startBtn = document.getElementById('start-btn');
+            startBtn.disabled = true;
+            startBtn.innerHTML = `<span><i class="fas fa-spinner fa-spin mr-2"></i>प्रश्न लोड होत आहेत...</span>`;
+
+            quizData = await resolveQuestions();
+
             if (!quizData || quizData.length === 0) {
-                alert('चाचणीचा प्रश्नसंच उपलब्ध नाही किंवा लोड होत आहे.');
+                document.getElementById('total-q-badge').textContent = '0';
+                startBtn.className = "w-full sm:w-auto bg-amber-600 hover:bg-amber-700 text-white font-extrabold text-base py-3 px-8 rounded-2xl shadow-xl transition inline-flex items-center justify-center gap-2";
+                startBtn.disabled = false;
+                startBtn.innerHTML = `<span><i class="fas fa-redo mr-2"></i>पुन्हा प्रयत्न करा (Retry)</span>`;
+                startBtn.onclick = () => location.reload();
+
+                const warnDiv = document.createElement('div');
+                warnDiv.className = "mt-4 p-4 rounded-2xl bg-amber-50 border border-amber-300 text-amber-900 text-sm font-bold text-center";
+                warnDiv.innerHTML = `<i class="fas fa-exclamation-triangle mr-2 text-amber-600"></i>चाचणीचे प्रश्न लोड होण्यात विलंब होत आहे. कृपया 'पुन्हा प्रयत्न करा' बटनावर क्लिक करा.`;
+                welcomeScreen.appendChild(warnDiv);
+                return;
             }
+
             userAnswers = new Array(quizData.length).fill(null);
             document.getElementById('total-q-badge').textContent = quizData.length;
+            startBtn.disabled = false;
+            startBtn.onclick = startQuiz;
+            startBtn.className = "w-full sm:w-auto bg-gradient-to-r from-teal-600 via-cyan-600 to-indigo-700 hover:from-teal-700 hover:to-indigo-800 text-white font-extrabold text-lg py-4 px-10 rounded-2xl shadow-xl transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3";
+            startBtn.innerHTML = `<span>चाचणी सुरू करा</span> <i class="fas fa-arrow-right"></i>`;
+        }
+
+        window.onload = function() {
+            initTest();
         };
 
         function startQuiz() {
@@ -415,15 +510,26 @@
         }
 
         function loadQuestion() {
+            if (!quizData || quizData.length === 0 || !quizData[currentQuestionIndex]) {
+                document.getElementById('question-text').innerHTML = `
+                    <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl text-center">
+                        <i class="fas fa-exclamation-triangle text-amber-500 text-3xl mb-2"></i>
+                        <p class="font-bold text-gray-800">प्रश्न लोड करता आला नाही.</p>
+                        <button onclick="location.reload()" class="mt-3 px-4 py-2 bg-teal-600 text-white font-bold rounded-xl text-sm">पेज रीलोड करा</button>
+                    </div>
+                `;
+                return;
+            }
+
             const q = quizData[currentQuestionIndex];
             document.getElementById('question-counter').textContent = `प्रश्न ${currentQuestionIndex + 1} / ${quizData.length}`;
-            const pct = ((currentQuestionIndex) / quizData.length) * 100;
+            const pct = ((currentQuestionIndex + 1) / quizData.length) * 100;
             document.getElementById('progress-bar').style.width = `${pct}%`;
 
             document.getElementById('subject-tag').textContent = q.subject || 'सामान्य';
             document.getElementById('type-tag').innerHTML = `<i class="fas fa-star text-[10px]"></i> ${q.tagText || 'MSCE'}`;
 
-            // Difficulty Badge according to MSCE Pune Blueprint
+            // Difficulty Badge according to MSCE Blueprint
             const diffTag = document.getElementById('difficulty-tag');
             if (q.difficulty === 'सोपे') {
                 diffTag.className = "text-xs font-extrabold px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 border border-emerald-300";
@@ -445,11 +551,12 @@
                 pyqBadge.classList.add('hidden');
             }
 
+            // Check diagram / passage inside question text
             const diagContainer = document.getElementById('diagram-container');
             diagContainer.innerHTML = '';
-            let rawQ = q.question;
+            let rawQ = q.question || '';
 
-            // Handle dedicated Passage / Poem / Dialogue / Notice Card
+            // Handle dedicated Passage / Poem / Dialogue Card
             if (q.passage || q.poem || q.context) {
                 const passageContent = q.passage || q.poem || q.context;
                 let qText = rawQ;
@@ -461,7 +568,7 @@
                 }
 
                 let badgeIcon = '📖';
-                let badgeTitle = 'संदर्भ उतारा / परिच्छेद (Read Passage Carefully to Answer)';
+                let badgeTitle = 'संदर्भ उतारा / परिच्छेद (Read Carefully to Answer)';
                 if (passageContent.includes('📜') || passageContent.includes('कविता') || /poem/i.test(passageContent)) {
                     badgeIcon = '📜';
                     badgeTitle = 'संदर्भ कविता / पद्य (Read Poem Carefully to Answer)';
@@ -470,11 +577,11 @@
                     badgeTitle = 'संदर्भ संवाद / संभाषण (Read Dialogue Carefully to Answer)';
                 } else if (passageContent.includes('📋') || passageContent.includes('notice') || passageContent.includes('leaflet')) {
                     badgeIcon = '📋';
-                    badgeTitle = 'सूचना पत्रक / जाहिरात (Read Notice / Leaflet Carefully to Answer)';
+                    badgeTitle = 'सूचना पत्रक / जाहिरात (Read Notice Carefully to Answer)';
                 }
 
                 let cleanPassage = passageContent
-                    .replace(/^[📖📜💬📋📝]\s*\*\*[^*]+\*\*\s*\n*/, '')
+                    .replace(/^[📖📜💬📋📄]\s*\*\*[^*]+\*\*\s*\n*/, '')
                     .trim();
 
                 diagContainer.innerHTML = `
@@ -489,30 +596,54 @@ ${cleanPassage}
                     </div>
                 `;
                 rawQ = qText;
-            } else if (rawQ.includes('<div') || rawQ.includes('<svg')) {
-                const match = rawQ.match(/(<div[\s\S]*?<\/div>)/);
-                if (match) {
-                    diagContainer.innerHTML = match[1];
-                    rawQ = rawQ.replace(match[1], '').trim();
-                }
             }
-            
+
+            // Extract SVG, IMG, or Diagram DIV
+            let diagramHtml = '';
+            const svgMatch = rawQ.match(/(<svg[\s\S]*?<\/svg>)/i);
+            const imgMatch = rawQ.match(/(<img[\s\S]*?>)/i);
+            const divDiagMatch = rawQ.match(/(<div class="[^"]*diagram[^"]*"[\s\S]*?<\/div>)/i) || 
+                                 (rawQ.includes('<div') && rawQ.includes('</div>') ? rawQ.match(/(<div[\s\S]*?<\/div>)/i) : null);
+
+            if (svgMatch) {
+                diagramHtml = svgMatch[1];
+                rawQ = rawQ.replace(svgMatch[1], '').trim();
+            } else if (imgMatch) {
+                diagramHtml = imgMatch[1];
+                rawQ = rawQ.replace(imgMatch[1], '').trim();
+            } else if (divDiagMatch) {
+                diagramHtml = divDiagMatch[1];
+                rawQ = rawQ.replace(divDiagMatch[1], '').trim();
+            }
+
+            if (diagramHtml) {
+                const dWrapper = document.createElement('div');
+                dWrapper.className = "diagram-display-wrapper mb-5 p-4 rounded-2xl bg-white border-2 border-teal-100 shadow-sm flex items-center justify-center overflow-x-auto";
+                dWrapper.innerHTML = diagramHtml;
+                diagContainer.appendChild(dWrapper);
+            }
+
             // Clean markdown asterisks if any
             let displayQ = rawQ.replace(/\*\*/g, '').trim();
-            // If displayQ already starts with "प्रश्न X." or "Question X.", strip it to avoid "1. प्रश्न १. ..."
             displayQ = displayQ.replace(/^(?:प्रश्न\s*\d+\.?|Question\s*\d+\.?)\s*/i, '');
-            document.getElementById('question-text').textContent = `${currentQuestionIndex + 1}. ${displayQ}`;
+            document.getElementById('question-text').innerHTML = `<span class="text-teal-700 font-black mr-2">${currentQuestionIndex + 1}.</span>${displayQ}`;
 
             const optContainer = document.getElementById('options-container');
             optContainer.innerHTML = '';
+
             const isAnswered = userAnswers[currentQuestionIndex] !== null;
+            const marathiNumbers = ['(१)', '(२)', '(३)', '(४)'];
 
             q.options.forEach((opt, idx) => {
                 const label = document.createElement('label');
-                label.className = `relative flex items-center p-4 rounded-2xl border-2 cursor-pointer option-label group ${isAnswered ? 'disabled' : 'border-gray-200 bg-white'}`;
+                label.className = `relative flex items-center p-4 rounded-2xl border-2 cursor-pointer option-label group ${isAnswered ? 'disabled' : 'border-gray-200 bg-white hover:border-teal-400'}`;
+                
+                let optBadge = marathiNumbers[idx] || `(${idx+1})`;
                 label.innerHTML = `
-                    <div class="dot-container w-6 h-6 rounded-full border-2 border-gray-300 flex items-center justify-center mr-4 bg-white shrink-0"></div>
-                    <span class="text-gray-800 font-bold text-base md:text-lg select-none">${opt}</span>
+                    <div class="dot-container w-8 h-8 rounded-xl border-2 border-gray-300 flex items-center justify-center mr-4 bg-gray-50 text-xs font-black text-gray-700 shrink-0">
+                        ${optBadge}
+                    </div>
+                    <span class="text-gray-800 font-bold text-base md:text-lg select-none flex-grow">${opt}</span>
                 `;
                 if (!isAnswered) {
                     label.addEventListener('click', () => selectOption(idx));
@@ -548,18 +679,22 @@ ${cleanPassage}
                 l.classList.add('disabled');
                 const dot = l.querySelector('.dot-container');
                 if (i === cor) {
-                    l.classList.add('correct-answer-show');
-                    l.classList.remove('border-gray-200');
-                    dot.classList.add('border-green-500', 'bg-green-500');
+                    l.className = 'relative flex items-center p-4 rounded-2xl border-2 cursor-pointer option-label correct-answer-show disabled';
+                    if (dot) {
+                        dot.className = 'dot-container w-8 h-8 rounded-xl border-2 border-green-500 bg-green-500 text-white flex items-center justify-center mr-4 text-xs font-black shrink-0';
+                        dot.innerHTML = '<i class="fas fa-check"></i>';
+                    }
                 } else if (i === sel && sel !== cor) {
-                    l.classList.add('wrong-answer-show');
-                    l.classList.remove('border-gray-200');
-                    dot.classList.add('border-red-500', 'bg-red-500');
+                    l.className = 'relative flex items-center p-4 rounded-2xl border-2 cursor-pointer option-label wrong-answer-show disabled';
+                    if (dot) {
+                        dot.className = 'dot-container w-8 h-8 rounded-xl border-2 border-red-500 bg-red-500 text-white flex items-center justify-center mr-4 text-xs font-black shrink-0';
+                        dot.innerHTML = '<i class="fas fa-times"></i>';
+                    }
                 }
             });
 
             const expBox = document.getElementById('explanation-box');
-            document.getElementById('explanation-text').textContent = q.explanation || 'उत्तर योग्यरीत्या नोंदवले आहे.';
+            document.getElementById('explanation-text').innerHTML = q.explanation || 'उत्तर योग्यरीत्या नोंदवले आहे.';
             expBox.classList.remove('hidden');
 
             nextBtn.disabled = false;
@@ -593,21 +728,40 @@ ${cleanPassage}
                 if (userAnswers[i] === q.answer) correctCount++;
             });
 
-            const totalScore = correctCount * 2;
+            const totalScore = correctCount * 2; // 2 marks each
             const accuracy = Math.round((correctCount / quizData.length) * 100);
-            const timeTakenMins = Math.ceil((1200 - timeLeft) / 60);
+            const timeSpentSeconds = (20 * 60) - timeLeft;
+            const timeTakenMins = Math.max(1, Math.ceil(timeSpentSeconds / 60));
 
             document.getElementById('final-score').textContent = totalScore;
             document.getElementById('final-accuracy').textContent = accuracy;
             document.getElementById('final-time').textContent = timeTakenMins;
-            document.getElementById('final-rank').textContent = accuracy >= 80 ? Math.floor(Math.random() * 5) + 1 : Math.floor(Math.random() * 20) + 10;
+            
+            let rankText = "१";
+            if (accuracy >= 90) rankText = "१";
+            else if (accuracy >= 80) rankText = "५";
+            else if (accuracy >= 70) rankText = "१५";
+            else if (accuracy >= 50) rankText = "३५";
+            else rankText = "७५+";
+            document.getElementById('final-rank').textContent = rankText;
         }
 
         function shareScore() {
             let correct = 0;
             quizData.forEach((q, i) => { if(userAnswers[i] === q.answer) correct++; });
             const score = correct * 2;
-            const text = `🎯 *इयत्ता सातवी स्कॉलरशिप टेस्ट निकाल!* 🎯\n📝 *${testTitle}*\n✅ माझे गुण: ${score}/40 (${Math.round((correct/quizData.length)*100)}% Accuracy)\n\nतुम्हीही ही सराव टेस्ट मोफत सोडवा आणि रँक तपासा:\n🔗 ${window.location.href}\n\n👥 *फक्त स्कॉलरशिप अधिकृत WhatsApp ग्रुप जॉइन करा:* \n👉 https://chat.whatsapp.com/FtVpto7go849Ns7s3L8dk4\n_(पहिला ग्रुप फुल असल्यास: https://chat.whatsapp.com/EF0HWxeyr6XDNmxrPfNPAv)_\n\n📲 *संपूर्ण १२० टेस्ट सिरीज व All Maharashtra Live Rank साठी आजच ॲप डाऊनलोड करा:* \n👉 https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share`;
+            const accuracy = Math.round((correct / quizData.length) * 100);
+            const text = `🎯 *इयत्ता सातवी शिष्यवृत्ती परीक्षा सराव निकाल!* 🎯\n` +
+                         `📝 *${testTitle}*\n` +
+                         `✅ माझे गुण: ${score}/40 (${accuracy}% अचूकता)\n` +
+                         `⏱️ वेळ: ${Math.ceil(((20*60)-timeLeft)/60)} मिनिटे\n\n` +
+                         `तुम्हीही ही सराव टेस्ट मोफत सोडवा आणि रँक तपासा:\n` +
+                         `🔗 ${window.location.href}\n\n` +
+                         `👥 *फक्त शिष्यवृत्ती अधिकृत WhatsApp ग्रुप जॉइन करा:* \n` +
+                         `👉 https://chat.whatsapp.com/FtVpto7go849Ns7s3L8dk4\n` +
+                         `_(पहिला ग्रुप फुल असल्यास: https://chat.whatsapp.com/EF0HWxeyr6XDNmxrPfNPAv)_\n\n` +
+                         `📱 *संपूर्ण १२० टेस्ट सिरीज व All Maharashtra Live Rank साठी आजच ॲप डाऊनलोड करा:* \n` +
+                         `👉 https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share`;
             window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, '_blank');
         }
     </script>
