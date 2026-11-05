@@ -89,7 +89,11 @@ window.scholarshipClass7Meta = {
 
 window.getTestQuestionsClass7 = function(paperKey, testNumber) {
     if (!window.scholarshipClass7) return [];
-    const paper = window.scholarshipClass7[paperKey];
+    var s = String(paperKey || 'paper1').toLowerCase();
+    var pKey = (s.indexOf('2') !== -1 || s.indexOf('ii') !== -1 || s === 'p2') ? 'paper2' : 'paper1';
+    var num = parseInt(String(testNumber).replace(/\D+/g, ''), 10);
+    if (isNaN(num) || num < 1) num = 1;
+    const paper = window.scholarshipClass7[pKey];
     if (!paper) return [];
-    return paper[testNumber] || [];
+    return paper[num] || paper[String(num)] || [];
 };
