@@ -97,3 +97,4 @@ window.getTestQuestionsClass7 = function(paperKey, testNumber) {
     if (!paper) return [];
     return paper[num] || paper[String(num)] || [];
 };
+window.getTestQuestions = window.getTestQuestionsClass7;
