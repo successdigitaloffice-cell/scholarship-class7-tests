@@ -1,330 +1,1727 @@
 [
   {
+    "q_no": 1,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "Tenses & Concord सोपे",
-    "question": "In topic 'Tenses & Subject-Verb Agreement (Concord)': What is the antonym of 'Courage'?",
+    "section": "1",
+    "question": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Solar energy is the cleanest and most abundant renewable energy source available on Earth. Unlike fossil fuels such as coal, petrol, and natural gas, solar power does not emit greenhouse gases or toxic air pollutants during power generation. Advances in photovoltaic technology have made solar panels highly affordable and efficient for domestic rooftop use as well as massive solar farms. By harnessing solar power, countries can reduce their carbon footprint, achieve energy independence, and combat the devastating effects of global warming. Embracing green solar energy is indeed our best path toward a sustainable future.</p></div><p>What makes solar energy superior to fossil fuels according to the passage?</p>",
+    "question_text": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Solar energy is the cleanest and most abundant renewable energy source available on Earth. Unlike fossil fuels such as coal, petrol, and natural gas, solar power does not emit greenhouse gases or toxic air pollutants during power generation. Advances in photovoltaic technology have made solar panels highly affordable and efficient for domestic rooftop use as well as massive solar farms. By harnessing solar power, countries can reduce their carbon footprint, achieve energy independence, and combat the devastating effects of global warming. Embracing green solar energy is indeed our best path toward a sustainable future.</p></div><p>What makes solar energy superior to fossil fuels according to the passage?</p>",
     "options": [
-      "Cowardice",
-      "Strength",
-      "Heroism",
-      "Bravery"
+      "It is very noisy",
+      "It does not emit greenhouse gases or toxic pollutants",
+      "It is limited in supply",
+      "It cannot generate electricity"
     ],
-    "answer": 0,
-    "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Tenses & Concord सोपे",
-    "question": "Which prefix can be added to 'HONEST' to make its opposite?",
-    "options": [
-      "In-",
-      "Dis- (Dishonest)",
-      "Mis-",
-      "Un-"
-    ],
-    "answer": 1,
-    "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Tenses & Concord सोपे",
-    "question": "A person who treats patients is called a ____.",
-    "options": [
-      "Doctor",
-      "Teacher",
-      "Engineer",
-      "Lawyer"
-    ],
-    "answer": 0,
-    "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "Tenses & Concord सोपे",
-    "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
-    "options": [
-      "Is",
-      "Best",
-      "Honesty",
-      "The"
-    ],
+    "options_dict": {
+      "1": "It is very noisy",
+      "2": "It does not emit greenhouse gases or toxic pollutants",
+      "3": "It is limited in supply",
+      "4": "It cannot generate electricity"
+    },
     "answer": 2,
-    "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "correct_option": "3",
+    "explanation": "Solar energy does not produce harmful pollutants or greenhouse gases.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 2,
     "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Tenses & Concord सोपे",
-    "question": "Which article is used before 'Unique'?",
+    "section": "1",
+    "question": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Solar energy is the cleanest and most abundant renewable energy source available on Earth. Unlike fossil fuels such as coal, petrol, and natural gas, solar power does not emit greenhouse gases or toxic air pollutants during power generation. Advances in photovoltaic technology have made solar panels highly affordable and efficient for domestic rooftop use as well as massive solar farms. By harnessing solar power, countries can reduce their carbon footprint, achieve energy independence, and combat the devastating effects of global warming. Embracing green solar energy is indeed our best path toward a sustainable future.</p></div><p>Which technological advancement has made solar panels affordable for domestic rooftops?</p>",
+    "question_text": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Solar energy is the cleanest and most abundant renewable energy source available on Earth. Unlike fossil fuels such as coal, petrol, and natural gas, solar power does not emit greenhouse gases or toxic air pollutants during power generation. Advances in photovoltaic technology have made solar panels highly affordable and efficient for domestic rooftop use as well as massive solar farms. By harnessing solar power, countries can reduce their carbon footprint, achieve energy independence, and combat the devastating effects of global warming. Embracing green solar energy is indeed our best path toward a sustainable future.</p></div><p>Which technological advancement has made solar panels affordable for domestic rooftops?</p>",
     "options": [
-      "A (A unique)",
-      "No article",
-      "The",
-      "An"
+      "Steam engine technology",
+      "Advances in photovoltaic technology",
+      "Mining technology",
+      "Plastic manufacturing"
     ],
-    "answer": 0,
-    "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Tenses & Concord सोपे",
-    "question": "What is the comparative degree of 'Good'?",
-    "options": [
-      "Best",
-      "More good",
-      "Better",
-      "Gooder"
-    ],
+    "options_dict": {
+      "1": "Steam engine technology",
+      "2": "Advances in photovoltaic technology",
+      "3": "Mining technology",
+      "4": "Plastic manufacturing"
+    },
     "answer": 2,
-    "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "correct_option": "3",
+    "explanation": "Photovoltaic advancements have made panels cheap and efficient.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 3,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "Choose the correct Passive voice of: 'She writes a letter.'",
+    "section": "1",
+    "question": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Solar energy is the cleanest and most abundant renewable energy source available on Earth. Unlike fossil fuels such as coal, petrol, and natural gas, solar power does not emit greenhouse gases or toxic air pollutants during power generation. Advances in photovoltaic technology have made solar panels highly affordable and efficient for domestic rooftop use as well as massive solar farms. By harnessing solar power, countries can reduce their carbon footprint, achieve energy independence, and combat the devastating effects of global warming. Embracing green solar energy is indeed our best path toward a sustainable future.</p></div><p>According to the text, what can nations achieve by harnessing solar power?</p>",
+    "question_text": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Solar energy is the cleanest and most abundant renewable energy source available on Earth. Unlike fossil fuels such as coal, petrol, and natural gas, solar power does not emit greenhouse gases or toxic air pollutants during power generation. Advances in photovoltaic technology have made solar panels highly affordable and efficient for domestic rooftop use as well as massive solar farms. By harnessing solar power, countries can reduce their carbon footprint, achieve energy independence, and combat the devastating effects of global warming. Embracing green solar energy is indeed our best path toward a sustainable future.</p></div><p>According to the text, what can nations achieve by harnessing solar power?</p>",
     "options": [
-      "A letter is being written by her.",
-      "A letter is written by her.",
-      "A letter was written by her.",
-      "She is writing a letter."
+      "Energy independence and reduced carbon footprint",
+      "Increased pollution",
+      "Higher electricity bills",
+      "Exhaustion of natural resources"
     ],
+    "options_dict": {
+      "1": "Energy independence and reduced carbon footprint",
+      "2": "Increased pollution",
+      "3": "Higher electricity bills",
+      "4": "Exhaustion of natural resources"
+    },
     "answer": 1,
-    "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "2",
+    "explanation": "Nations can achieve energy independence and reduce carbon emissions.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 4,
     "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "Add the correct question tag: 'You are coming with us, ____?'",
+    "section": "1",
+    "question": "<p>Choose the correct synonym of the underlined word: 'The ancient fort had an <u>impenetrable</u> stone wall.'</p>",
+    "question_text": "<p>Choose the correct synonym of the underlined word: 'The ancient fort had an <u>impenetrable</u> stone wall.'</p>",
     "options": [
-      "Aren't you?",
-      "Won't you?",
-      "Are you?",
-      "Don't you?"
+      "fragile",
+      "unbreakable",
+      "transparent",
+      "flexible"
     ],
-    "answer": 0,
-    "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "The train arrived ____ 6 o'clock in the evening.",
-    "options": [
-      "By",
-      "In",
-      "At",
-      "On"
-    ],
+    "options_dict": {
+      "1": "fragile",
+      "2": "unbreakable",
+      "3": "transparent",
+      "4": "flexible"
+    },
     "answer": 2,
-    "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "3",
+    "explanation": "'Impenetrable' means impossible to pass through or break; 'unbreakable' is the closest synonym.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 5,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "Neither of the boys ____ present yesterday.",
+    "section": "1",
+    "question": "<p>Select the correct antonym of the word: <strong>'Transparent'</strong>.</p>",
+    "question_text": "<p>Select the correct antonym of the word: <strong>'Transparent'</strong>.</p>",
     "options": [
-      "Have been",
-      "Was",
-      "Were",
-      "Are"
+      "Clear",
+      "Opaque",
+      "Glassy",
+      "Bright"
     ],
-    "answer": 1,
-    "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
-    "options": [
-      "To drink warm milk",
-      "To regret uselessly for past loss",
-      "To weep loudly",
-      "To drop milk on floor"
-    ],
-    "answer": 1,
-    "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "Identify the type of sentence: 'Please shut the window.'",
-    "options": [
-      "Interrogative sentence",
-      "Exclamatory sentence",
-      "Declarative sentence",
-      "Imperative sentence (आज्ञार्थी)"
-    ],
-    "answer": 3,
-    "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "Select the correctly spelt word:",
-    "options": [
-      "Acommodation",
-      "Accomodation",
-      "Acomodation",
-      "Accommodation"
-    ],
-    "answer": 3,
-    "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "What is a 'Centenarian'?",
-    "options": [
-      "A person who loves books",
-      "A person who plays cricket",
-      "A person who has reached the age of 100",
-      "A century maker"
-    ],
+    "options_dict": {
+      "1": "Clear",
+      "2": "Opaque",
+      "3": "Glassy",
+      "4": "Bright"
+    },
     "answer": 2,
-    "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "3",
+    "explanation": "'Transparent' allows light to pass; its antonym is 'Opaque'.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 6,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
+    "section": "1",
+    "question": "<p>Identify the one-word substitution for: <strong>'A person who loves and collects books'</strong>.</p>",
+    "question_text": "<p>Identify the one-word substitution for: <strong>'A person who loves and collects books'</strong>.</p>",
     "options": [
-      "He said that I was very busy now.",
-      "He told that he had been busy.",
-      "He said that he is very busy then.",
-      "He said that he was very busy then."
+      "Bibliophile",
+      "Cartographer",
+      "Philatelist",
+      "Numismatist"
     ],
-    "answer": 3,
-    "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "Tenses & Concord मध्यम",
-    "question": "Complete the proverb: 'A stitch in time saves ____.'",
-    "options": [
-      "Five",
-      "Time",
-      "Ten",
-      "Nine"
-    ],
-    "answer": 3,
-    "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Tenses & Concord कठीण",
-    "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
-    "options": [
-      "Alliteration (अनुप्रास)",
-      "Personification (चेतनगुणोक्ती)",
-      "Simile (उपमा)",
-      "Metaphor (रूपक)"
-    ],
+    "options_dict": {
+      "1": "Bibliophile",
+      "2": "Cartographer",
+      "3": "Philatelist",
+      "4": "Numismatist"
+    },
     "answer": 1,
-    "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "correct_option": "2",
+    "explanation": "A book lover is called a bibliophile.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 7,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "Tenses & Concord कठीण",
-    "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
+    "section": "1",
+    "question": "<p>Choose the correct collective noun: 'A ______ of bees flew out of the honeycomb.'</p>",
+    "question_text": "<p>Choose the correct collective noun: 'A ______ of bees flew out of the honeycomb.'</p>",
     "options": [
-      "Mount Everest is as high as any peak.",
-      "Mount Everest is very high peak.",
-      "No other peak is the highest.",
-      "Mount Everest is the highest peak in the world."
+      "pack",
+      "swarm",
+      "flock",
+      "herd"
     ],
-    "answer": 3,
-    "explanation": "Superlative: 'the highest peak in the world'.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Tenses & Concord कठीण",
-    "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
-    "options": [
-      "Slow and steady have won the race.",
-      "Slow and steady win the race.",
-      "Slow and steady wins the race.",
-      "Slow and steady are winning the race."
-    ],
+    "options_dict": {
+      "1": "pack",
+      "2": "swarm",
+      "3": "flock",
+      "4": "herd"
+    },
     "answer": 2,
-    "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "correct_option": "3",
+    "explanation": "A large group of flying insects like bees is called a 'swarm'.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 8,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "Tenses & Concord कठीण",
-    "question": "What is the one word for: 'One who looks at the bright side of things'?",
+    "section": "1",
+    "question": "<p>Select the correctly spelt word for 'Necessary' from the given options.</p>",
+    "question_text": "<p>Select the correctly spelt word for 'Necessary' from the given options.</p>",
     "options": [
-      "Optimist (आशावादी)",
-      "Altruist",
-      "Egoist",
-      "Pessimist (निराशावादी)"
+      "Necessary",
+      "Neccessary",
+      "Necesary",
+      "Necassary"
     ],
-    "answer": 0,
-    "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "options_dict": {
+      "1": "Necessary",
+      "2": "Neccessary",
+      "3": "Necesary",
+      "4": "Necassary"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "The correct spelling is 'Necessary' (one c, double s).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 9,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Identify the part of speech of the underlined word: 'The brave soldier fought with great <u>courage</u>.'</p>",
+    "question_text": "<p>Identify the part of speech of the underlined word: 'The brave soldier fought with great <u>courage</u>.'</p>",
+    "options": [
+      "Verb",
+      "Adjective",
+      "Abstract Noun",
+      "Adverb"
+    ],
+    "options_dict": {
+      "1": "Verb",
+      "2": "Adjective",
+      "3": "Abstract Noun",
+      "4": "Adverb"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "'Courage' is the name of a quality/feeling, hence it is an abstract noun.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 10,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct passive voice form of: <strong>'The principal distributed the annual prizes.'</strong></p>",
+    "question_text": "<p>Choose the correct passive voice form of: <strong>'The principal distributed the annual prizes.'</strong></p>",
+    "options": [
+      "The annual prizes were distributed by the principal.",
+      "The annual prizes are distributed by the principal.",
+      "The annual prizes have been distributed by the principal.",
+      "The principal was distributed by the prizes."
+    ],
+    "options_dict": {
+      "1": "The annual prizes were distributed by the principal.",
+      "2": "The annual prizes are distributed by the principal.",
+      "3": "The annual prizes have been distributed by the principal.",
+      "4": "The principal was distributed by the prizes."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Simple past active 'distributed' changes to 'were distributed' in passive voice.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 11,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct indirect speech form of: <strong>Anand said, 'I have won the drawing competition.'</strong></p>",
+    "question_text": "<p>Choose the correct indirect speech form of: <strong>Anand said, 'I have won the drawing competition.'</strong></p>",
+    "options": [
+      "Anand said that he had won the drawing competition.",
+      "Anand said that he has won the competition.",
+      "Anand said that I had won the competition.",
+      "Anand said that he won the competition."
+    ],
+    "options_dict": {
+      "1": "Anand said that he had won the drawing competition.",
+      "2": "Anand said that he has won the competition.",
+      "3": "Anand said that I had won the competition.",
+      "4": "Anand said that he won the competition."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Present perfect 'have won' changes to past perfect 'had won'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 12,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the correct degree: 'Prevention is ______ than cure.'</p>",
+    "question_text": "<p>Select the correct degree: 'Prevention is ______ than cure.'</p>",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "more good"
+    ],
+    "options_dict": {
+      "1": "good",
+      "2": "better",
+      "3": "best",
+      "4": "more good"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "Comparative degree with 'than' requires 'better'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 13,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Identify the tense: <strong>'The train had left the platform before we reached the railway station.'</strong></p>",
+    "question_text": "<p>Identify the tense: <strong>'The train had left the platform before we reached the railway station.'</strong></p>",
+    "options": [
+      "Past Perfect Tense",
+      "Simple Past Tense",
+      "Past Continuous Tense",
+      "Present Perfect Tense"
+    ],
+    "options_dict": {
+      "1": "Past Perfect Tense",
+      "2": "Simple Past Tense",
+      "3": "Past Continuous Tense",
+      "4": "Present Perfect Tense"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Had + left (past participle)' indicates the Past Perfect Tense.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 14,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct preposition: 'He distributed the sweets ______ all the children in the classroom.'</p>",
+    "question_text": "<p>Choose the correct preposition: 'He distributed the sweets ______ all the children in the classroom.'</p>",
+    "options": [
+      "between",
+      "among",
+      "in",
+      "into"
+    ],
+    "options_dict": {
+      "1": "between",
+      "2": "among",
+      "3": "in",
+      "4": "into"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "Distribution among more than two persons takes 'among'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 15,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the correct conjunction: 'Walk fast ______ you will miss the morning school bus.'</p>",
+    "question_text": "<p>Select the correct conjunction: 'Walk fast ______ you will miss the morning school bus.'</p>",
+    "options": [
+      "otherwise (or else)",
+      "because",
+      "so",
+      "and"
+    ],
+    "options_dict": {
+      "1": "otherwise (or else)",
+      "2": "because",
+      "3": "so",
+      "4": "and"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Otherwise' expresses the consequence of not walking fast.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 16,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the modal auxiliary expressing necessity/compulsion: 'You ______ wear a helmet while riding a motorcycle.'</p>",
+    "question_text": "<p>Choose the modal auxiliary expressing necessity/compulsion: 'You ______ wear a helmet while riding a motorcycle.'</p>",
+    "options": [
+      "may",
+      "must",
+      "might",
+      "could"
+    ],
+    "options_dict": {
+      "1": "may",
+      "2": "must",
+      "3": "might",
+      "4": "could"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "'Must' expresses strong obligation and legal compulsion.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 17,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Identify the correctly punctuated sentence from the options.</p>",
+    "question_text": "<p>Identify the correctly punctuated sentence from the options.</p>",
+    "options": [
+      "\"May God bless you with good health!\" said the kind old saint.",
+      "\"May God bless you with good health\" said the kind old saint?",
+      "May God bless you with good health said the saint.",
+      "\"May god bless you with good health!\" Said the saint."
+    ],
+    "options_dict": {
+      "1": "\"May God bless you with good health!\" said the kind old saint.",
+      "2": "\"May God bless you with good health\" said the kind old saint?",
+      "3": "May God bless you with good health said the saint.",
+      "4": "\"May god bless you with good health!\" Said the saint."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "The spoken optative sentence is properly enclosed in quotation marks followed by an exclamation mark.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 18,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct prefix to form the antonym of: <strong>'Pure'</strong>.</p>",
+    "question_text": "<p>Choose the correct prefix to form the antonym of: <strong>'Pure'</strong>.</p>",
+    "options": [
+      "im-",
+      "un-",
+      "in-",
+      "dis-"
+    ],
+    "options_dict": {
+      "1": "im-",
+      "2": "un-",
+      "3": "in-",
+      "4": "dis-"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Prefix 'im-' forms 'impure'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 19,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the meaning of the idiom: <strong>'To cry over spilt milk'</strong>.</p>",
+    "question_text": "<p>Select the meaning of the idiom: <strong>'To cry over spilt milk'</strong>.</p>",
+    "options": [
+      "To clean spilt milk",
+      "To complain about a past loss that cannot be undone",
+      "To waste food",
+      "To weep loudly"
+    ],
+    "options_dict": {
+      "1": "To clean spilt milk",
+      "2": "To complain about a past loss that cannot be undone",
+      "3": "To waste food",
+      "4": "To weep loudly"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "It means to waste time worrying about something bad that has already happened.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 20,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct question tag: <strong>'We should plant more trees to protect our environment, ______?'</strong></p>",
+    "question_text": "<p>Choose the correct question tag: <strong>'We should plant more trees to protect our environment, ______?'</strong></p>",
+    "options": [
+      "should we",
+      "shouldn't we",
+      "don't we",
+      "won't we"
+    ],
+    "options_dict": {
+      "1": "should we",
+      "2": "shouldn't we",
+      "3": "don't we",
+      "4": "won't we"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "Positive statement with 'should' takes negative tag 'shouldn't we?'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 21,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the correct plural form of: <strong>'Radius'</strong>.</p>",
+    "question_text": "<p>Select the correct plural form of: <strong>'Radius'</strong>.</p>",
+    "options": [
+      "Radiuses",
+      "Radii",
+      "Radia",
+      "Radies"
+    ],
+    "options_dict": {
+      "1": "Radiuses",
+      "2": "Radii",
+      "3": "Radia",
+      "4": "Radies"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "The plural of the Latin word 'Radius' is 'Radii'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 22,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct article: 'Sahil is ______ European tourist visiting the caves of Ajanta.'</p>",
+    "question_text": "<p>Choose the correct article: 'Sahil is ______ European tourist visiting the caves of Ajanta.'</p>",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "options_dict": {
+      "1": "a",
+      "2": "an",
+      "3": "the",
+      "4": "no article"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'European' begins with a consonant sound (/jʊərəˈpiːən/), so article 'a' is used.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 23,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Arrange the jumbled words into a meaningful sentence: <strong>(1) honesty (2) rewarded (3) is always (4) in life</strong>.</p>",
+    "question_text": "<p>Arrange the jumbled words into a meaningful sentence: <strong>(1) honesty (2) rewarded (3) is always (4) in life</strong>.</p>",
+    "options": [
+      "1 - 3 - 2 - 4",
+      "4 - 3 - 2 - 1",
+      "2 - 1 - 3 - 4",
+      "1 - 2 - 3 - 4"
+    ],
+    "options_dict": {
+      "1": "1 - 3 - 2 - 4",
+      "2": "4 - 3 - 2 - 1",
+      "3": "2 - 1 - 3 - 4",
+      "4": "1 - 2 - 3 - 4"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Honesty is always rewarded in life (1 - 3 - 2 - 4).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 24,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the feminine gender of: <strong>'Fox'</strong>.</p>",
+    "question_text": "<p>Choose the feminine gender of: <strong>'Fox'</strong>.</p>",
+    "options": [
+      "Bitch",
+      "Vixen",
+      "Doe",
+      "Ewe"
+    ],
+    "options_dict": {
+      "1": "Bitch",
+      "2": "Vixen",
+      "3": "Doe",
+      "4": "Ewe"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "A female fox is called a 'Vixen'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 25,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the appropriate word for the cry of elephants: 'Elephants ______ loudly in the jungle.'</p>",
+    "question_text": "<p>Select the appropriate word for the cry of elephants: 'Elephants ______ loudly in the jungle.'</p>",
+    "options": [
+      "trumpet",
+      "roar",
+      "bray",
+      "bleat"
+    ],
+    "options_dict": {
+      "1": "trumpet",
+      "2": "roar",
+      "3": "bray",
+      "4": "bleat"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Elephants make the sound 'trumpet'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 26,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>२, ६, १२, २०, ३०, ४२, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>२, ६, १२, २०, ३०, ४२, ?</strong></p>",
+    "options": [
+      "५२",
+      "५४",
+      "५६",
+      "५८"
+    ],
+    "options_dict": {
+      "1": "५२",
+      "2": "५४",
+      "3": "५६",
+      "4": "५८"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "फरक: +४, +६, +८, +१०, +१२, +१४ => ४२ + १४ = ५६ (किंवा n² + n: १²+१, २²+२, ..., ७²+७=५६).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 27,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>१, ३, ७, १३, २१, ३१, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>१, ३, ७, १३, २१, ३१, ?</strong></p>",
+    "options": [
+      "४१",
+      "४३",
+      "४५",
+      "४७"
+    ],
+    "options_dict": {
+      "1": "४१",
+      "2": "४३",
+      "3": "४५",
+      "4": "४७"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "फरक: +२, +४, +६, +८, +१०, +१२ => ३१ + १२ = ४३.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 28,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षर मालिका पूर्ण करा: <strong>A, Z, B, Y, C, X, ?</strong></p>",
+    "question_text": "<p>अक्षर मालिका पूर्ण करा: <strong>A, Z, B, Y, C, X, ?</strong></p>",
+    "options": [
+      "D",
+      "W",
+      "E",
+      "V"
+    ],
+    "options_dict": {
+      "1": "D",
+      "2": "W",
+      "3": "E",
+      "4": "V"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "दोन स्वतंत्र मालिका: A, B, C, D आणि Z, Y, X. पुढील पद D येईल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 29,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>खालील पर्यायांमधून विसंगत संख्या ओळखा: <strong>८, २७, ६४, १००</strong></p>",
+    "question_text": "<p>खालील पर्यायांमधून विसंगत संख्या ओळखा: <strong>८, २७, ६४, १००</strong></p>",
+    "options": [
+      "८",
+      "२७",
+      "६४",
+      "१००"
+    ],
+    "options_dict": {
+      "1": "८",
+      "2": "२७",
+      "3": "६४",
+      "4": "१००"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "८ = २³, २७ = ३³, ६४ = ४³ (सर्व घन संख्या आहेत), तर १०० ही केवळ १० चा वर्ग आहे, घन नाही.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 30,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>भारत : रुपया :: जपान : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>भारत : रुपया :: जपान : ?</strong></p>",
+    "options": [
+      "डॉलर",
+      "येन",
+      "युरो",
+      "दिणार"
+    ],
+    "options_dict": {
+      "1": "डॉलर",
+      "2": "येन",
+      "3": "युरो",
+      "4": "दिणार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "भारताचे चलन रुपया आहे, तसे जपानचे अधिकृत चलन येन (Yen) आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 31,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>११ : १२१ :: १३ : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>११ : १२१ :: १३ : ?</strong></p>",
+    "options": [
+      "१४३",
+      "१५६",
+      "१६९",
+      "१७२"
+    ],
+    "options_dict": {
+      "1": "१४३",
+      "2": "१५६",
+      "3": "१६९",
+      "4": "१७२"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "११ चा वर्ग = १२१, १३ चा वर्ग = १६९.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 32,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'PEN' ला '१६५१४' लिहिले जाते, तर 'INK' ला कसे लिहिले जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'PEN' ला '१६५१४' लिहिले जाते, तर 'INK' ला कसे लिहिले जाईल?</p>",
+    "options": [
+      "९१४११",
+      "९१३११",
+      "८१४११",
+      "९१४१२"
+    ],
+    "options_dict": {
+      "1": "९१४११",
+      "2": "९१३११",
+      "3": "८१४११",
+      "4": "९१४१२"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "I (९), N (१४), K (११) => ९१४११.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 33,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'GOLD' ला 'HOME' लिहिले, तर 'SILVER' ला कसे लिहिले जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'GOLD' ला 'HOME' लिहिले, तर 'SILVER' ला कसे लिहिले जाईल?</p>",
+    "options": [
+      "TJMWFS",
+      "TJLWFS",
+      "TIMWFS",
+      "TJMWFT"
+    ],
+    "options_dict": {
+      "1": "TJMWFS",
+      "2": "TJLWFS",
+      "3": "TIMWFS",
+      "4": "TJMWFT"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "प्रत्येक अक्षरात +१: S+१=T, I+१=J, L+१=M, V+१=W, E+१=F, R+१=S => TJMWFS.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 34,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>नातेसंबंध: एका पुरुषाकडे बोट दाखवून रेखा म्हणाली, 'यांच्या पत्नीचे वडील हे माझ्या पतीचे वडील आहेत.' तर तो पुरुष रेखाचा कोण?</p>",
+    "question_text": "<p>नातेसंबंध: एका पुरुषाकडे बोट दाखवून रेखा म्हणाली, 'यांच्या पत्नीचे वडील हे माझ्या पतीचे वडील आहेत.' तर तो पुरुष रेखाचा कोण?</p>",
+    "options": [
+      "दीर / भावोजी",
+      "भाऊ",
+      "वडील",
+      "मामा"
+    ],
+    "options_dict": {
+      "1": "दीर / भावोजी",
+      "2": "भाऊ",
+      "3": "वडील",
+      "4": "मामा"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "माझ्या पतीचे वडील म्हणजे रेखाचे सासरे. त्या पुरुषाच्या पत्नीचे वडील सासरे आहेत, म्हणजेच तो पुरुष रेखाच्या पतीचा भाऊ (दीर किंवा भावोजी) आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 35,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>दिशा ज्ञान: एक प्रवासी उत्तरेकडे ६ किमी गेला. उजवीकडे वळून ८ किमी गेला. तर सुरुवातीच्या ठिकाणापासून त्याचे थेट अंतर किती किमी असेल?</p>",
+    "question_text": "<p>दिशा ज्ञान: एक प्रवासी उत्तरेकडे ६ किमी गेला. उजवीकडे वळून ८ किमी गेला. तर सुरुवातीच्या ठिकाणापासून त्याचे थेट अंतर किती किमी असेल?</p>",
+    "options": [
+      "१० किमी",
+      "१२ किमी",
+      "१४ किमी",
+      "१५ किमी"
+    ],
+    "options_dict": {
+      "1": "१० किमी",
+      "2": "१२ किमी",
+      "3": "१४ किमी",
+      "4": "१५ किमी"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "कर्ण = √(६² + ८²) = √(३६ + ६४) = √१०० = १० किमी.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 36,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका रांगेत ४५ मुलांमध्ये कुणालचा क्रमांक उजवीकडून १८ वा असल्यास डावीकडून कितवा असेल?</p>",
+    "question_text": "<p>एका रांगेत ४५ मुलांमध्ये कुणालचा क्रमांक उजवीकडून १८ वा असल्यास डावीकडून कितवा असेल?</p>",
+    "options": [
+      "२७ वा",
+      "२८ वा",
+      "२९ वा",
+      "३० वा"
+    ],
+    "options_dict": {
+      "1": "२७ वा",
+      "2": "२८ वा",
+      "3": "२९ वा",
+      "4": "३० वा"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "४५ - १८ + १ = २८ वा.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 37,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>आज शनिवार आहे, तर आजपासून ३५ दिवसांनी कोणता वार असेल?</p>",
+    "question_text": "<p>आज शनिवार आहे, तर आजपासून ३५ दिवसांनी कोणता वार असेल?</p>",
+    "options": [
+      "शुक्रवार",
+      "शनिवार",
+      "रविवार",
+      "सोमवार"
+    ],
+    "options_dict": {
+      "1": "शुक्रवार",
+      "2": "शनिवार",
+      "3": "रविवार",
+      "4": "सोमवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "३५ ÷ ७ = ५ पूर्ण आठवडे (बाकी ०). वार बदलणार नाही, तोच शनिवार असेल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 38,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>घड्याळात दुपारी १ वाजून १० मिनिटे झाली असता दोन काट्यांमध्ये किती अंशाचा कोन तयार होईल?</p>",
+    "question_text": "<p>घड्याळात दुपारी १ वाजून १० मिनिटे झाली असता दोन काट्यांमध्ये किती अंशाचा कोन तयार होईल?</p>",
+    "options": [
+      "२५°",
+      "३०°",
+      "३५°",
+      "४०°"
+    ],
+    "options_dict": {
+      "1": "२५°",
+      "2": "३०°",
+      "3": "३५°",
+      "4": "४०°"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "कोन = |३० × १ - ५.५ × १०| = |३० - ५५| = २५°.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 39,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>तार्किक विचार: जर १ जानेवारी २०२६ रोजी गुरुवार असेल, तर ३१ डिसेंबर २०२६ रोजी कोणता वार असेल?</p>",
+    "question_text": "<p>तार्किक विचार: जर १ जानेवारी २०२६ रोजी गुरुवार असेल, तर ३१ डिसेंबर २०२६ रोजी कोणता वार असेल?</p>",
+    "options": [
+      "बुधवार",
+      "गुरुवार",
+      "शुक्रवार",
+      "शनिवार"
+    ],
+    "options_dict": {
+      "1": "बुधवार",
+      "2": "गुरुवार",
+      "3": "शुक्रवार",
+      "4": "शनिवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "२०२६ हे सामान्य वर्ष आहे (लीप वर्ष नाही). सामान्य वर्षाचा पहिला व शेवटचा दिवस एकच असतो (गुरुवार).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 40,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>वेन आकृती: <strong>'फुले, लाल, कपडे'</strong> यांच्यातील संबंध कोणत्या आकृतीने योग्य दर्शवला जाईल?</p>",
+    "question_text": "<p>वेन आकृती: <strong>'फुले, लाल, कपडे'</strong> यांच्यातील संबंध कोणत्या आकृतीने योग्य दर्शवला जाईल?</p>",
+    "options": [
+      "काही फुले लाल असतात आणि काही कपडेही लाल असतात (लालचा सामाईक छेद).",
+      "सर्व फुले कपडे असतात.",
+      "लाल रंग फक्त फुलांत असतो.",
+      "तिन्ही पूर्णपणे वेगळे आहेत."
+    ],
+    "options_dict": {
+      "1": "काही फुले लाल असतात आणि काही कपडेही लाल असतात (लालचा सामाईक छेद).",
+      "2": "सर्व फुले कपडे असतात.",
+      "3": "लाल रंग फक्त फुलांत असतो.",
+      "4": "तिन्ही पूर्णपणे वेगळे आहेत."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "लाल रंगाचा मध्यवर्ती भाग फुले व कपडे दोघांशी अंशतः जोडला जाईल, तर फुले व कपडे एकमेकांशी जोडले जाणार नाहीत.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 41,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>खालील पर्यायांमधून विसंगत अक्षर गट ओळखा: <strong>AZ, BY, CX, DU</strong></p>",
+    "question_text": "<p>खालील पर्यायांमधून विसंगत अक्षर गट ओळखा: <strong>AZ, BY, CX, DU</strong></p>",
+    "options": [
+      "AZ",
+      "BY",
+      "CX",
+      "DU"
+    ],
+    "options_dict": {
+      "1": "AZ",
+      "2": "BY",
+      "3": "CX",
+      "4": "DU"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "AZ, BY, CX या विरुद्ध अक्षरांच्या (बेरीज २७) जोड्या आहेत, तर D ची विरुद्ध जोडी DW (४+२३=२७) असते, DU (४+२१=२५) नाही.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 42,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>विसंगत संख्या जोडी ओळखा: <strong>(५, १२५), (६, २१६), (७, ३४३), (८, ५००)</strong></p>",
+    "question_text": "<p>विसंगत संख्या जोडी ओळखा: <strong>(५, १२५), (६, २१६), (७, ३४३), (८, ५००)</strong></p>",
+    "options": [
+      "(५, १२५)",
+      "(६, २१६)",
+      "(७, ३४३)",
+      "(८, ५००)"
+    ],
+    "options_dict": {
+      "1": "(५, १२५)",
+      "2": "(६, २१६)",
+      "3": "(७, ३४३)",
+      "4": "(८, ५००)"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "पहिल्या संख्येत तिचा घन आहे, पण ८ चा घन ५१२ असतो, ५०० नाही.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 43,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षरांची लयबद्ध मांडणी पूर्ण करा: <strong>x _ y x _ y x _ y x _ y</strong></p>",
+    "question_text": "<p>अक्षरांची लयबद्ध मांडणी पूर्ण करा: <strong>x _ y x _ y x _ y x _ y</strong></p>",
+    "options": [
+      "y x y x",
+      "x y x y",
+      "y y x x",
+      "x x y y"
+    ],
+    "options_dict": {
+      "1": "y x y x",
+      "2": "x y x y",
+      "3": "y y x x",
+      "4": "x x y y"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'x y' ही जोडी वारंवार येते: xy | xy | xy | xy. रिकाम्या जागी y, x, y, x अक्षरे येतात.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 44,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका घनाकृती फाशावर ४ च्या लगत २, ३, ५, ६ हे अंक असल्यास ४ च्या विरुद्ध पृष्ठावर कोणता अंक असेल?</p>",
+    "question_text": "<p>एका घनाकृती फाशावर ४ च्या लगत २, ३, ५, ६ हे अंक असल्यास ४ च्या विरुद्ध पृष्ठावर कोणता अंक असेल?</p>",
+    "options": [
+      "१",
+      "२",
+      "५",
+      "६"
+    ],
+    "options_dict": {
+      "1": "१",
+      "2": "२",
+      "3": "५",
+      "4": "६"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "उरलेला अंक '१' हा ४ च्या विरुद्ध पृष्ठावर येईल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 45,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>आरशातील प्रतिमा: घड्याळात प्रत्यक्ष ४:२५ वेळ झाली असल्यास आरशात किती वाजल्याचा भास होईल?</p>",
+    "question_text": "<p>आरशातील प्रतिमा: घड्याळात प्रत्यक्ष ४:२५ वेळ झाली असल्यास आरशात किती वाजल्याचा भास होईल?</p>",
+    "options": [
+      "७:२५",
+      "७:३५",
+      "८:३५",
+      "६:३५"
+    ],
+    "options_dict": {
+      "1": "७:२५",
+      "2": "७:३५",
+      "3": "८:३५",
+      "4": "६:३५"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "११:६० - ४:२५ = ७:३५.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 46,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पाण्यातील प्रतिबिंब: खालीलपैकी कोणत्या अक्षरांचे (C, E, X) पाण्यातील प्रतिबिंब मूळ अक्षरासारखेच दिसते?</p>",
+    "question_text": "<p>पाण्यातील प्रतिबिंब: खालीलपैकी कोणत्या अक्षरांचे (C, E, X) पाण्यातील प्रतिबिंब मूळ अक्षरासारखेच दिसते?</p>",
+    "options": [
+      "C",
+      "E",
+      "X",
+      "वरील सर्व"
+    ],
+    "options_dict": {
+      "1": "C",
+      "2": "E",
+      "3": "X",
+      "4": "वरील सर्व"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "C, E, X या सर्व अक्षरांना आडवी सममिती (Horizontal symmetry) असल्याने त्यांचे पाण्यातील प्रतिबिंब मूळ अक्षरासारखेच दिसते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 47,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्यांच्या मांडणीतील संबंध शोधून प्रश्नचिन्हाच्या जागी योग्य संख्या लिहा: <br>२, ५, ११, २३, ४७, ?</p>",
+    "question_text": "<p>संख्यांच्या मांडणीतील संबंध शोधून प्रश्नचिन्हाच्या जागी योग्य संख्या लिहा: <br>२, ५, ११, २३, ४७, ?</p>",
+    "options": [
+      "९१",
+      "९३",
+      "९५",
+      "९७"
+    ],
+    "options_dict": {
+      "1": "९१",
+      "2": "९३",
+      "3": "९५",
+      "4": "९७"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "नियम: × २ + १ => ४७ × २ + १ = ९४ + १ = ९५.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 48,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'RED' = २७ (१८+५+४), तर 'BLUE' = किती?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'RED' = २७ (१८+५+४), तर 'BLUE' = किती?</p>",
+    "options": [
+      "३८",
+      "४०",
+      "४२",
+      "४४"
+    ],
+    "options_dict": {
+      "1": "३८",
+      "2": "४०",
+      "3": "४२",
+      "4": "४४"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "B (२) + L (१२) + U (२१) + E (५) = ४०.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 49,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका व्यक्तीचे तोंड पूर्वेकडे आहे. ती उजवीकडे ९०° वळली, नंतर पुन्हा उजवीकडे ९०° वळली, तर आता तिचे तोंड कोणत्या दिशेला असेल?</p>",
+    "question_text": "<p>एका व्यक्तीचे तोंड पूर्वेकडे आहे. ती उजवीकडे ९०° वळली, नंतर पुन्हा उजवीकडे ९०° वळली, तर आता तिचे तोंड कोणत्या दिशेला असेल?</p>",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पश्चिम",
+      "पूर्व"
+    ],
+    "options_dict": {
+      "1": "उत्तर",
+      "2": "दक्षिण",
+      "3": "पश्चिम",
+      "4": "पूर्व"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "पूर्व + ९०° उजवीकडे = दक्षिण. दक्षिण + ९०° उजवीकडे = पश्चिम.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 50,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका रांगेत ५२ विद्यार्थ्यांमध्ये अमितचा क्रमांक वरून १५ वा असल्यास खालून त्याचा क्रमांक कितवा असेल?</p>",
+    "question_text": "<p>एका रांगेत ५२ विद्यार्थ्यांमध्ये अमितचा क्रमांक वरून १५ वा असल्यास खालून त्याचा क्रमांक कितवा असेल?</p>",
+    "options": [
+      "३६ वा",
+      "३७ वा",
+      "३८ वा",
+      "३९ वा"
+    ],
+    "options_dict": {
+      "1": "३६ वा",
+      "2": "३७ वा",
+      "3": "३८ वा",
+      "4": "३९ वा"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "५२ - १५ + १ = ३८ वा.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 51,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>७, १४, २८, ५६, ११२, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>७, १४, २८, ५६, ११२, ?</strong></p>",
+    "options": [
+      "२१०",
+      "२२४",
+      "२३८",
+      "२४०"
+    ],
+    "options_dict": {
+      "1": "२१०",
+      "2": "२२४",
+      "3": "२३८",
+      "4": "२४०"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "प्रत्येक संख्येस २ ने गुणले आहे: ११२ × २ = २२४.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 52,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>३, ५, ९, १७, ३३, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>३, ५, ९, १७, ३३, ?</strong></p>",
+    "options": [
+      "४९",
+      "५५",
+      "६५",
+      "७५"
+    ],
+    "options_dict": {
+      "1": "४९",
+      "2": "५५",
+      "3": "६५",
+      "4": "७५"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "फरक दुप्पट होत आहे (+२, +४, +८, +१६, +३२): ३३ + ३२ = ६५.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 53,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षर मालिका पूर्ण करा: <strong>C, G, K, O, S, ?</strong></p>",
+    "question_text": "<p>अक्षर मालिका पूर्ण करा: <strong>C, G, K, O, S, ?</strong></p>",
+    "options": [
+      "U",
+      "V",
+      "W",
+      "X"
+    ],
+    "options_dict": {
+      "1": "U",
+      "2": "V",
+      "3": "W",
+      "4": "X"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "अक्षरांचा फरक +४: S (१९) + ४ = २३ म्हणजेच 'W'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 54,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>विसंगत शब्द ओळखा: <strong>विहीर, तळे, नदी, धरण</strong></p>",
+    "question_text": "<p>विसंगत शब्द ओळखा: <strong>विहीर, तळे, नदी, धरण</strong></p>",
+    "options": [
+      "विहीर",
+      "तळे",
+      "नदी",
+      "धरण"
+    ],
+    "options_dict": {
+      "1": "विहीर",
+      "2": "तळे",
+      "3": "नदी",
+      "4": "धरण"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "नदीचे पाणी नैसर्गिकरीत्या प्रवाहित असते, तर विहीर, तळे व धरण यांमधील पाणी साठवलेले (अडवलेले) असते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 55,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>सूर्य : प्रकाश :: अन्न : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>सूर्य : प्रकाश :: अन्न : ?</strong></p>",
+    "options": [
+      "तहान",
+      "ऊर्जा (शक्ती)",
+      "पाणी",
+      "भूक"
+    ],
+    "options_dict": {
+      "1": "तहान",
+      "2": "ऊर्जा (शक्ती)",
+      "3": "पाणी",
+      "4": "भूक"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "सूर्यापासून प्रकाश मिळतो, त्याप्रमाणे अन्नापासून शरीराला ऊर्जा मिळते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 56,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>१५ : २२५ :: २० : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>१५ : २२५ :: २० : ?</strong></p>",
+    "options": [
+      "३००",
+      "३५०",
+      "४००",
+      "४५०"
+    ],
+    "options_dict": {
+      "1": "३००",
+      "2": "३५०",
+      "3": "४००",
+      "4": "४५०"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "१५ चा वर्ग = २२५, २० चा वर्ग = ४००.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 57,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'FOX' ला '६१५२४' लिहिले, तर 'CAT' ला कसे लिहिले जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'FOX' ला '६१५२४' लिहिले, तर 'CAT' ला कसे लिहिले जाईल?</p>",
+    "options": [
+      "३१२०",
+      "३२२०",
+      "२१२०",
+      "३१२१"
+    ],
+    "options_dict": {
+      "1": "३१२०",
+      "2": "३२२०",
+      "3": "२१२०",
+      "4": "३१२१"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "C (३), A (१), T (२०) => ३१२०.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 58,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>नातेसंबंध: एका छायाचित्रातील व्यक्तीकडे बोट दाखवून स्वाती म्हणाली, 'ही माझ्या आजोबांच्या एकुलत्या एका मुलाची बहीण आहे.' तर ती व्यक्ती स्वातीची कोण?</p>",
+    "question_text": "<p>नातेसंबंध: एका छायाचित्रातील व्यक्तीकडे बोट दाखवून स्वाती म्हणाली, 'ही माझ्या आजोबांच्या एकुलत्या एका मुलाची बहीण आहे.' तर ती व्यक्ती स्वातीची कोण?</p>",
+    "options": [
+      "मावशी",
+      "आत्या",
+      "आई",
+      "काकू"
+    ],
+    "options_dict": {
+      "1": "मावशी",
+      "2": "आत्या",
+      "3": "आई",
+      "4": "काकू"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "स्वातीच्या आजोबांचा एकुलता एक मुलगा म्हणजे स्वातीचे वडील. वडिलांची बहीण म्हणजे स्वातीची आत्या.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 59,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>दिशा ज्ञान: एक गाडी दक्षिणेकडे १० किमी गेली, नंतर डावीकडे वळून २४ किमी गेली. तर सुरुवातीच्या ठिकाणापासून तिचे थेट अंतर किती किमी असेल?</p>",
+    "question_text": "<p>दिशा ज्ञान: एक गाडी दक्षिणेकडे १० किमी गेली, नंतर डावीकडे वळून २४ किमी गेली. तर सुरुवातीच्या ठिकाणापासून तिचे थेट अंतर किती किमी असेल?</p>",
+    "options": [
+      "२४ किमी",
+      "२५ किमी",
+      "२६ किमी",
+      "२८ किमी"
+    ],
+    "options_dict": {
+      "1": "२४ किमी",
+      "2": "२५ किमी",
+      "3": "२६ किमी",
+      "4": "२८ किमी"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "कर्ण = √(१०² + २४²) = √(१०० + ५७६) = √६७६ = २६ किमी.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 60,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका रांगेत ४८ विद्यार्थ्यांमध्ये रोहिणीचा क्रमांक उजवीकडून २० वा असल्यास डावीकडून कितवा असेल?</p>",
+    "question_text": "<p>एका रांगेत ४८ विद्यार्थ्यांमध्ये रोहिणीचा क्रमांक उजवीकडून २० वा असल्यास डावीकडून कितवा असेल?</p>",
+    "options": [
+      "२७ वा",
+      "२८ वा",
+      "२९ वा",
+      "३० वा"
+    ],
+    "options_dict": {
+      "1": "२७ वा",
+      "2": "२८ वा",
+      "3": "२९ वा",
+      "4": "३० वा"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "४८ - २० + १ = २९ वा.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 61,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>आज सोमवार आहे, तर आजपासून ७० दिवसांनी कोणता वार असेल?</p>",
+    "question_text": "<p>आज सोमवार आहे, तर आजपासून ७० दिवसांनी कोणता वार असेल?</p>",
+    "options": [
+      "रविवार",
+      "सोमवार",
+      "मंगळवार",
+      "बुधवार"
+    ],
+    "options_dict": {
+      "1": "रविवार",
+      "2": "सोमवार",
+      "3": "मंगळवार",
+      "4": "बुधवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "७० ÷ ७ = १० पूर्ण आठवडे (बाकी ०). वार बदलणार नाही, तोच सोमवार असेल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 62,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>घड्याळात सकाळी ६:०० वाजता दोन काट्यांमध्ये किती अंशाचा कोन असतो?</p>",
+    "question_text": "<p>घड्याळात सकाळी ६:०० वाजता दोन काट्यांमध्ये किती अंशाचा कोन असतो?</p>",
+    "options": [
+      "९०°",
+      "१२०°",
+      "१५०°",
+      "१८०°"
+    ],
+    "options_dict": {
+      "1": "९०°",
+      "2": "१२०°",
+      "3": "१५०°",
+      "4": "१८०°"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "६:०० वाजता दोन्ही काटे परस्पर विरुद्ध दिशेला असतात, म्हणजेच सरळकोन १८०° असतो.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 63,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>तार्किक विचार: सर्व पक्षी उडतात आणि सर्व पोपट पक्षी आहेत. तर खालीलपैकी कोणते विधान निश्चित सत्य आहे?</p>",
+    "question_text": "<p>तार्किक विचार: सर्व पक्षी उडतात आणि सर्व पोपट पक्षी आहेत. तर खालीलपैकी कोणते विधान निश्चित सत्य आहे?</p>",
+    "options": [
+      "सर्व पोपट उडतात.",
+      "काही पोपट उडत नाहीत.",
+      "सर्व पक्षी पोपट आहेत.",
+      "पोपट व पक्षी यांचा संबंध नाही."
+    ],
+    "options_dict": {
+      "1": "सर्व पोपट उडतात.",
+      "2": "काही पोपट उडत नाहीत.",
+      "3": "सर्व पक्षी पोपट आहेत.",
+      "4": "पोपट व पक्षी यांचा संबंध नाही."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पोपट ⊂ पक्षी ⊂ उडणारे. म्हणून सर्व पोपट उडतात हे निश्चित सत्य.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 64,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>वेन आकृती: <strong>'भारत, महाराष्ट्र, पुणे'</strong> यांचा योग्य संबंध कोणत्या आकृतीने दर्शवला जाईल?</p>",
+    "question_text": "<p>वेन आकृती: <strong>'भारत, महाराष्ट्र, पुणे'</strong> यांचा योग्य संबंध कोणत्या आकृतीने दर्शवला जाईल?</p>",
+    "options": [
+      "पुणे हे महाराष्ट्रात आहे आणि महाराष्ट्र भारतात आहे (तिन्ही समकेंद्री वर्तुळे).",
+      "तिन्ही स्वतंत्र आहेत.",
+      "पुणे महाराष्ट्राबाहेर आहे.",
+      "महाराष्ट्र भारताबाहेर आहे."
+    ],
+    "options_dict": {
+      "1": "पुणे हे महाराष्ट्रात आहे आणि महाराष्ट्र भारतात आहे (तिन्ही समकेंद्री वर्तुळे).",
+      "2": "तिन्ही स्वतंत्र आहेत.",
+      "3": "पुणे महाराष्ट्राबाहेर आहे.",
+      "4": "महाराष्ट्र भारताबाहेर आहे."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पुणे ⊂ महाराष्ट्र ⊂ भारत (तिन्ही एकाच्या आत एक वर्तुळे).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 65,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>विसंगत संख्या जोडी ओळखा: <strong>(२, १६), (३, ८१), (४, २५६), (५, ५००)</strong></p>",
+    "question_text": "<p>विसंगत संख्या जोडी ओळखा: <strong>(२, १६), (३, ८१), (४, २५६), (५, ५००)</strong></p>",
+    "options": [
+      "(२, १६)",
+      "(३, ८१)",
+      "(४, २५६)",
+      "(५, ५००)"
+    ],
+    "options_dict": {
+      "1": "(२, १६)",
+      "2": "(३, ८१)",
+      "3": "(४, २५६)",
+      "4": "(५, ५००)"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "पहिल्या संख्येचा चौथा घात दिला आहे (२⁴=१६, ३⁴=८१, ४⁴=२५६), परंतु ५ चा चौथा घात ५⁴ = ६२५ असतो, ५०० नाही.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 66,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'KITE' ला 'LJUF' लिहिले, तर 'BIRD' ला कसे लिहिले जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'KITE' ला 'LJUF' लिहिले, तर 'BIRD' ला कसे लिहिले जाईल?</p>",
+    "options": [
+      "CJSE",
+      "CJRE",
+      "CKSE",
+      "DISE"
+    ],
+    "options_dict": {
+      "1": "CJSE",
+      "2": "CJRE",
+      "3": "CKSE",
+      "4": "DISE"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "प्रत्येक अक्षरात +१: B+१=C, I+१=J, R+१=S, D+१=E => CJSE.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 67,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>आरशातील प्रतिमा: 'A' या अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते का?</p>",
+    "question_text": "<p>आरशातील प्रतिमा: 'A' या अक्षराची आरशातील प्रतिमा मूळ अक्षरासारखीच दिसते का?</p>",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "options_dict": {
+      "1": "A",
+      "2": "B",
+      "3": "C",
+      "4": "D"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "‘A’ हे अक्षर उभ्या अक्षाभोवती सममित असल्याने आरशात अगदी सारखेच दिसते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 68,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्यांच्या मांडणीतील संबंध शोधून प्रश्नचिन्हाच्या जागी योग्य संख्या लिहा: <br>४, ८, १६, ३२, ६४, ?</p>",
+    "question_text": "<p>संख्यांच्या मांडणीतील संबंध शोधून प्रश्नचिन्हाच्या जागी योग्य संख्या लिहा: <br>४, ८, १६, ३२, ६४, ?</p>",
+    "options": [
+      "९६",
+      "१००",
+      "१२८",
+      "१४४"
+    ],
+    "options_dict": {
+      "1": "९६",
+      "2": "१००",
+      "3": "१२८",
+      "4": "१४४"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "प्रत्येक संख्येस २ ने गुणले आहे: ६४ × २ = १२८.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 69,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'MAN' = २८ (१३+१+१४), तर 'WOMAN' = किती?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'MAN' = २८ (१३+१+१४), तर 'WOMAN' = किती?</p>",
+    "options": [
+      "६०",
+      "६४",
+      "६६",
+      "६८"
+    ],
+    "options_dict": {
+      "1": "६०",
+      "2": "६४",
+      "3": "६६",
+      "4": "६८"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "W (२३) + O (१५) + M (१३) + A (१) + N (१४) = ६६.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 70,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका मैदानात काही माणसे आणि काही घोडे आहेत. एकूण डोकी १८ असून पायांची संख्या ५६ असल्यास घोड्यांची संख्या किती?</p>",
+    "question_text": "<p>एका मैदानात काही माणसे आणि काही घोडे आहेत. एकूण डोकी १८ असून पायांची संख्या ५६ असल्यास घोड्यांची संख्या किती?</p>",
+    "options": [
+      "८",
+      "१०",
+      "१२",
+      "१४"
+    ],
+    "options_dict": {
+      "1": "८",
+      "2": "१०",
+      "3": "१२",
+      "4": "१४"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "घोड्यांची संख्या = (५६ - २ × १८)/२ = (५६ - ३६)/२ = २०/२ = १० घोडे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 71,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>१, ६, १५, २८, ४५, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>१, ६, १५, २८, ४५, ?</strong></p>",
+    "options": [
+      "६०",
+      "६४",
+      "६६",
+      "७०"
+    ],
+    "options_dict": {
+      "1": "६०",
+      "2": "६४",
+      "3": "६६",
+      "4": "७०"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "फरक: +५, +९, +१३, +१७, +२१ => ४५ + २१ = ६६ (फरकात +४ ने वाढ होत आहे).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 72,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षर मालिका पूर्ण करा: <strong>D, H, L, P, T, ?</strong></p>",
+    "question_text": "<p>अक्षर मालिका पूर्ण करा: <strong>D, H, L, P, T, ?</strong></p>",
+    "options": [
+      "V",
+      "W",
+      "X",
+      "Y"
+    ],
+    "options_dict": {
+      "1": "V",
+      "2": "W",
+      "3": "X",
+      "4": "Y"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "अक्षरांचा फरक +४: T (२०) + ४ = २४ म्हणजेच 'X'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 73,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>विसंगत पद ओळखा: <strong>गुलाब, मोगरा, जास्वंद, सफरचंद</strong></p>",
+    "question_text": "<p>विसंगत पद ओळखा: <strong>गुलाब, मोगरा, जास्वंद, सफरचंद</strong></p>",
+    "options": [
+      "गुलाब",
+      "मोगरा",
+      "जास्वंद",
+      "सफरचंद"
+    ],
+    "options_dict": {
+      "1": "गुलाब",
+      "2": "मोगरा",
+      "3": "जास्वंद",
+      "4": "सफरचंद"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "गुलाब, मोगरा व जास्वंद ही फुले आहेत, तर सफरचंद हे फळ आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 74,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>१२१ : ११ :: १९६ : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>१२१ : ११ :: १९६ : ?</strong></p>",
+    "options": [
+      "१२",
+      "१३",
+      "१४",
+      "१६"
+    ],
+    "options_dict": {
+      "1": "१२",
+      "2": "१३",
+      "3": "१४",
+      "4": "१६"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "१२१ चे वर्गमूळ ११, १९६ चे वर्गमूळ १४.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 75,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका फाशावर ३ च्या लगत १, २, ५, ६ हे अंक असल्यास ३ च्या विरुद्ध पृष्ठावर कोणता अंक येईल?</p>",
+    "question_text": "<p>एका फाशावर ३ च्या लगत १, २, ५, ६ हे अंक असल्यास ३ च्या विरुद्ध पृष्ठावर कोणता अंक येईल?</p>",
+    "options": [
+      "१",
+      "२",
+      "४",
+      "६"
+    ],
+    "options_dict": {
+      "1": "१",
+      "2": "२",
+      "3": "४",
+      "4": "६"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "उरलेला अंक '४' हा ३ च्या विरुद्ध पृष्ठावर येईल.",
+    "difficulty": "कठीण"
   }
 ]
