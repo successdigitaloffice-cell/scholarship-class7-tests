@@ -1,330 +1,1727 @@
 [
   {
+    "q_no": 1,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Speech & Tags सोपे",
-    "question": "In topic 'Direct-Indirect Speech Basics & Question Tags': What is the antonym of 'Courage'?",
+    "section": "1",
+    "question": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Physical fitness is not merely about physical strength; it is a holistic state of complete bodily health, mental alertness, and emotional balance. Regular physical exercise strengthens the cardiovascular system, improves blood circulation, boosts immunity, and releases endorphins that elevate mood and reduce mental stress. A balanced diet consisting of fresh vegetables, seasonal fruits, whole grains, and sufficient protein complements regular physical workouts. In our modern sedentary lifestyle dominated by computers and screen time, maintaining daily physical activity is the best preventive medicine against lifestyle diseases.</p></div><p>What is physical fitness according to the passage?</p>",
+    "question_text": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Physical fitness is not merely about physical strength; it is a holistic state of complete bodily health, mental alertness, and emotional balance. Regular physical exercise strengthens the cardiovascular system, improves blood circulation, boosts immunity, and releases endorphins that elevate mood and reduce mental stress. A balanced diet consisting of fresh vegetables, seasonal fruits, whole grains, and sufficient protein complements regular physical workouts. In our modern sedentary lifestyle dominated by computers and screen time, maintaining daily physical activity is the best preventive medicine against lifestyle diseases.</p></div><p>What is physical fitness according to the passage?</p>",
     "options": [
-      "Cowardice",
-      "Bravery",
-      "Heroism",
-      "Strength"
+      "Only building huge muscles",
+      "A state of bodily health, mental alertness, and emotional balance",
+      "Sleeping for long hours",
+      "Avoiding sports"
     ],
-    "answer": 0,
-    "explanation": "Courage (धैर्य) चा विरुद्धार्थी शब्द Cowardice (भित्रेपणा) आहे.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Speech & Tags सोपे",
-    "question": "Which prefix can be added to 'HONEST' to make its opposite?",
-    "options": [
-      "Mis-",
-      "In-",
-      "Dis- (Dishonest)",
-      "Un-"
-    ],
+    "options_dict": {
+      "1": "Only building huge muscles",
+      "2": "A state of bodily health, mental alertness, and emotional balance",
+      "3": "Sleeping for long hours",
+      "4": "Avoiding sports"
+    },
     "answer": 2,
-    "explanation": "'Dis-' हा उपसर्ग जोडून Dishonest (अप्रामाणिक) हा शब्द बनतो.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "correct_option": "3",
+    "explanation": "Physical fitness is a holistic state of physical, mental, and emotional wellness.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 2,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Speech & Tags सोपे",
-    "question": "A person who treats patients is called a ____.",
+    "section": "1",
+    "question": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Physical fitness is not merely about physical strength; it is a holistic state of complete bodily health, mental alertness, and emotional balance. Regular physical exercise strengthens the cardiovascular system, improves blood circulation, boosts immunity, and releases endorphins that elevate mood and reduce mental stress. A balanced diet consisting of fresh vegetables, seasonal fruits, whole grains, and sufficient protein complements regular physical workouts. In our modern sedentary lifestyle dominated by computers and screen time, maintaining daily physical activity is the best preventive medicine against lifestyle diseases.</p></div><p>How does regular physical exercise benefit the human brain and mood?</p>",
+    "question_text": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Physical fitness is not merely about physical strength; it is a holistic state of complete bodily health, mental alertness, and emotional balance. Regular physical exercise strengthens the cardiovascular system, improves blood circulation, boosts immunity, and releases endorphins that elevate mood and reduce mental stress. A balanced diet consisting of fresh vegetables, seasonal fruits, whole grains, and sufficient protein complements regular physical workouts. In our modern sedentary lifestyle dominated by computers and screen time, maintaining daily physical activity is the best preventive medicine against lifestyle diseases.</p></div><p>How does regular physical exercise benefit the human brain and mood?</p>",
     "options": [
-      "Lawyer",
-      "Doctor",
-      "Teacher",
-      "Engineer"
+      "By causing extreme tiredness",
+      "By releasing endorphins that reduce mental stress",
+      "By weakening blood flow",
+      "By increasing anxiety"
     ],
-    "answer": 1,
-    "explanation": "रुग्णांवर उपचार करणाऱ्या व्यक्तीस 'Doctor' म्हणतात.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Speech & Tags सोपे",
-    "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
-    "options": [
-      "Honesty",
-      "The",
-      "Best",
-      "Is"
-    ],
-    "answer": 0,
-    "explanation": "'Honesty' (प्रामाणिकपणा) हे भाववाचक नाम (Abstract Noun) आहे.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Speech & Tags सोपे",
-    "question": "Which article is used before 'Unique'?",
-    "options": [
-      "The",
-      "No article",
-      "A (A unique)",
-      "An"
-    ],
+    "options_dict": {
+      "1": "By causing extreme tiredness",
+      "2": "By releasing endorphins that reduce mental stress",
+      "3": "By weakening blood flow",
+      "4": "By increasing anxiety"
+    },
     "answer": 2,
-    "explanation": "'Unique' चा उच्चार व्यंजनासारखा ('यु') होत असल्याने 'A' उपपद येते.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "correct_option": "3",
+    "explanation": "Exercise releases endorphins that reduce stress and elevate mood.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 3,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Speech & Tags सोपे",
-    "question": "What is the comparative degree of 'Good'?",
+    "section": "1",
+    "question": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Physical fitness is not merely about physical strength; it is a holistic state of complete bodily health, mental alertness, and emotional balance. Regular physical exercise strengthens the cardiovascular system, improves blood circulation, boosts immunity, and releases endorphins that elevate mood and reduce mental stress. A balanced diet consisting of fresh vegetables, seasonal fruits, whole grains, and sufficient protein complements regular physical workouts. In our modern sedentary lifestyle dominated by computers and screen time, maintaining daily physical activity is the best preventive medicine against lifestyle diseases.</p></div><p>What is described as the best preventive medicine against lifestyle diseases?</p>",
+    "question_text": "<div class='passage-box'><p><strong>Read the following passage carefully and answer the questions that follow (Q. 1 to Q. 3):</strong></p><p>Physical fitness is not merely about physical strength; it is a holistic state of complete bodily health, mental alertness, and emotional balance. Regular physical exercise strengthens the cardiovascular system, improves blood circulation, boosts immunity, and releases endorphins that elevate mood and reduce mental stress. A balanced diet consisting of fresh vegetables, seasonal fruits, whole grains, and sufficient protein complements regular physical workouts. In our modern sedentary lifestyle dominated by computers and screen time, maintaining daily physical activity is the best preventive medicine against lifestyle diseases.</p></div><p>What is described as the best preventive medicine against lifestyle diseases?</p>",
     "options": [
-      "Gooder",
-      "Best",
-      "More good",
-      "Better"
+      "Taking expensive pills",
+      "Maintaining daily physical activity and a balanced diet",
+      "Sitting in front of screens all day",
+      "Skipping meals"
     ],
-    "answer": 3,
-    "explanation": "Good (Positive) -> Better (Comparative) -> Best (Superlative).",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "Choose the correct Passive voice of: 'She writes a letter.'",
-    "options": [
-      "A letter is being written by her.",
-      "She is writing a letter.",
-      "A letter was written by her.",
-      "A letter is written by her."
-    ],
-    "answer": 3,
-    "explanation": "Simple Present Tense: Subject + is/am/are + V3 + by + object -> A letter is written by her.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "Add the correct question tag: 'You are coming with us, ____?'",
-    "options": [
-      "Are you?",
-      "Aren't you?",
-      "Won't you?",
-      "Don't you?"
-    ],
-    "answer": 1,
-    "explanation": "होकारार्थी वाक्याला नकारार्थी टॅग लागतो: 'Aren't you?'",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "The train arrived ____ 6 o'clock in the evening.",
-    "options": [
-      "At",
-      "In",
-      "On",
-      "By"
-    ],
-    "answer": 0,
-    "explanation": "निश्चित वेळेपूर्वी 'at' हा शब्दयोगी अव्यय वापरतात (at 6 o'clock).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "Neither of the boys ____ present yesterday.",
-    "options": [
-      "Was",
-      "Were",
-      "Are",
-      "Have been"
-    ],
-    "answer": 0,
-    "explanation": "'Neither of' नंतर क्रियापद नेहमी एकवचनी येते (भूतकाळात 'was').",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "What is the meaning of the idiom 'To cry over spilt milk'?",
-    "options": [
-      "To weep loudly",
-      "To regret uselessly for past loss",
-      "To drop milk on floor",
-      "To drink warm milk"
-    ],
-    "answer": 1,
-    "explanation": "घडलेल्या अपरिहार्य चुकीबद्दल व्यर्थ हळहळ व्यक्त करणे असा या वाक्प्रचाराचा अर्थ आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "Identify the type of sentence: 'Please shut the window.'",
-    "options": [
-      "Declarative sentence",
-      "Exclamatory sentence",
-      "Imperative sentence (आज्ञार्थी)",
-      "Interrogative sentence"
-    ],
+    "options_dict": {
+      "1": "Taking expensive pills",
+      "2": "Maintaining daily physical activity and a balanced diet",
+      "3": "Sitting in front of screens all day",
+      "4": "Skipping meals"
+    },
     "answer": 2,
-    "explanation": "विनंती किंवा आज्ञा दर्शवणारे वाक्य 'Imperative sentence' असते.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "3",
+    "explanation": "Daily physical activity combined with healthy food prevents lifestyle illnesses.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 4,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "Select the correctly spelt word:",
+    "section": "1",
+    "question": "<p>Choose the correct synonym of the underlined word: 'The diligent student worked with <u>perseverance</u> to win the scholarship.'</p>",
+    "question_text": "<p>Choose the correct synonym of the underlined word: 'The diligent student worked with <u>perseverance</u> to win the scholarship.'</p>",
     "options": [
-      "Acomodation",
-      "Acommodation",
-      "Accommodation",
-      "Accomodation"
+      "laziness",
+      "persistence",
+      "carelessness",
+      "haste"
     ],
+    "options_dict": {
+      "1": "laziness",
+      "2": "persistence",
+      "3": "carelessness",
+      "4": "haste"
+    },
     "answer": 2,
-    "explanation": "'Accommodation' (दोन c आणि दोन m) ही अचूक स्पेलिंग आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "3",
+    "explanation": "'Perseverance' means continuous effort and determination; 'persistence' is its synonym.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 5,
     "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "What is a 'Centenarian'?",
+    "section": "1",
+    "question": "<p>Select the correct antonym of the word: <strong>'Expand'</strong>.</p>",
+    "question_text": "<p>Select the correct antonym of the word: <strong>'Expand'</strong>.</p>",
     "options": [
-      "A person who plays cricket",
-      "A person who loves books",
-      "A century maker",
-      "A person who has reached the age of 100"
+      "Enlarge",
+      "Contract",
+      "Stretch",
+      "Broaden"
     ],
-    "answer": 3,
-    "explanation": "शंभर वर्षे वयाची व्यक्ती म्हणजे 'Centenarian' (शतायुषी).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "Change into Indirect Speech: He said, 'I am very busy now.'",
-    "options": [
-      "He said that he is very busy then.",
-      "He said that he was very busy then.",
-      "He said that I was very busy now.",
-      "He told that he had been busy."
-    ],
-    "answer": 1,
-    "explanation": "said that + I चे he + am चे was + now चे then -> He said that he was very busy then.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Speech & Tags मध्यम",
-    "question": "Complete the proverb: 'A stitch in time saves ____.'",
-    "options": [
-      "Time",
-      "Five",
-      "Nine",
-      "Ten"
-    ],
+    "options_dict": {
+      "1": "Enlarge",
+      "2": "Contract",
+      "3": "Stretch",
+      "4": "Broaden"
+    },
     "answer": 2,
-    "explanation": "'A stitch in time saves nine' (वेळेवर केलेली खबरदारी पुढील मोठे नुकसान टाळते).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "3",
+    "explanation": "'Expand' means to increase in size; its opposite is 'Contract'.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 6,
     "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Speech & Tags कठीण",
-    "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+    "section": "1",
+    "question": "<p>Identify the one-word substitution for: <strong>'A doctor who specializes in treating heart diseases'</strong>.</p>",
+    "question_text": "<p>Identify the one-word substitution for: <strong>'A doctor who specializes in treating heart diseases'</strong>.</p>",
     "options": [
-      "Personification (चेतनगुणोक्ती)",
-      "Metaphor (रूपक)",
-      "Alliteration (अनुप्रास)",
-      "Simile (उपमा)"
+      "Dermatologist",
+      "Cardiologist",
+      "Neurologist",
+      "Orthopaedist"
     ],
-    "answer": 0,
-    "explanation": "वाऱ्याला मानवासारखा बोलण्याचा गुणधर्म दिल्याने 'Personification' अलंकार होतो.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "options_dict": {
+      "1": "Dermatologist",
+      "2": "Cardiologist",
+      "3": "Neurologist",
+      "4": "Orthopaedist"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "A heart specialist is called a cardiologist.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 7,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Speech & Tags कठीण",
-    "question": "Change degree: 'Mount Everest is higher than any other peak in the world.' (Into Superlative)",
+    "section": "1",
+    "question": "<p>Choose the correct collective noun: 'A ______ of keys was found lying on the pavement.'</p>",
+    "question_text": "<p>Choose the correct collective noun: 'A ______ of keys was found lying on the pavement.'</p>",
     "options": [
-      "Mount Everest is as high as any peak.",
-      "Mount Everest is the highest peak in the world.",
-      "Mount Everest is very high peak.",
-      "No other peak is the highest."
+      "bunch",
+      "flock",
+      "pack",
+      "fleet"
     ],
+    "options_dict": {
+      "1": "bunch",
+      "2": "flock",
+      "3": "pack",
+      "4": "fleet"
+    },
     "answer": 1,
-    "explanation": "Superlative: 'the highest peak in the world'.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "correct_option": "2",
+    "explanation": "A collection of keys tied together is called a 'bunch'.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 8,
     "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Speech & Tags कठीण",
-    "question": "Choose the correct sentence with proper Concord (Subject-Verb Agreement):",
+    "section": "1",
+    "question": "<p>Select the correctly spelt word for 'Separate' from the options.</p>",
+    "question_text": "<p>Select the correctly spelt word for 'Separate' from the options.</p>",
     "options": [
-      "Slow and steady win the race.",
-      "Slow and steady are winning the race.",
-      "Slow and steady have won the race.",
-      "Slow and steady wins the race."
+      "Separate",
+      "Seperate",
+      "Saparate",
+      "Seperet"
     ],
-    "answer": 3,
-    "explanation": "'Slow and steady' ही एकच संकल्पना दर्शवत असल्याने एकवचनी क्रियापद 'wins' येते.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "options_dict": {
+      "1": "Separate",
+      "2": "Seperate",
+      "3": "Saparate",
+      "4": "Seperet"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "The correct spelling is 'Separate' (s-e-p-a-r-a-t-e).",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 9,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Speech & Tags कठीण",
-    "question": "What is the one word for: 'One who looks at the bright side of things'?",
+    "section": "1",
+    "question": "<p>Identify the part of speech of the underlined word: '<u>Although</u> it was raining heavily, the students went to school.'</p>",
+    "question_text": "<p>Identify the part of speech of the underlined word: '<u>Although</u> it was raining heavily, the students went to school.'</p>",
     "options": [
-      "Egoist",
-      "Altruist",
-      "Pessimist (निराशावादी)",
-      "Optimist (आशावादी)"
+      "Preposition",
+      "Conjunction",
+      "Adverb",
+      "Interjection"
     ],
+    "options_dict": {
+      "1": "Preposition",
+      "2": "Conjunction",
+      "3": "Adverb",
+      "4": "Interjection"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "'Although' connects two clauses showing contrast, so it is a conjunction.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 10,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct passive voice form of: <strong>'The artist painted a magnificent landscape.'</strong></p>",
+    "question_text": "<p>Choose the correct passive voice form of: <strong>'The artist painted a magnificent landscape.'</strong></p>",
+    "options": [
+      "A magnificent landscape was painted by the artist.",
+      "A magnificent landscape is painted by the artist.",
+      "A magnificent landscape has been painted by the artist.",
+      "The artist was painted by the landscape."
+    ],
+    "options_dict": {
+      "1": "A magnificent landscape was painted by the artist.",
+      "2": "A magnificent landscape is painted by the artist.",
+      "3": "A magnificent landscape has been painted by the artist.",
+      "4": "The artist was painted by the landscape."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Simple past 'painted' changes to 'was painted' in passive voice.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 11,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct indirect speech form of: <strong>He said, 'The Earth revolves around the Sun.'</strong></p>",
+    "question_text": "<p>Choose the correct indirect speech form of: <strong>He said, 'The Earth revolves around the Sun.'</strong></p>",
+    "options": [
+      "He said that the Earth revolved around the Sun.",
+      "He said that the Earth revolves around the Sun.",
+      "He said that the Earth will revolve around the Sun.",
+      "He asked if the Earth revolves around the Sun."
+    ],
+    "options_dict": {
+      "1": "He said that the Earth revolved around the Sun.",
+      "2": "He said that the Earth revolves around the Sun.",
+      "3": "He said that the Earth will revolve around the Sun.",
+      "4": "He asked if the Earth revolves around the Sun."
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "Universal truths / scientific facts remain unchanged in indirect speech.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 12,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the correct degree: 'He is the ______ boy in our football team.'</p>",
+    "question_text": "<p>Select the correct degree: 'He is the ______ boy in our football team.'</p>",
+    "options": [
+      "fast",
+      "faster",
+      "fastest",
+      "more fast"
+    ],
+    "options_dict": {
+      "1": "fast",
+      "2": "faster",
+      "3": "fastest",
+      "4": "more fast"
+    },
     "answer": 3,
-    "explanation": "प्रत्येक गोष्टीत चांगल्या बाजूकडे पाहणारा म्हणजे Optimist (आशावादी).",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "correct_option": "4",
+    "explanation": "Superlative degree with 'the' requires 'fastest'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 13,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Identify the tense: <strong>'The sun sets in the west every evening.'</strong></p>",
+    "question_text": "<p>Identify the tense: <strong>'The sun sets in the west every evening.'</strong></p>",
+    "options": [
+      "Simple Present Tense",
+      "Present Continuous Tense",
+      "Simple Past Tense",
+      "Present Perfect Tense"
+    ],
+    "options_dict": {
+      "1": "Simple Present Tense",
+      "2": "Present Continuous Tense",
+      "3": "Simple Past Tense",
+      "4": "Present Perfect Tense"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "A habitual action expressed with simple verb 'sets' is the Simple Present Tense.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 14,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct preposition: 'The flight will arrive ______ 8:30 PM.'</p>",
+    "question_text": "<p>Choose the correct preposition: 'The flight will arrive ______ 8:30 PM.'</p>",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "into"
+    ],
+    "options_dict": {
+      "1": "at",
+      "2": "in",
+      "3": "on",
+      "4": "into"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Exact point of clock time is indicated by preposition 'at'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 15,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the correct conjunction: 'He is very rich, ______ he lives a very simple life.'</p>",
+    "question_text": "<p>Select the correct conjunction: 'He is very rich, ______ he lives a very simple life.'</p>",
+    "options": [
+      "yet (but)",
+      "because",
+      "so",
+      "or"
+    ],
+    "options_dict": {
+      "1": "yet (but)",
+      "2": "because",
+      "3": "so",
+      "4": "or"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Yet' or 'but' expresses contrast between being rich and living simply.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 16,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the modal auxiliary expressing advice: 'You ______ consult a doctor if the fever persists.'</p>",
+    "question_text": "<p>Choose the modal auxiliary expressing advice: 'You ______ consult a doctor if the fever persists.'</p>",
+    "options": [
+      "should",
+      "might",
+      "can",
+      "may"
+    ],
+    "options_dict": {
+      "1": "should",
+      "2": "might",
+      "3": "can",
+      "4": "may"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Should' is used to give friendly advice or recommendation.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 17,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Identify the dialogue sentence with the correct comma and quotation marks.</p>",
+    "question_text": "<p>Identify the dialogue sentence with the correct comma and quotation marks.</p>",
+    "options": [
+      "\"Please close the door quietly,\" said the librarian.",
+      "\"Please close the door quietly\" said the librarian?",
+      "Please close the door quietly said the librarian.",
+      "\"Please close the door quietly!\" Said the librarian?"
+    ],
+    "options_dict": {
+      "1": "\"Please close the door quietly,\" said the librarian.",
+      "2": "\"Please close the door quietly\" said the librarian?",
+      "3": "Please close the door quietly said the librarian.",
+      "4": "\"Please close the door quietly!\" Said the librarian?"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Direct polite speech correctly punctuated with comma inside quotation marks.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 18,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct prefix to form the antonym of: <strong>'Patient'</strong>.</p>",
+    "question_text": "<p>Choose the correct prefix to form the antonym of: <strong>'Patient'</strong>.</p>",
+    "options": [
+      "im-",
+      "un-",
+      "in-",
+      "dis-"
+    ],
+    "options_dict": {
+      "1": "im-",
+      "2": "un-",
+      "3": "in-",
+      "4": "dis-"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Prefix 'im-' forms 'impatient'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 19,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the meaning of the idiom: <strong>'To turn over a new leaf'</strong>.</p>",
+    "question_text": "<p>Select the meaning of the idiom: <strong>'To turn over a new leaf'</strong>.</p>",
+    "options": [
+      "To turn the page of a book",
+      "To start behaving in a better and improved way",
+      "To plant a new tree",
+      "To tear a leaf"
+    ],
+    "options_dict": {
+      "1": "To turn the page of a book",
+      "2": "To start behaving in a better and improved way",
+      "3": "To plant a new tree",
+      "4": "To tear a leaf"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "It means to reform oneself and begin a new, better course of life.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 20,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct question tag: <strong>'She sings melodiously, ______?'</strong></p>",
+    "question_text": "<p>Choose the correct question tag: <strong>'She sings melodiously, ______?'</strong></p>",
+    "options": [
+      "does she",
+      "doesn't she",
+      "isn't she",
+      "didn't she"
+    ],
+    "options_dict": {
+      "1": "does she",
+      "2": "doesn't she",
+      "3": "isn't she",
+      "4": "didn't she"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "Present simple positive with singular verb 'sings' takes negative tag 'doesn't she?'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 21,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the correct plural form of: <strong>'Foot'</strong>.</p>",
+    "question_text": "<p>Select the correct plural form of: <strong>'Foot'</strong>.</p>",
+    "options": [
+      "Foots",
+      "Feet",
+      "Feets",
+      "Footen"
+    ],
+    "options_dict": {
+      "1": "Foots",
+      "2": "Feet",
+      "3": "Feets",
+      "4": "Footen"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "The plural of 'Foot' is 'Feet'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 22,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct article: 'He is ______ university professor of physics.'</p>",
+    "question_text": "<p>Choose the correct article: 'He is ______ university professor of physics.'</p>",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "options_dict": {
+      "1": "a",
+      "2": "an",
+      "3": "the",
+      "4": "no article"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'University' begins with a consonant sound (/j/), hence article 'a' is used.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 23,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Arrange the jumbled words into a meaningful sentence: <strong>(1) everyday (2) milk (3) drinks (4) the child</strong>.</p>",
+    "question_text": "<p>Arrange the jumbled words into a meaningful sentence: <strong>(1) everyday (2) milk (3) drinks (4) the child</strong>.</p>",
+    "options": [
+      "4 - 3 - 2 - 1",
+      "1 - 2 - 3 - 4",
+      "2 - 1 - 4 - 3",
+      "3 - 4 - 1 - 2"
+    ],
+    "options_dict": {
+      "1": "4 - 3 - 2 - 1",
+      "2": "1 - 2 - 3 - 4",
+      "3": "2 - 1 - 4 - 3",
+      "4": "3 - 4 - 1 - 2"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "The child (4) drinks (3) milk (2) everyday (1).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 24,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the feminine gender of: <strong>'Tiger'</strong>.</p>",
+    "question_text": "<p>Choose the feminine gender of: <strong>'Tiger'</strong>.</p>",
+    "options": [
+      "Tigress",
+      "Bitch",
+      "Lioness",
+      "Doe"
+    ],
+    "options_dict": {
+      "1": "Tigress",
+      "2": "Bitch",
+      "3": "Lioness",
+      "4": "Doe"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "The female tiger is called a 'Tigress'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 25,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Select the appropriate word for the sound made by cows: 'Cows ______ gently in the shade of the banyan tree.'</p>",
+    "question_text": "<p>Select the appropriate word for the sound made by cows: 'Cows ______ gently in the shade of the banyan tree.'</p>",
+    "options": [
+      "low (or moo)",
+      "roar",
+      "bark",
+      "quack"
+    ],
+    "options_dict": {
+      "1": "low (or moo)",
+      "2": "roar",
+      "3": "bark",
+      "4": "quack"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Cows make the sound 'low' or 'moo'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 26,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>३, १०, २९, ६६, १२७, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>३, १०, २९, ६६, १२७, ?</strong></p>",
+    "options": [
+      "२००",
+      "२१६",
+      "२१८",
+      "२२५"
+    ],
+    "options_dict": {
+      "1": "२००",
+      "2": "२१६",
+      "3": "२१८",
+      "4": "२२५"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "n³ + २ मालिका: १³+२=३, २³+२=१०, ३³+२=२९, ४³+२=६६, ५³+२=१२७, ६³+२=२१६+२=२१८.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 27,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>१, ३, ९, २७, ८१, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>१, ३, ९, २७, ८१, ?</strong></p>",
+    "options": [
+      "१६२",
+      "२१६",
+      "२४३",
+      "२७०"
+    ],
+    "options_dict": {
+      "1": "१६२",
+      "2": "२१६",
+      "3": "२४३",
+      "4": "२७०"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "प्रत्येक संख्येस ३ ने गुणले आहे: ८१ × ३ = २४३.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 28,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षर मालिका पूर्ण करा: <strong>A, D, I, P, ?</strong></p>",
+    "question_text": "<p>अक्षर मालिका पूर्ण करा: <strong>A, D, I, P, ?</strong></p>",
+    "options": [
+      "U",
+      "V",
+      "W",
+      "Y"
+    ],
+    "options_dict": {
+      "1": "U",
+      "2": "V",
+      "3": "W",
+      "4": "Y"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "वर्ग स्थानावरील अक्षरे: A(१), D(४=२²), I(९=३²), P(१६=४²), Y(२५=५²).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 29,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>खालील पर्यायांमधून विसंगत संख्या ओळखा: <strong>३१, ३७, ४१, ४९</strong></p>",
+    "question_text": "<p>खालील पर्यायांमधून विसंगत संख्या ओळखा: <strong>३१, ३७, ४१, ४९</strong></p>",
+    "options": [
+      "३१",
+      "३७",
+      "४१",
+      "४९"
+    ],
+    "options_dict": {
+      "1": "३१",
+      "2": "३७",
+      "3": "४१",
+      "4": "४९"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "३१, ३७, ४१ या मूळ संख्या आहेत, तर ४९ ही ७ चा वर्ग (संयुक्त संख्या) आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 30,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>फ्रान्स : पॅरिस :: इटली : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>फ्रान्स : पॅरिस :: इटली : ?</strong></p>",
+    "options": [
+      "रोम",
+      "माद्रिद",
+      "बर्लिन",
+      "व्हिएन्ना"
+    ],
+    "options_dict": {
+      "1": "रोम",
+      "2": "माद्रिद",
+      "3": "बर्लिन",
+      "4": "व्हिएन्ना"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "फ्रान्सची राजधानी पॅरिस आहे, तशी इटलीची राजधानी रोम आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 31,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>१३ : १६९ :: १७ : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>१३ : १६९ :: १७ : ?</strong></p>",
+    "options": [
+      "२५६",
+      "२८९",
+      "३२४",
+      "३६१"
+    ],
+    "options_dict": {
+      "1": "२५६",
+      "2": "२८९",
+      "3": "३२४",
+      "4": "३६१"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "१३ चा वर्ग = १६९, १७ चा वर्ग = २८९.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 32,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'BUS' ला '२२११९' लिहिले, तर 'CAR' ला कसे लिहिले जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'BUS' ला '२२११९' लिहिले, तर 'CAR' ला कसे लिहिले जाईल?</p>",
+    "options": [
+      "३११८",
+      "३११७",
+      "२११८",
+      "३२१८"
+    ],
+    "options_dict": {
+      "1": "३११८",
+      "2": "३११७",
+      "3": "२११८",
+      "4": "३२१८"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "C (३), A (१), R (१८) => ३११८.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 33,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'COLD' ला 'BNKC' लिहिले (प्रत्येक अक्षरात -१), तर 'WARM' ला कसे लिहिले जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'COLD' ला 'BNKC' लिहिले (प्रत्येक अक्षरात -१), तर 'WARM' ला कसे लिहिले जाईल?</p>",
+    "options": [
+      "VZQL",
+      "VZRK",
+      "UYQL",
+      "VAPL"
+    ],
+    "options_dict": {
+      "1": "VZQL",
+      "2": "VZRK",
+      "3": "UYQL",
+      "4": "VAPL"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "प्रत्येक अक्षरात -१: W-१=V, A-१=Z, R-१=Q, M-१=L => VZQL.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 34,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>नातेसंबंध: एका छायाचित्राकडे बोट दाखवून विकास म्हणाला, 'या व्यक्तीचे वडील हे माझ्या आईचे एकुलते एक भाऊ आहेत.' तर ती व्यक्ती विकासची कोण?</p>",
+    "question_text": "<p>नातेसंबंध: एका छायाचित्राकडे बोट दाखवून विकास म्हणाला, 'या व्यक्तीचे वडील हे माझ्या आईचे एकुलते एक भाऊ आहेत.' तर ती व्यक्ती विकासची कोण?</p>",
+    "options": [
+      "मामेभाऊ / मामेबहीण",
+      "सख्खा भाऊ",
+      "काका",
+      "भाचा"
+    ],
+    "options_dict": {
+      "1": "मामेभाऊ / मामेबहीण",
+      "2": "सख्खा भाऊ",
+      "3": "काका",
+      "4": "भाचा"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "आईचा एकुलता एक भाऊ म्हणजे मामा. मामाचा मुलगा/मुलगी म्हणजेच मामेभाऊ किंवा मामेबहीण.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 35,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>दिशा ज्ञान: एक मुलगी पूर्वेकडे १० मीटर गेली, नंतर डावीकडे वळून १० मीटर गेली. तर ती सुरुवातीच्या जागेपासून कोणत्या दिशेला आहे?</p>",
+    "question_text": "<p>दिशा ज्ञान: एक मुलगी पूर्वेकडे १० मीटर गेली, नंतर डावीकडे वळून १० मीटर गेली. तर ती सुरुवातीच्या जागेपासून कोणत्या दिशेला आहे?</p>",
+    "options": [
+      "ईशान्य (उत्तर-पूर्व)",
+      "वायव्य (उत्तर-पश्चिम)",
+      "आग्नेय (दक्षिण-पूर्व)",
+      "नैऋत्य (दक्षिण-पश्चिम)"
+    ],
+    "options_dict": {
+      "1": "ईशान्य (उत्तर-पूर्व)",
+      "2": "वायव्य (उत्तर-पश्चिम)",
+      "3": "आग्नेय (दक्षिण-पूर्व)",
+      "4": "नैऋत्य (दक्षिण-पश्चिम)"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पूर्व आणि उत्तर यांच्या दरम्यानची दिशा ईशान्य (उत्तर-पूर्व) असते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 36,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका रांगेत ३९ मुले उभी आहेत. रोहनचा क्रमांक मध्यभागी असल्यास त्याचा दोन्ही बाजूंनी क्रमांक कितवा असेल?</p>",
+    "question_text": "<p>एका रांगेत ३९ मुले उभी आहेत. रोहनचा क्रमांक मध्यभागी असल्यास त्याचा दोन्ही बाजूंनी क्रमांक कितवा असेल?</p>",
+    "options": [
+      "१९ वा",
+      "२० वा",
+      "२१ वा",
+      "२२ वा"
+    ],
+    "options_dict": {
+      "1": "१९ वा",
+      "2": "२० वा",
+      "3": "२१ वा",
+      "4": "२२ वा"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "मध्यम पद = (३९ + १)/२ = २० वा क्रमांक.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 37,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>आज मंगळवार आहे, तर आजपासून २१ दिवसांनी कोणता वार असेल?</p>",
+    "question_text": "<p>आज मंगळवार आहे, तर आजपासून २१ दिवसांनी कोणता वार असेल?</p>",
+    "options": [
+      "सोमवार",
+      "मंगळवार",
+      "बुधवार",
+      "गुरुवार"
+    ],
+    "options_dict": {
+      "1": "सोमवार",
+      "2": "मंगळवार",
+      "3": "बुधवार",
+      "4": "गुरुवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "२१ ÷ ७ = ३ पूर्ण आठवडे (बाकी ०). वार बदलणार नाही, मंगळवारच असेल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 38,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>घड्याळात दुपारी २ वाजून २० मिनिटे झाली असता दोन काट्यांमध्ये किती अंशाचा कोन तयार होईल?</p>",
+    "question_text": "<p>घड्याळात दुपारी २ वाजून २० मिनिटे झाली असता दोन काट्यांमध्ये किती अंशाचा कोन तयार होईल?</p>",
+    "options": [
+      "४०°",
+      "५०°",
+      "६०°",
+      "७०°"
+    ],
+    "options_dict": {
+      "1": "४०°",
+      "2": "५०°",
+      "3": "६०°",
+      "4": "७०°"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "कोन = |३० × २ - ५.५ × २०| = |६० - ११०| = ५०°.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 39,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>तार्किक विचार: सामान्य वर्षात २६ जानेवारीला गुरुवार असल्यास त्याच वर्षात १५ ऑगस्ट रोजी कोणता वार येईल?</p>",
+    "question_text": "<p>तार्किक विचार: सामान्य वर्षात २६ जानेवारीला गुरुवार असल्यास त्याच वर्षात १५ ऑगस्ट रोजी कोणता वार येईल?</p>",
+    "options": [
+      "सोमवार",
+      "मंगळवार",
+      "बुधवार",
+      "गुरुवार"
+    ],
+    "options_dict": {
+      "1": "सोमवार",
+      "2": "मंगळवार",
+      "3": "बुधवार",
+      "4": "गुरुवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "जानेवारी उरलेले ५ दिवस + फेब २८ + मार्च ३१ + एप्रिल ३० + मे ३१ + जून ३० + जुलै ३१ + ऑगस्ट १५ = २०२ दिवस. २०२ ÷ ७ = २८ आठवडे + ६ दिवस. गुरुवार + ६ = बुधवार.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 40,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>वेन आकृती: <strong>'खेळाडू, विद्यार्थी, क्रिकेटपटू'</strong> यांच्यातील संबंध कोणत्या आकृतीने योग्य दर्शवला जाईल?</p>",
+    "question_text": "<p>वेन आकृती: <strong>'खेळाडू, विद्यार्थी, क्रिकेटपटू'</strong> यांच्यातील संबंध कोणत्या आकृतीने योग्य दर्शवला जाईल?</p>",
+    "options": [
+      "सर्व क्रिकेटपटू खेळाडू असतात, आणि काही विद्यार्थी खेळाडू व क्रिकेटपटू असू शकतात.",
+      "क्रिकेटपटू खेळाडू नसतात.",
+      "तिन्ही पूर्णपणे वेगळे आहेत.",
+      "तिन्ही समकेंद्री आहेत."
+    ],
+    "options_dict": {
+      "1": "सर्व क्रिकेटपटू खेळाडू असतात, आणि काही विद्यार्थी खेळाडू व क्रिकेटपटू असू शकतात.",
+      "2": "क्रिकेटपटू खेळाडू नसतात.",
+      "3": "तिन्ही पूर्णपणे वेगळे आहेत.",
+      "4": "तिन्ही समकेंद्री आहेत."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "क्रिकेटपटू हा खेळाडूंच्या वर्तुळात येईल, तर विद्यार्थी हे अंशतः दोन्ही वर्तुळांना छेदतील.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 41,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>खालील पर्यायांमधून विसंगत अक्षर गट ओळखा: <strong>ACE, GIK, MOQ, PRT</strong></p>",
+    "question_text": "<p>खालील पर्यायांमधून विसंगत अक्षर गट ओळखा: <strong>ACE, GIK, MOQ, PRT</strong></p>",
+    "options": [
+      "ACE",
+      "GIK",
+      "MOQ",
+      "PRT"
+    ],
+    "options_dict": {
+      "1": "ACE",
+      "2": "GIK",
+      "3": "MOQ",
+      "4": "PRT"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "ACE(१,३,५), GIK(७,९,११), MOQ(१३,१५,१७) हे विषम स्थानावरील अक्षरांचे गट आहेत, तर PRT(१६,१८,२०) हा सम स्थानावरील गट आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 42,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>विसंगत संख्या जोडी ओळखा: <strong>(२, ४), (३, ९), (४, १६), (५, २०)</strong></p>",
+    "question_text": "<p>विसंगत संख्या जोडी ओळखा: <strong>(२, ४), (३, ९), (४, १६), (५, २०)</strong></p>",
+    "options": [
+      "(२, ४)",
+      "(३, ९)",
+      "(४, १६)",
+      "(५, २०)"
+    ],
+    "options_dict": {
+      "1": "(२, ४)",
+      "2": "(३, ९)",
+      "3": "(४, १६)",
+      "4": "(५, २०)"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "पहिल्या संख्येत तिचा वर्ग आहे, पण ५ चा वर्ग २५ असतो, २० नाही.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 43,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षरांची लयबद्ध मांडणी पूर्ण करा: <strong>r s _ r _ s r _ s r _ s</strong></p>",
+    "question_text": "<p>अक्षरांची लयबद्ध मांडणी पूर्ण करा: <strong>r s _ r _ s r _ s r _ s</strong></p>",
+    "options": [
+      "s r s r",
+      "r s r s",
+      "s s r r",
+      "r r s s"
+    ],
+    "options_dict": {
+      "1": "s r s r",
+      "2": "r s r s",
+      "3": "s s r r",
+      "4": "r r s s"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'r s' जोडीची पुनरावृत्ती: rs | rs | rs | rs. रिकाम्या जागी s, r, s, r अक्षरे येतात.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 44,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका फाशावर ६ च्या लगत १, २, ४, ५ हे अंक असल्यास ६ च्या विरुद्ध पृष्ठावर कोणता अंक येईल?</p>",
+    "question_text": "<p>एका फाशावर ६ च्या लगत १, २, ४, ५ हे अंक असल्यास ६ च्या विरुद्ध पृष्ठावर कोणता अंक येईल?</p>",
+    "options": [
+      "१",
+      "२",
+      "३",
+      "५"
+    ],
+    "options_dict": {
+      "1": "१",
+      "2": "२",
+      "3": "३",
+      "4": "५"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "उरलेला अंक '३' हा ६ च्या विरुद्ध पृष्ठावर येईल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 45,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>आरशातील प्रतिमा: घड्याळात प्रत्यक्ष ८:१० वेळ झाली असल्यास आरशात किती वाजल्याचा भास होईल?</p>",
+    "question_text": "<p>आरशातील प्रतिमा: घड्याळात प्रत्यक्ष ८:१० वेळ झाली असल्यास आरशात किती वाजल्याचा भास होईल?</p>",
+    "options": [
+      "३:५०",
+      "४:५०",
+      "३:१०",
+      "४:१०"
+    ],
+    "options_dict": {
+      "1": "३:५०",
+      "2": "४:५०",
+      "3": "३:१०",
+      "4": "४:१०"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "११:६० - ८:१० = ३:५०.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 46,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पाण्यातील प्रतिबिंब: 'B, O, X' या अक्षरांचे पाण्यातील प्रतिबिंब मूळ अक्षरासारखेच दिसते का?</p>",
+    "question_text": "<p>पाण्यातील प्रतिबिंब: 'B, O, X' या अक्षरांचे पाण्यातील प्रतिबिंब मूळ अक्षरासारखेच दिसते का?</p>",
+    "options": [
+      "B",
+      "O",
+      "X",
+      "वरील सर्व"
+    ],
+    "options_dict": {
+      "1": "B",
+      "2": "O",
+      "3": "X",
+      "4": "वरील सर्व"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "B, O, X या सर्व अक्षरांना आडवी सममिती असल्याने त्यांचे पाण्यातील प्रतिबिंब मूळ अक्षरासारखेच दिसते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 47,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्यांच्या मांडणीतील संबंध शोधून प्रश्नचिन्हाच्या जागी योग्य संख्या लिहा: <br>१, २, ४, ७, ११, १६, ?</p>",
+    "question_text": "<p>संख्यांच्या मांडणीतील संबंध शोधून प्रश्नचिन्हाच्या जागी योग्य संख्या लिहा: <br>१, २, ४, ७, ११, १६, ?</p>",
+    "options": [
+      "२०",
+      "२१",
+      "२२",
+      "२३"
+    ],
+    "options_dict": {
+      "1": "२०",
+      "2": "२१",
+      "3": "२२",
+      "4": "२३"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "फरक: +१, +२, +३, +४, +५, +६ => १६ + ६ = २२.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 48,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'DOG' = २६ (४+१५+७), तर 'CAT' = किती?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'DOG' = २६ (४+१५+७), तर 'CAT' = किती?</p>",
+    "options": [
+      "२२",
+      "२४",
+      "२६",
+      "२८"
+    ],
+    "options_dict": {
+      "1": "२२",
+      "2": "२४",
+      "3": "२६",
+      "4": "२८"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "C (३) + A (१) + T (२०) = २४.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 49,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका व्यक्तीचे तोंड पश्चिमेकडे आहे. ती घड्याळाच्या दिशेने ९०° वळली आणि नंतर घड्याळाच्या विरुद्ध दिशेने १८०° वळली, तर आता तिचे तोंड कोणत्या दिशेला आहे?</p>",
+    "question_text": "<p>एका व्यक्तीचे तोंड पश्चिमेकडे आहे. ती घड्याळाच्या दिशेने ९०° वळली आणि नंतर घड्याळाच्या विरुद्ध दिशेने १८०° वळली, तर आता तिचे तोंड कोणत्या दिशेला आहे?</p>",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "options_dict": {
+      "1": "उत्तर",
+      "2": "दक्षिण",
+      "3": "पूर्व",
+      "4": "पश्चिम"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "पश्चिम + ९०° (उजवीकडे) = उत्तर. उत्तर - १८०° = दक्षिण.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 50,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका रांगेत ५० मुलांमध्ये सुमितचा क्रमांक उजवीकडून २२ वा असल्यास डावीकडून कितवा असेल?</p>",
+    "question_text": "<p>एका रांगेत ५० मुलांमध्ये सुमितचा क्रमांक उजवीकडून २२ वा असल्यास डावीकडून कितवा असेल?</p>",
+    "options": [
+      "२८ वा",
+      "२९ वा",
+      "३० वा",
+      "३१ वा"
+    ],
+    "options_dict": {
+      "1": "२८ वा",
+      "2": "२९ वा",
+      "3": "३० वा",
+      "4": "३१ वा"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "५० - २२ + १ = २९ वा.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 51,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>३, ७, १५, ३१, ६३, १२७, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>३, ७, १५, ३१, ६३, १२७, ?</strong></p>",
+    "options": [
+      "२५०",
+      "२५४",
+      "२५५",
+      "२५६"
+    ],
+    "options_dict": {
+      "1": "२५०",
+      "2": "२५४",
+      "3": "२५५",
+      "4": "२५६"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "नियम: × २ + १ => १२७ × २ + १ = २५४ + १ = २५५.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 52,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>१, ९, ३६, १००, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>१, ९, ३६, १००, ?</strong></p>",
+    "options": [
+      "१४४",
+      "१९६",
+      "२२५",
+      "२५६"
+    ],
+    "options_dict": {
+      "1": "१४४",
+      "2": "१९६",
+      "3": "२२५",
+      "4": "२५६"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "मालिका: १²=(१)², ३²=(१+२)², ६²=(१+२+३)², १०²=(१+२+३+४)², १५²=(१+२+३+४+५)² = २२५.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 53,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षर मालिका पूर्ण करा: <strong>A, Z, C, X, E, V, ?</strong></p>",
+    "question_text": "<p>अक्षर मालिका पूर्ण करा: <strong>A, Z, C, X, E, V, ?</strong></p>",
+    "options": [
+      "F",
+      "G",
+      "T",
+      "U"
+    ],
+    "options_dict": {
+      "1": "F",
+      "2": "G",
+      "3": "T",
+      "4": "U"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "दोन स्वतंत्र मालिका: विषम स्थानी A, C, E, G (+२). पुढील पद 'G' येईल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 54,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>विसंगत शब्द ओळखा: <strong>हॉकी, फुटबॉल, क्रिकेट, बुद्धिबळ</strong></p>",
+    "question_text": "<p>विसंगत शब्द ओळखा: <strong>हॉकी, फुटबॉल, क्रिकेट, बुद्धिबळ</strong></p>",
+    "options": [
+      "हॉकी",
+      "बुद्धिबळ",
+      "क्रिकेट",
+      "फुटबॉल"
+    ],
+    "options_dict": {
+      "1": "हॉकी",
+      "2": "बुद्धिबळ",
+      "3": "क्रिकेट",
+      "4": "फुटबॉल"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "बुद्धिबळ हा बैठा खेळ आहे, इतर मैदानी खेळ आहेत.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 55,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>डोळा : चष्मा :: पाय : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>डोळा : चष्मा :: पाय : ?</strong></p>",
+    "options": [
+      "हात",
+      "बूट (पादत्राणे)",
+      "टोपी",
+      "घड्याळ"
+    ],
+    "options_dict": {
+      "1": "हात",
+      "2": "बूट (पादत्राणे)",
+      "3": "टोपी",
+      "4": "घड्याळ"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "डोळ्यांच्या संरक्षणासाठी चष्मा वापरतात, तसे पायांच्या संरक्षणासाठी बूट वापरतात.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 56,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>१५ : २२५ :: १८ : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>१५ : २२५ :: १८ : ?</strong></p>",
+    "options": [
+      "२८८",
+      "३००",
+      "३२४",
+      "३६०"
+    ],
+    "options_dict": {
+      "1": "२८८",
+      "2": "३००",
+      "3": "३२४",
+      "4": "३६०"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "१५ चा वर्ग = २२५, १८ चा वर्ग = ३२४.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 57,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'PEN' ला '१६५१४' लिहिले, तर 'BAG' ला कसे लिहिले जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'PEN' ला '१६५१४' लिहिले, तर 'BAG' ला कसे लिहिले जाईल?</p>",
+    "options": [
+      "२१७",
+      "२०१७",
+      "२११७",
+      "३१७"
+    ],
+    "options_dict": {
+      "1": "२१७",
+      "2": "२०१७",
+      "3": "२११७",
+      "4": "३१७"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "B (२), A (१), G (७) => २१७.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 58,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>नातेसंबंध: एका मुलाकडे पाहून रोहन म्हणाला, 'हा माझ्या बहिणीच्या पतीचा एकुलता एक मुलगा आहे.' तर तो मुलगा रोहनचा कोण?</p>",
+    "question_text": "<p>नातेसंबंध: एका मुलाकडे पाहून रोहन म्हणाला, 'हा माझ्या बहिणीच्या पतीचा एकुलता एक मुलगा आहे.' तर तो मुलगा रोहनचा कोण?</p>",
+    "options": [
+      "भाऊ",
+      "भाचा",
+      "मुलगा",
+      "काका"
+    ],
+    "options_dict": {
+      "1": "भाऊ",
+      "2": "भाचा",
+      "3": "मुलगा",
+      "4": "काका"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "बहिणीचा पती म्हणजे मेहुणा/दाजी. त्यांचा मुलगा म्हणजेच रोहनचा भाचा.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 59,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>दिशा ज्ञान: एक मुलगा पश्चिमेकडे ८ मीटर जातो, नंतर दक्षिणेकडे १५ मीटर जातो. तर सुरुवातीच्या ठिकाणापासून त्याचे थेट अंतर किती मीटर असेल?</p>",
+    "question_text": "<p>दिशा ज्ञान: एक मुलगा पश्चिमेकडे ८ मीटर जातो, नंतर दक्षिणेकडे १५ मीटर जातो. तर सुरुवातीच्या ठिकाणापासून त्याचे थेट अंतर किती मीटर असेल?</p>",
+    "options": [
+      "१६ मीटर",
+      "१७ मीटर",
+      "१८ मीटर",
+      "१९ मीटर"
+    ],
+    "options_dict": {
+      "1": "१६ मीटर",
+      "2": "१७ मीटर",
+      "3": "१८ मीटर",
+      "4": "१९ मीटर"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "कर्ण = √(८² + १५²) = √(६४ + २२५) = √२८९ = १७ मीटर.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 60,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका रांगेत ४२ विद्यार्थ्यांमध्ये नेहाचा क्रमांक डावीकडून १४ वा असल्यास उजवीकडून कितवा असेल?</p>",
+    "question_text": "<p>एका रांगेत ४२ विद्यार्थ्यांमध्ये नेहाचा क्रमांक डावीकडून १४ वा असल्यास उजवीकडून कितवा असेल?</p>",
+    "options": [
+      "२८ वा",
+      "२९ वा",
+      "३० वा",
+      "३१ वा"
+    ],
+    "options_dict": {
+      "1": "२८ वा",
+      "2": "२९ वा",
+      "3": "३० वा",
+      "4": "३१ वा"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "४२ - १४ + १ = २९ वा.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 61,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>आज बुधवार आहे, तर आजपासून ६३ दिवसांनी कोणता वार असेल?</p>",
+    "question_text": "<p>आज बुधवार आहे, तर आजपासून ६३ दिवसांनी कोणता वार असेल?</p>",
+    "options": [
+      "मंगळवार",
+      "बुधवार",
+      "गुरुवार",
+      "शुक्रवार"
+    ],
+    "options_dict": {
+      "1": "मंगळवार",
+      "2": "बुधवार",
+      "3": "गुरुवार",
+      "4": "शुक्रवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "६३ ÷ ७ = ९ पूर्ण आठवडे (बाकी ०). वार बदलणार नाही, तोच बुधवार असेल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 62,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>घड्याळात सकाळी १०:०० वाजता दोन काट्यांमध्ये किती अंशाचा कोन असतो?</p>",
+    "question_text": "<p>घड्याळात सकाळी १०:०० वाजता दोन काट्यांमध्ये किती अंशाचा कोन असतो?</p>",
+    "options": [
+      "३०°",
+      "४५°",
+      "६०°",
+      "९०°"
+    ],
+    "options_dict": {
+      "1": "३०°",
+      "2": "४५°",
+      "3": "६०°",
+      "4": "९०°"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "१०:०० वाजता २ तास × ३०° = ६०° कोन असतो.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 63,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>तार्किक विचार: सर्व सफरचंद फळे आहेत आणि सर्व फळे गोड असतात. तर सर्व सफरचंद गोड असतात का?</p>",
+    "question_text": "<p>तार्किक विचार: सर्व सफरचंद फळे आहेत आणि सर्व फळे गोड असतात. तर सर्व सफरचंद गोड असतात का?</p>",
+    "options": [
+      "होय, हे निश्चित सत्य आहे.",
+      "अंशतः सत्य आहे.",
+      "पूर्णतः असत्य आहे.",
+      "काही सांगता येत नाही."
+    ],
+    "options_dict": {
+      "1": "होय, हे निश्चित सत्य आहे.",
+      "2": "अंशतः सत्य आहे.",
+      "3": "पूर्णतः असत्य आहे.",
+      "4": "काही सांगता येत नाही."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सफरचंद ⊂ फळे ⊂ गोड घटक. म्हणून निश्चित सत्य.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 64,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>वेन आकृती: <strong>'सस्तन प्राणी, मांजर, उंदीर'</strong> यांचा अचूक संबंध कोणता?</p>",
+    "question_text": "<p>वेन आकृती: <strong>'सस्तन प्राणी, मांजर, उंदीर'</strong> यांचा अचूक संबंध कोणता?</p>",
+    "options": [
+      "मांजर व उंदीर दोन्ही सस्तन प्राणी आहेत परंतु परस्परांपासून वेगळे आहेत.",
+      "मांजर ही उंदीर असते.",
+      "तिन्ही स्वतंत्र आहेत.",
+      "उंदीर सस्तन प्राणी नाही."
+    ],
+    "options_dict": {
+      "1": "मांजर व उंदीर दोन्ही सस्तन प्राणी आहेत परंतु परस्परांपासून वेगळे आहेत.",
+      "2": "मांजर ही उंदीर असते.",
+      "3": "तिन्ही स्वतंत्र आहेत.",
+      "4": "उंदीर सस्तन प्राणी नाही."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "मांजर आणि उंदीर हे दोन्ही सस्तन प्राण्यांच्या वर्तुळात येतील, पण त्यांची वर्तुळे वेगळी राहतील.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 65,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>खालील पर्यायांमधून विसंगत संख्या जोडी ओळखा: <strong>(२, ८), (३, २७), (४, ६४), (५, १२५), परंतु (६, २००)</strong></p>",
+    "question_text": "<p>खालील पर्यायांमधून विसंगत संख्या जोडी ओळखा: <strong>(२, ८), (३, २७), (४, ६४), (५, १२५), परंतु (६, २००)</strong></p>",
+    "options": [
+      "(२, ८)",
+      "(३, २७)",
+      "(४, ६४)",
+      "(६, २००)"
+    ],
+    "options_dict": {
+      "1": "(२, ८)",
+      "2": "(३, २७)",
+      "3": "(४, ६४)",
+      "4": "(६, २००)"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "६ चा घन २१६ असतो, २०० नाही.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 66,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'SUN' ला 'TVO' लिहिले, तर 'STAR' ला कसे लिहिले जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'SUN' ला 'TVO' लिहिले, तर 'STAR' ला कसे लिहिले जाईल?</p>",
+    "options": [
+      "TUBS",
+      "TUBR",
+      "TUCS",
+      "SUBT"
+    ],
+    "options_dict": {
+      "1": "TUBS",
+      "2": "TUBR",
+      "3": "TUCS",
+      "4": "SUBT"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "प्रत्येक अक्षरात +१: S+१=T, T+१=U, A+१=B, R+१=S => TUBS.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 67,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>आरशातील प्रतिमा: 'V' या इंग्रजी अक्षराची आरशातील प्रतिमा कशी दिसेल?</p>",
+    "question_text": "<p>आरशातील प्रतिमा: 'V' या इंग्रजी अक्षराची आरशातील प्रतिमा कशी दिसेल?</p>",
+    "options": [
+      "V",
+      "F",
+      "G",
+      "J"
+    ],
+    "options_dict": {
+      "1": "V",
+      "2": "F",
+      "3": "G",
+      "4": "J"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "‘V’ हे अक्षर उभ्या अक्षाभोवती सममित असल्याने आरशात अगदी सारखेच दिसते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 68,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्यांच्या मांडणीतील संबंध शोधून प्रश्नचिन्हाच्या जागी योग्य संख्या निवडा: <br>५, १५, ४५, १३५, ?</p>",
+    "question_text": "<p>संख्यांच्या मांडणीतील संबंध शोधून प्रश्नचिन्हाच्या जागी योग्य संख्या निवडा: <br>५, १५, ४५, १३५, ?</p>",
+    "options": [
+      "२७०",
+      "३६०",
+      "४०५",
+      "४५०"
+    ],
+    "options_dict": {
+      "1": "२७०",
+      "2": "३६०",
+      "3": "४०५",
+      "4": "४५०"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "प्रत्येक संख्येस ३ ने गुणले आहे: १३५ × ३ = ४०५.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 69,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'RED' = २७, 'BLUE' = ४०, तर 'GREEN' = किती?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'RED' = २७, 'BLUE' = ४०, तर 'GREEN' = किती?</p>",
+    "options": [
+      "४५",
+      "४९",
+      "५३",
+      "५६"
+    ],
+    "options_dict": {
+      "1": "४५",
+      "2": "४९",
+      "3": "५३",
+      "4": "५६"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "G (७) + R (१८) + E (५) + E (५) + N (१४) = ४९.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 70,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका शेतात काही शेळ्या आणि काही कोंबड्या आहेत. एकूण डोकी २० व एकूण पाय ५६ असल्यास शेळ्या किती आहेत?</p>",
+    "question_text": "<p>एका शेतात काही शेळ्या आणि काही कोंबड्या आहेत. एकूण डोकी २० व एकूण पाय ५६ असल्यास शेळ्या किती आहेत?</p>",
+    "options": [
+      "६",
+      "८",
+      "१०",
+      "१२"
+    ],
+    "options_dict": {
+      "1": "६",
+      "2": "८",
+      "3": "१०",
+      "4": "१२"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "शेळ्यांची संख्या = (५६ - २ × २०)/२ = (५६ - ४०)/२ = १६/२ = ८ शेळ्या.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 71,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्या मालिका पूर्ण करा: <strong>३, ६, ११, १८, २७, ?</strong></p>",
+    "question_text": "<p>संख्या मालिका पूर्ण करा: <strong>३, ६, ११, १८, २७, ?</strong></p>",
+    "options": [
+      "३६",
+      "३८",
+      "४०",
+      "४२"
+    ],
+    "options_dict": {
+      "1": "३६",
+      "2": "३८",
+      "3": "४०",
+      "4": "४२"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "फरक: +३, +५, +७, +९, +११ => २७ + ११ = ३८ (विषम संख्यांचा फरक).",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 72,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षर मालिका पूर्ण करा: <strong>B, E, H, K, N, ?</strong></p>",
+    "question_text": "<p>अक्षर मालिका पूर्ण करा: <strong>B, E, H, K, N, ?</strong></p>",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "options_dict": {
+      "1": "P",
+      "2": "Q",
+      "3": "R",
+      "4": "S"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "अक्षरांचा फरक +३: N (१४) + ३ = १७ म्हणजेच 'Q'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 73,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>विसंगत पद ओळखा: <strong>टेबल, खुर्ची, कपाट, फ्रीज</strong></p>",
+    "question_text": "<p>विसंगत पद ओळखा: <strong>टेबल, खुर्ची, कपाट, फ्रीज</strong></p>",
+    "options": [
+      "टेबल",
+      "खुर्ची",
+      "कपाट",
+      "फ्रीज"
+    ],
+    "options_dict": {
+      "1": "टेबल",
+      "2": "खुर्ची",
+      "3": "कपाट",
+      "4": "फ्रीज"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "टेबल, खुर्ची व कपाट हे लाकडी/साधे फर्निचर आहेत, तर फ्रीज हे इलेक्ट्रॉनिक उपकरण आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 74,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा: <strong>१४४ : १२ :: २५६ : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा: <strong>१४४ : १२ :: २५६ : ?</strong></p>",
+    "options": [
+      "१४",
+      "१५",
+      "१६",
+      "१८"
+    ],
+    "options_dict": {
+      "1": "१४",
+      "2": "१५",
+      "3": "१६",
+      "4": "१८"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "१४४ चे वर्गमूळ १२, २५६ चे वर्गमूळ १६.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 75,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका फाशावर १ च्या लगत २, ३, ५, ६ हे अंक असल्यास १ च्या विरुद्ध पृष्ठावर कोणता अंक येईल?</p>",
+    "question_text": "<p>एका फाशावर १ च्या लगत २, ३, ५, ६ हे अंक असल्यास १ च्या विरुद्ध पृष्ठावर कोणता अंक येईल?</p>",
+    "options": [
+      "२",
+      "३",
+      "४",
+      "५"
+    ],
+    "options_dict": {
+      "1": "२",
+      "2": "३",
+      "3": "४",
+      "4": "५"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "उरलेला अंक '४' हा १ च्या विरुद्ध पृष्ठावर येईल.",
+    "difficulty": "कठीण"
   }
 ]
