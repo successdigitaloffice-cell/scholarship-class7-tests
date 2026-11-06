@@ -11,7 +11,54 @@
     <!-- Google Fonts (Mukta & Inter) -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
+    <!-- MathJax 3 for Mathematics Equation & Fraction Rendering -->
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                processEscapes: true
+            },
+            options: {
+                skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+            },
+            startup: {
+                typeset: true
+            }
+        };
+    </script>
+    <script src="js/tex-chtml.js" id="MathJax-script" async></script>
+    
     <style>
+        /* MathJax & Mathematical Fraction Styling */
+        mjx-container {
+            display: inline-grid !important;
+            vertical-align: middle !important;
+            margin: 0 2px !important;
+            outline: none !important;
+        }
+        mjx-container[display="true"] {
+            display: block !important;
+            margin: 0.8em 0 !important;
+            text-align: center !important;
+        }
+        .math-fraction {
+            display: inline-flex;
+            flex-direction: column;
+            vertical-align: middle;
+            text-align: center;
+            padding: 0 4px;
+            font-size: 0.95em;
+            line-height: 1.1;
+            font-weight: 700;
+        }
+        .math-fraction .num {
+            border-bottom: 2px solid currentColor;
+            padding-bottom: 2px;
+        }
+        .math-fraction .den {
+            padding-top: 2px;
+        }
         body {
             font-family: 'Mukta', 'Inter', sans-serif;
             background: #f8fafc;
@@ -124,12 +171,12 @@
                 <div class="bg-slate-50 p-3 rounded-2xl border border-slate-200/80">
                     <i class="fas fa-award text-amber-500 mb-1"></i>
                     <p class="text-xs text-gray-500 font-bold">एकूण गुण</p>
-                    <p class="text-lg font-black text-slate-800">40</p>
+                    <p class="text-lg font-black text-slate-800" id="total-marks-badge">150</p>
                 </div>
                 <div class="bg-slate-50 p-3 rounded-2xl border border-slate-200/80">
                     <i class="far fa-clock text-rose-500 mb-1"></i>
                     <p class="text-xs text-gray-500 font-bold">वेळ मर्यादा</p>
-                    <p class="text-lg font-black text-slate-800">20 मिनिटे</p>
+                    <p class="text-lg font-black text-slate-800" id="total-time-badge">90 मिनिटे</p>
                 </div>
             </div>
 
@@ -303,23 +350,35 @@
             <h2 class="text-2xl md:text-3xl font-black text-gray-900 mb-1">अभिनंदन! चाचणी पूर्ण झाली</h2>
             <p class="text-gray-500 text-sm mb-6" id="result-subtitle">तुमचा निकाल खालीलप्रमाणे आहे:</p>
 
-            <!-- Score Stats -->
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-3 max-w-xl mx-auto mb-6">
-                <div class="bg-teal-50 p-4 rounded-2xl border border-teal-200">
-                    <p class="text-xs font-bold text-teal-800">मिळालेले गुण</p>
-                    <p class="text-3xl font-black text-teal-600 mt-1"><span id="final-score">0</span><span class="text-sm font-normal text-teal-400">/40</span></p>
+            <!-- Score Stats (All 8 Required Student Metrics) -->
+            <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-7 gap-3 max-w-4xl mx-auto mb-6">
+                <div class="bg-teal-50 p-3.5 rounded-2xl border border-teal-200 text-center">
+                    <p class="text-[11px] font-bold text-teal-800">एकूण गुण</p>
+                    <p class="text-2xl font-black text-teal-700 mt-1" id="final-total-marks">150</p>
                 </div>
-                <div class="bg-emerald-50 p-4 rounded-2xl border border-emerald-200">
-                    <p class="text-xs font-bold text-emerald-800">अचूकता (Accuracy)</p>
-                    <p class="text-3xl font-black text-emerald-600 mt-1"><span id="final-accuracy">0</span>%</p>
+                <div class="bg-indigo-50 p-3.5 rounded-2xl border border-indigo-200 text-center">
+                    <p class="text-[11px] font-bold text-indigo-800">मिळालेले गुण</p>
+                    <p class="text-2xl font-black text-indigo-600 mt-1" id="final-obtained-marks">0</p>
                 </div>
-                <div class="bg-amber-50 p-4 rounded-2xl border border-amber-200">
-                    <p class="text-xs font-bold text-amber-800">लागलेला वेळ</p>
-                    <p class="text-3xl font-black text-amber-600 mt-1"><span id="final-time">0</span>m</p>
+                <div class="bg-emerald-50 p-3.5 rounded-2xl border border-emerald-200 text-center">
+                    <p class="text-[11px] font-bold text-emerald-800">बरोबर उत्तरे</p>
+                    <p class="text-2xl font-black text-emerald-600 mt-1"><span id="final-correct">0</span> <i class="fas fa-check-circle text-xs text-emerald-500"></i></p>
                 </div>
-                <div class="bg-purple-50 p-4 rounded-2xl border border-purple-200">
-                    <p class="text-xs font-bold text-purple-800">अंदाजित रँक</p>
-                    <p class="text-3xl font-black text-purple-600 mt-1">#<span id="final-rank">१</span></p>
+                <div class="bg-rose-50 p-3.5 rounded-2xl border border-rose-200 text-center">
+                    <p class="text-[11px] font-bold text-rose-800">चुकीची उत्तरे</p>
+                    <p class="text-2xl font-black text-rose-600 mt-1"><span id="final-wrong">0</span> <i class="fas fa-times-circle text-xs text-rose-500"></i></p>
+                </div>
+                <div class="bg-amber-50 p-3.5 rounded-2xl border border-amber-200 text-center">
+                    <p class="text-[11px] font-bold text-amber-800">टक्केवारी (%)</p>
+                    <p class="text-2xl font-black text-amber-600 mt-1"><span id="final-percentage">0</span>%</p>
+                </div>
+                <div class="bg-purple-50 p-3.5 rounded-2xl border border-purple-200 text-center">
+                    <p class="text-[11px] font-bold text-purple-800">गुणवत्ता रँक</p>
+                    <p class="text-2xl font-black text-purple-600 mt-1">#<span id="final-rank">१</span></p>
+                </div>
+                <div class="bg-slate-50 p-3.5 rounded-2xl border border-slate-200 text-center col-span-2 sm:col-span-1">
+                    <p class="text-[11px] font-bold text-slate-800">वेळ (Time)</p>
+                    <p class="text-2xl font-black text-slate-700 mt-1"><span id="final-time">0</span> मि.</p>
                 </div>
             </div>
 
@@ -393,9 +452,9 @@
     </footer>
 
     <!-- Scripts with Cache Busting -->
-    <script src="data/class7_paper1.js?v=20261105_v3"></script>
-    <script src="data/class7_paper2.js?v=20261105_v3"></script>
-    <script src="data/scholarship_class7_bank.js?v=20261105_v3"></script>
+    <script src="data/class7_paper1.js?v=20261106_v7"></script>
+    <script src="data/class7_paper2.js?v=20261106_v7"></script>
+    <script src="data/scholarship_class7_bank.js?v=20261106_v7"></script>
 
     <script>
         // 1. Parameter Normalization
@@ -425,7 +484,8 @@
         let quizData = [];
         let currentQuestionIndex = 0;
         let userAnswers = [];
-        let timeLeft = 20 * 60; // 20 mins
+        let totalTestTimeSeconds = 90 * 60;
+        let timeLeft = 90 * 60;
         let timerInterval = null;
         let testTitle = "";
 
@@ -438,9 +498,64 @@
         const nextBtn = document.getElementById('next-btn');
         const prevBtn = document.getElementById('prev-btn');
 
+        // Mathematics Equation & Fraction Formatter
+        function formatMathContent(text) {
+            if (!text || typeof text !== 'string') return text || '';
+
+            // 1. Clean English words
+            text = text.replace(/\(Proper\s+Fraction\)/gi, '(उदा. \\(\\frac{३}{५}\\))');
+            text = text.replace(/\(Improper\s+Fraction\)/gi, '(उदा. \\(\\frac{८}{५}\\))');
+            text = text.replace(/\(Mixed\s+Fraction\)/gi, '(उदा. \\(२ \\frac{१}{४}\\))');
+            text = text.replace(/\bProper\s+Fraction\b/gi, 'छेदाधिक अपूर्णांक');
+            text = text.replace(/\bImproper\s+Fraction\b/gi, 'अंशाधिक अपूर्णांक');
+            text = text.replace(/\bMixed\s+Fraction\b/gi, 'पूर्णांकयुक्त अपूर्णांक');
+
+            // 2. Convert <sup>a</sup>/<sub>b</sub> into \(\frac{a}{b}\)
+            text = text.replace(/<sup>([0-9\u0966-\u096F]+)<\/sup>\s*\/\s*<sub>([0-9\u0966-\u096F]+)<\/sub>/gi, '\\(\\frac{$1}{$2}\\)');
+
+            // 3. Wrap raw \frac{a}{b} that lacks \( or $ in \(\frac{a}{b}\)
+            text = text.replace(/(?<!\$)(?<!\\\(|\\\[)(\\frac\{[^}]+\}\{[^}]+\})(?!\$|\\\)|\\\])/g, '\\($1\\)');
+
+            // 4. Split by HTML tags <...> and existing math blocks \(...\), $...$, \[...\]
+            const parts = text.split(/(<[^>]+>|\\\[[\s\S]*?\\\]|\\\(.*?\\\)|(?<!\\)\$[^$]+(?<!\\)\$)/);
+            for (let i = 0; i < parts.length; i++) {
+                if (!parts[i]) continue;
+                if (parts[i].startsWith('<') || parts[i].startsWith('\\(') || parts[i].startsWith('\\[') || parts[i].startsWith('$')) {
+                    continue;
+                }
+
+                // 4a. Mixed fractions: e.g. "२ १/४" or "1 3/4"
+                parts[i] = parts[i].replace(/(?<![0-9\u0966-\u096Fa-zA-Z/])(-?)([0-9\u0966-\u096F]+)\s+([0-9\u0966-\u096F]+)\/([0-9\u0966-\u096F]+)(?![0-9\u0966-\u096Fa-zA-Z/])/g, (m, sign, whole, num, den) => {
+                    return `\\(${sign || ''}${whole} \\frac{${num}}{${den}}\\)`;
+                });
+
+                // 4b. Negative slash fractions: e.g. -७/१२ or (-७/१२)
+                parts[i] = parts[i].replace(/(\(?)-([0-9\u0966-\u096F]+)\/([0-9\u0966-\u096F]+)(\)?)/g, (m, pre, num, den, post) => {
+                    return `${pre}\\(-\\frac{${num}}{${den}}\\)${post}`;
+                });
+
+                // 4c. Regular slash fractions: e.g. ३/५, 7/12
+                parts[i] = parts[i].replace(/(?<![0-9\u0966-\u096Fa-zA-Z/])([0-9\u0966-\u096F]+)\/([0-9\u0966-\u096F]+)(?![0-9\u0966-\u096Fa-zA-Z/])/g, (m, num, den) => {
+                    if (num.length >= 4 || den.length >= 4) return m; // avoid dates/years
+                    return `\\(\\frac{${num}}{${den}}\\)`;
+                });
+            }
+
+            return parts.join('');
+        }
+
+        function renderMathJax(elems) {
+            if (window.MathJax && window.MathJax.typesetPromise) {
+                if (elems) {
+                    const arr = Array.isArray(elems) ? elems : [elems];
+                    window.MathJax.typesetPromise(arr).catch(err => console.warn('MathJax:', err));
+                }
+            }
+        }
+
+
         // Multi-tier question resolver with auto-retry
         async function resolveQuestions() {
-            // Tier 1 & Tier 2: Check global script objects with up to 15 quick attempts (1.5s)
             for (let attempt = 0; attempt < 15; attempt++) {
                 if (typeof window.getTestQuestionsClass7 === 'function') {
                     try {
@@ -460,7 +575,6 @@
                 await new Promise(r => setTimeout(r, 100));
             }
 
-            // Tier 3: Fetch local standalone questions.json
             const relCandidates = [
                 `paper-${paperNum}/test-${paddedTestNum}/questions.json`,
                 `./paper-${paperNum}/test-${paddedTestNum}/questions.json`,
@@ -473,10 +587,169 @@
                     if (resp.ok) {
                         const data = await resp.json();
                         if (Array.isArray(data) && data.length > 0) return data;
+                        if (data && Array.isArray(data.questions) && data.questions.length > 0) return data.questions;
                     }
                 } catch (e) { /* continue */ }
             }
             return [];
+        }
+
+
+        // In-memory pre-formatting cache for 0ms Instant Question Loading
+        function preFormatQuizData() {
+            if (!quizData || !Array.isArray(quizData)) return;
+
+            // Pass 1: Parse passage/poem/diagram per question
+            quizData.forEach((q, idx) => {
+                let rawQ = q.question || q.question_text || '';
+                let passageHtml = '';
+                let passageContent = q.passage || q.poem || q.context || '';
+
+                // If no passage field on q, check if rawQ has embedded passage/poem/instruction box
+                if (!passageContent) {
+                    const passageBoxRegex = /<div\s+(?:class=['"][^'"]*passage-box[^'"]*['"]|style=['"][^'"]*(?:background:\s*#(?:f1f8e9|f8f9fa|fff3e0)|border-left:\s*4px)[^'"]*['"])[\s\S]*?<\/div>(?=\s*(?:<p>|<div class="diagram|<span|\*\*|Question|प्रश्न|\d+\.|$))/i;
+                    const pMatch = rawQ.match(passageBoxRegex);
+                    if (pMatch) {
+                        passageContent = pMatch[0];
+                        rawQ = rawQ.replace(pMatch[0], '').trim();
+                    } else if (rawQ.includes('passage-box')) {
+                        const pbIdx = rawQ.indexOf('<div class=\'passage-box\'') !== -1 ? rawQ.indexOf('<div class=\'passage-box\'') : rawQ.indexOf('<div class="passage-box"');
+                        if (pbIdx !== -1) {
+                            const lastClose = rawQ.lastIndexOf('</div>');
+                            if (lastClose > pbIdx) {
+                                passageContent = rawQ.substring(pbIdx, lastClose + 6);
+                                rawQ = (rawQ.substring(0, pbIdx) + rawQ.substring(lastClose + 6)).trim();
+                            }
+                        }
+                    }
+                }
+
+                if (passageContent) {
+                    let qText = rawQ;
+                    if (qText.includes('\n\n**Question') || qText.includes('\n\n**प्रश्न') || qText.includes('\n\nQuestion') || qText.includes('\n\nप्रश्न')) {
+                        const parts = qText.split(/\n\n(?=\*\*?(?:Question|प्रश्न))/i);
+                        if (parts.length > 1) {
+                            qText = parts[parts.length - 1].replace(/\*\*/g, '').trim();
+                        }
+                    }
+
+                    let badgeIcon = '📖';
+                    let badgeTitle = 'संदर्भ उतारा / परिच्छेद (Read Carefully to Answer)';
+                    if (passageContent.includes('📜') || passageContent.includes('कविता') || passageContent.includes('काव्यपंक्ती') || /poem/i.test(passageContent)) {
+                        badgeIcon = '📜';
+                        badgeTitle = 'संदर्भ कविता / पद्य (Read Poem Carefully to Answer)';
+                    } else if (passageContent.includes('💬') || passageContent.includes('संवाद') || /conversation|dialogue/i.test(passageContent)) {
+                        badgeIcon = '💬';
+                        badgeTitle = 'संदर्भ संवाद / संभाषण (Read Dialogue Carefully to Answer)';
+                    } else if (passageContent.includes('📋') || passageContent.includes('notice') || passageContent.includes('leaflet') || passageContent.includes('जाहिरात') || /advertisement/i.test(passageContent)) {
+                        badgeIcon = '📋';
+                        badgeTitle = 'सूचना पत्रक / जाहिरात (Read Notice / Advertisement Carefully)';
+                    }
+
+                    let cleanPassage = passageContent.replace(/^[📖📜💬📋📄]\s*\*\*[^*]+\*\*\s*\n*/, '').trim();
+                    passageHtml = `
+                        <div class="reading-context-box mb-6 rounded-2xl bg-gradient-to-br from-amber-50/90 via-orange-50/40 to-yellow-50/90 border-2 border-amber-300/80 p-5 md:p-6 shadow-sm text-left">
+                            <div class="flex items-center gap-2 mb-3 pb-2.5 border-b border-amber-200 text-amber-950 font-black text-xs md:text-sm tracking-wide">
+                                <span class="text-xl">${badgeIcon}</span>
+                                <span>${badgeTitle}</span>
+                            </div>
+                            <div class="text-gray-900 text-sm md:text-base leading-relaxed whitespace-pre-line font-medium font-serif select-text">
+${cleanPassage}
+                            </div>
+                        </div>
+                    `;
+                    rawQ = qText;
+                }
+
+                // Extract diagram SVG / IMG / DIV (do not match reading passage boxes here)
+                let diagramHtml = '';
+                const svgMatch = rawQ.match(/(<svg[\s\S]*?<\/svg>)/i);
+                const imgMatch = rawQ.match(/(<img[\s\S]*?>)/i);
+                const divDiagMatch = rawQ.match(/(<div class="[^"]*diagram[^"]*"[\s\S]*?<\/div>)/i) || 
+                                     (rawQ.includes('<div') && rawQ.includes('</div>') && !rawQ.includes('passage-box') ? rawQ.match(/(<div[\s\S]*?<\/div>)/i) : null);
+
+                if (svgMatch) {
+                    diagramHtml = svgMatch[1];
+                    rawQ = rawQ.replace(svgMatch[1], '').trim();
+                } else if (imgMatch) {
+                    diagramHtml = imgMatch[1];
+                    rawQ = rawQ.replace(imgMatch[1], '').trim();
+                } else if (divDiagMatch) {
+                    diagramHtml = divDiagMatch[1];
+                    rawQ = rawQ.replace(divDiagMatch[1], '').trim();
+                }
+
+                let displayQ = rawQ.replace(/\*\*/g, '').trim();
+                displayQ = displayQ.replace(/^(?:प्रश्न\s*\d+\.?|Question\s*\d+\.?)\s*/i, '');
+                q._displayQ = formatMathContent(displayQ);
+                q._passageHtml = passageHtml;
+                q._passageContent = passageContent;
+                q._diagramHtml = diagramHtml;
+
+                // Options
+                let rawOpts = q.options;
+                if (!Array.isArray(rawOpts) && typeof rawOpts === 'object' && rawOpts !== null) {
+                    rawOpts = [rawOpts['1'], rawOpts['2'], rawOpts['3'], rawOpts['4']];
+                }
+                q._cleanOptions = (rawOpts || []).map(opt => formatMathContent(opt || ''));
+
+                // Answer Normalization (0-indexed integer)
+                if (typeof q.answer === 'undefined' && typeof q.correct_option !== 'undefined') {
+                    const co = parseInt(q.correct_option, 10);
+                    q.answer = !isNaN(co) && co >= 1 && co <= 4 ? co - 1 : 0;
+                } else if (typeof q.answer === 'string') {
+                    const aInt = parseInt(q.answer, 10);
+                    if (!isNaN(aInt)) {
+                        q.answer = (aInt >= 1 && aInt <= 4) ? aInt - 1 : aInt;
+                    }
+                } else if (typeof q.answer === 'number' && q.answer >= 1 && q.answer <= 4 && !q.options[q.answer] && q.options[q.answer - 1]) {
+                    q.answer = q.answer - 1;
+                }
+
+                // Explanation
+                q._explanation = formatMathContent(q.explanation || 'उत्तर योग्यरीत्या नोंदवले आहे.');
+
+                // Math presence flag
+                const combinedText = q._displayQ + ' ' + q._cleanOptions.join(' ') + ' ' + q._explanation;
+                q._hasMath = /(\(|\\[|\\frac|\$|√|\^|_|π)/.test(combinedText);
+            });
+
+            // Pass 2: Group Passage & Poem Inheritance / Forward-Filler
+            // Ensures when navigating to Q2, Q3, Q5, etc., the passage NEVER disappears!
+            for (let i = 0; i < quizData.length; i++) {
+                const cur = quizData[i];
+                if (cur._passageHtml && cur._passageContent) {
+                    const combined = (cur._passageContent + ' ' + (cur.question || cur.question_text || '')).toLowerCase();
+                    
+                    // Check range indicators: e.g. "प्रश्न १ ते ३", "Q. 1 to Q. 3", "प्रश्न ४ ते ५", "14 to 16"
+                    const rangeMatch = combined.match(/(?:प्रश्न\s*(?:क्र\.)?\s*(\d+)\s*(?:ते|व)\s*(\d+)|questions?\s*(?:no\.)?\s*(\d+)\s*(?:to|and)\s*(\d+)|q\.\s*(\d+)\s*to\s*q\.\s*(\d+))/i);
+                    let endRangeIdx = -1;
+                    if (rangeMatch) {
+                        const sNum = parseInt(rangeMatch[1] || rangeMatch[3] || rangeMatch[5], 10);
+                        const eNum = parseInt(rangeMatch[2] || rangeMatch[4] || rangeMatch[6], 10);
+                        if (!isNaN(eNum) && eNum > sNum && (eNum - sNum) <= 5) {
+                            endRangeIdx = eNum - 1;
+                        }
+                    }
+
+                    // Forward fill to subsequent questions that lack passageHtml
+                    for (let j = i + 1; j < quizData.length && j <= i + 4; j++) {
+                        const nextQ = quizData[j];
+                        if (nextQ._passageHtml) break; // Reached next passage/poem
+                        
+                        const nextTxt = (nextQ.question || nextQ.question_text || '').toLowerCase();
+                        const isReferencingContext = /(?:उताऱ्या|उताऱ्यानुसार|उताऱ्यावरून|कवितेनुसार|in the passage|according to the passage|from the poem)/i.test(nextTxt);
+                        const isWithinRange = (endRangeIdx !== -1 && j <= endRangeIdx);
+
+                        if (isWithinRange || isReferencingContext) {
+                            nextQ._passageHtml = cur._passageHtml;
+                            nextQ._passageContent = cur._passageContent;
+                        } else {
+                            break;
+                        }
+                    }
+                }
+            }
         }
 
         async function initTest() {
@@ -512,15 +785,47 @@
                 return;
             }
 
+            // Pre-format in memory for 0ms instant question rendering
+            // Dynamically configure badges and timer based on test length
+            const totalQCount = quizData.length;
+            const qBadge = document.getElementById('total-q-badge');
+            if (qBadge) qBadge.textContent = totalQCount;
+            const mBadge = document.getElementById('total-marks-badge');
+            if (mBadge) mBadge.textContent = totalQCount * 2;
+            const tBadge = document.getElementById('total-time-badge');
+            
+            if (totalQCount >= 50) {
+                totalTestTimeSeconds = 90 * 60; // 90 mins for Full Length Test
+                if (tBadge) tBadge.textContent = '90 मिनिटे';
+            } else {
+                totalTestTimeSeconds = Math.max(20 * 60, totalQCount * 90);
+                if (tBadge) tBadge.textContent = `${Math.round(totalTestTimeSeconds / 60)} मिनिटे`;
+            }
+            timeLeft = totalTestTimeSeconds;
+
+            preFormatQuizData();
+
             userAnswers = new Array(quizData.length).fill(null);
+
+            // Restore saved progress if any
+            try {
+                const saved = localStorage.getItem(`schol_progress_${paperKey}_${testNumber}`);
+                if (saved) {
+                    const parsed = JSON.parse(saved);
+                    if (Array.isArray(parsed) && parsed.length === quizData.length) {
+                        userAnswers = parsed;
+                    }
+                }
+            } catch(e) {}
+
             document.getElementById('total-q-badge').textContent = quizData.length;
             startBtn.disabled = false;
             startBtn.onclick = startQuiz;
-            startBtn.className = "w-full sm:w-auto bg-gradient-to-r from-teal-600 via-cyan-600 to-indigo-700 hover:from-teal-700 hover:to-indigo-800 text-white font-black text-lg md:text-xl py-4 px-12 rounded-2xl shadow-xl hover:shadow-teal-500/30 transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3";
+            startBtn.className = "w-full sm:w-auto bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white font-black text-lg md:text-xl py-4 px-12 rounded-2xl shadow-xl hover:shadow-blue-500/30 transition transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-3";
             startBtn.innerHTML = `<span>चाचणी सुरू करा (Start Test)</span> <i class="fas fa-arrow-right"></i>`;
         }
 
-        // Initialize immediately without waiting for slow external CDN fonts
+        // Initialize immediately
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', initTest);
         } else {
@@ -541,9 +846,10 @@
         function startTimer() {
             timerInterval = setInterval(() => {
                 timeLeft--;
-                const mins = Math.floor(timeLeft / 60);
-                const secs = timeLeft % 60;
-                timeSpan.textContent = `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+                const minutes = Math.floor(timeLeft / 60);
+                const seconds = timeLeft % 60;
+                timeRemainingSpan.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+
                 if (timeLeft <= 0) {
                     clearInterval(timerInterval);
                     finishQuiz();
@@ -551,13 +857,14 @@
             }, 1000);
         }
 
+        // INSTANT 0ms Question Loader
         function loadQuestion() {
             if (!quizData || quizData.length === 0 || !quizData[currentQuestionIndex]) {
                 document.getElementById('question-text').innerHTML = `
                     <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl text-center">
                         <i class="fas fa-exclamation-triangle text-amber-500 text-3xl mb-2"></i>
                         <p class="font-bold text-gray-800">प्रश्न लोड करता आला नाही.</p>
-                        <button onclick="location.reload()" class="mt-3 px-4 py-2 bg-teal-600 text-white font-bold rounded-xl text-sm">पेज रीलोड करा</button>
+                        <button onclick="location.reload()" class="mt-3 px-4 py-2 bg-blue-600 text-white font-bold rounded-xl text-sm">पेज रीलोड करा</button>
                     </div>
                 `;
                 return;
@@ -571,7 +878,7 @@
             document.getElementById('subject-tag').textContent = q.subject || 'सामान्य';
             document.getElementById('type-tag').innerHTML = `<i class="fas fa-star text-[10px]"></i> ${q.tagText || 'MSCE'}`;
 
-            // Difficulty Badge according to MSCE Blueprint
+            // Difficulty Badge
             const diffTag = document.getElementById('difficulty-tag');
             if (q.difficulty === 'सोपे') {
                 diffTag.className = "text-xs font-extrabold px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 border border-emerald-300";
@@ -593,94 +900,29 @@
                 pyqBadge.classList.add('hidden');
             }
 
-            // Check diagram / passage inside question text
+            // Render Passage & Diagram
             const diagContainer = document.getElementById('diagram-container');
-            diagContainer.innerHTML = '';
-            let rawQ = q.question || '';
-
-            // Handle dedicated Passage / Poem / Dialogue Card
-            if (q.passage || q.poem || q.context) {
-                const passageContent = q.passage || q.poem || q.context;
-                let qText = rawQ;
-                if (qText.includes('\n\n**Question') || qText.includes('\n\n**प्रश्न') || qText.includes('\n\nQuestion') || qText.includes('\n\nप्रश्न')) {
-                    const parts = qText.split(/\n\n(?=\*\*?(?:Question|प्रश्न))/i);
-                    if (parts.length > 1) {
-                        qText = parts[parts.length - 1].replace(/\*\*/g, '').trim();
-                    }
-                }
-
-                let badgeIcon = '📖';
-                let badgeTitle = 'संदर्भ उतारा / परिच्छेद (Read Carefully to Answer)';
-                if (passageContent.includes('📜') || passageContent.includes('कविता') || /poem/i.test(passageContent)) {
-                    badgeIcon = '📜';
-                    badgeTitle = 'संदर्भ कविता / पद्य (Read Poem Carefully to Answer)';
-                } else if (passageContent.includes('💬') || passageContent.includes('संवाद') || /conversation|dialogue/i.test(passageContent)) {
-                    badgeIcon = '💬';
-                    badgeTitle = 'संदर्भ संवाद / संभाषण (Read Dialogue Carefully to Answer)';
-                } else if (passageContent.includes('📋') || passageContent.includes('notice') || passageContent.includes('leaflet')) {
-                    badgeIcon = '📋';
-                    badgeTitle = 'सूचना पत्रक / जाहिरात (Read Notice Carefully to Answer)';
-                }
-
-                let cleanPassage = passageContent
-                    .replace(/^[📖📜💬📋📄]\s*\*\*[^*]+\*\*\s*\n*/, '')
-                    .trim();
-
-                diagContainer.innerHTML = `
-                    <div class="mb-6 rounded-2xl bg-gradient-to-br from-amber-50/90 via-orange-50/40 to-yellow-50/90 border-2 border-amber-300/80 p-5 md:p-6 shadow-sm text-left">
-                        <div class="flex items-center gap-2 mb-3 pb-2.5 border-b border-amber-200 text-amber-950 font-black text-xs md:text-sm tracking-wide">
-                            <span class="text-xl">${badgeIcon}</span>
-                            <span>${badgeTitle}</span>
-                        </div>
-                        <div class="text-gray-900 text-sm md:text-base leading-relaxed whitespace-pre-line font-medium font-serif select-text">
-${cleanPassage}
-                        </div>
-                    </div>
-                `;
-                rawQ = qText;
+            let diagInner = q._passageHtml || '';
+            if (q._diagramHtml) {
+                diagInner += `<div class="diagram-display-wrapper mb-5 p-4 rounded-2xl bg-white border-2 border-indigo-100 shadow-sm flex items-center justify-center overflow-x-auto">${q._diagramHtml}</div>`;
             }
+            diagContainer.innerHTML = diagInner;
 
-            // Extract SVG, IMG, or Diagram DIV
-            let diagramHtml = '';
-            const svgMatch = rawQ.match(/(<svg[\s\S]*?<\/svg>)/i);
-            const imgMatch = rawQ.match(/(<img[\s\S]*?>)/i);
-            const divDiagMatch = rawQ.match(/(<div class="[^"]*diagram[^"]*"[\s\S]*?<\/div>)/i) || 
-                                 (rawQ.includes('<div') && rawQ.includes('</div>') ? rawQ.match(/(<div[\s\S]*?<\/div>)/i) : null);
+            // Render Question Text
+            const qElem = document.getElementById('question-text');
+            qElem.innerHTML = `<span class="text-blue-600 font-black mr-2">${currentQuestionIndex + 1}.</span>${q._displayQ}`;
 
-            if (svgMatch) {
-                diagramHtml = svgMatch[1];
-                rawQ = rawQ.replace(svgMatch[1], '').trim();
-            } else if (imgMatch) {
-                diagramHtml = imgMatch[1];
-                rawQ = rawQ.replace(imgMatch[1], '').trim();
-            } else if (divDiagMatch) {
-                diagramHtml = divDiagMatch[1];
-                rawQ = rawQ.replace(divDiagMatch[1], '').trim();
-            }
-
-            if (diagramHtml) {
-                const dWrapper = document.createElement('div');
-                dWrapper.className = "diagram-display-wrapper mb-5 p-4 rounded-2xl bg-white border-2 border-teal-100 shadow-sm flex items-center justify-center overflow-x-auto";
-                dWrapper.innerHTML = diagramHtml;
-                diagContainer.appendChild(dWrapper);
-            }
-
-            // Clean markdown asterisks if any
-            let displayQ = rawQ.replace(/\*\*/g, '').trim();
-            displayQ = displayQ.replace(/^(?:प्रश्न\s*\d+\.?|Question\s*\d+\.?)\s*/i, '');
-            document.getElementById('question-text').innerHTML = `<span class="text-teal-700 font-black mr-2">${currentQuestionIndex + 1}.</span>${displayQ}`;
-
+            // Render Options
             const optContainer = document.getElementById('options-container');
             optContainer.innerHTML = '';
 
             const isAnswered = userAnswers[currentQuestionIndex] !== null;
             const marathiNumbers = ['(१)', '(२)', '(३)', '(४)'];
 
-            q.options.forEach((opt, idx) => {
+            (q._cleanOptions || []).forEach((opt, idx) => {
                 const label = document.createElement('label');
-                label.className = `relative flex items-center p-4 rounded-2xl border-2 cursor-pointer option-label group ${isAnswered ? 'disabled' : 'border-gray-200 bg-white hover:border-teal-400'}`;
-                
-                let optBadge = marathiNumbers[idx] || `(${idx+1})`;
+                label.className = `relative flex items-center p-4 rounded-2xl border-2 cursor-pointer option-label group ${isAnswered ? 'disabled' : 'border-gray-200 bg-white hover:border-blue-400'}`;
+                const optBadge = marathiNumbers[idx] || `(${idx+1})`;
                 label.innerHTML = `
                     <div class="dot-container w-8 h-8 rounded-xl border-2 border-gray-300 flex items-center justify-center mr-4 bg-gray-50 text-xs font-black text-gray-700 shrink-0">
                         ${optBadge}
@@ -702,12 +944,24 @@ ${cleanPassage}
                 nextBtn.disabled = true;
                 nextBtn.innerHTML = currentQuestionIndex === quizData.length - 1 ? `पूर्ण करा <i class="fas fa-check ml-1"></i>` : `पुढील <i class="fas fa-arrow-right ml-1"></i>`;
             }
+
+            // High Performance: Only typeset MathJax when question contains math!
+            if (q._hasMath) {
+                renderMathJax([qElem, optContainer]);
+            }
         }
 
+        // INSTANT Option Selection & Non-blocking Auto-save
         function selectOption(idx) {
             if (userAnswers[currentQuestionIndex] !== null) return;
             userAnswers[currentQuestionIndex] = idx;
             nextBtn.disabled = false;
+
+            // Non-blocking auto-save to localStorage
+            try {
+                localStorage.setItem(`schol_progress_${paperKey}_${testNumber}`, JSON.stringify(userAnswers));
+            } catch(e) {}
+
             showFeedback();
         }
 
@@ -736,8 +990,12 @@ ${cleanPassage}
             });
 
             const expBox = document.getElementById('explanation-box');
-            document.getElementById('explanation-text').innerHTML = q.explanation || 'उत्तर योग्यरीत्या नोंदवले आहे.';
+            document.getElementById('explanation-text').innerHTML = q._explanation;
             expBox.classList.remove('hidden');
+
+            if (q._hasMath) {
+                renderMathJax(expBox);
+            }
 
             nextBtn.disabled = false;
             nextBtn.innerHTML = currentQuestionIndex === quizData.length - 1 ? `पूर्ण करा <i class="fas fa-check ml-1"></i>` : `पुढील <i class="fas fa-arrow-right ml-1"></i>`;
@@ -759,6 +1017,7 @@ ${cleanPassage}
             }
         }
 
+        // Result Screen with all 8 metrics
         function finishQuiz() {
             clearInterval(timerInterval);
             quizContainer.classList.add('hidden');
@@ -766,37 +1025,80 @@ ${cleanPassage}
             resultScreen.classList.remove('hidden');
 
             let correctCount = 0;
+            let wrongCount = 0;
+            let attemptedCount = 0;
+
             quizData.forEach((q, i) => {
-                if (userAnswers[i] === q.answer) correctCount++;
+                if (userAnswers[i] !== null) {
+                    attemptedCount++;
+                    if (userAnswers[i] === q.answer) {
+                        correctCount++;
+                    } else {
+                        wrongCount++;
+                    }
+                }
             });
 
-            const totalScore = correctCount * 2; // 2 marks each
-            const accuracy = Math.round((correctCount / quizData.length) * 100);
-            const timeSpentSeconds = (20 * 60) - timeLeft;
+            const totalQuestions = quizData.length;
+            const totalMarks = totalQuestions * 2;
+            const obtainedMarks = correctCount * 2;
+            const percentage = totalQuestions > 0 ? Math.round((obtainedMarks / totalMarks) * 100) : 0;
+            const timeSpentSeconds = totalTestTimeSeconds - timeLeft;
             const timeTakenMins = Math.max(1, Math.ceil(timeSpentSeconds / 60));
 
-            document.getElementById('final-score').textContent = totalScore;
-            document.getElementById('final-accuracy').textContent = accuracy;
-            document.getElementById('final-time').textContent = timeTakenMins;
-            
-            let rankText = "१";
-            if (accuracy >= 90) rankText = "१";
-            else if (accuracy >= 80) rankText = "५";
-            else if (accuracy >= 70) rankText = "१५";
-            else if (accuracy >= 50) rankText = "३५";
-            else rankText = "७५+";
-            document.getElementById('final-rank').textContent = rankText;
+            // Populate all metrics
+            const elTotal = document.getElementById('final-total-marks');
+            if (elTotal) elTotal.textContent = totalMarks;
+
+            const elObtained = document.getElementById('final-obtained-marks');
+            if (elObtained) elObtained.textContent = obtainedMarks;
+
+            const elCorrect = document.getElementById('final-correct');
+            if (elCorrect) elCorrect.textContent = correctCount;
+
+            const elWrong = document.getElementById('final-wrong');
+            if (elWrong) elWrong.textContent = wrongCount;
+
+            const elPct = document.getElementById('final-percentage');
+            if (elPct) elPct.textContent = percentage;
+
+            // Legacy IDs fallback if present
+            const oldScore = document.getElementById('final-score');
+            if (oldScore) oldScore.textContent = obtainedMarks;
+            const oldAcc = document.getElementById('final-accuracy');
+            if (oldAcc) oldAcc.textContent = percentage;
+            const elTime = document.getElementById('final-time');
+            if (elTime) elTime.textContent = timeTakenMins;
+
+            let rankText = "१ (Merit)";
+            if (percentage >= 90) rankText = "१ (Merit List)";
+            else if (percentage >= 80) rankText = "५ (Top 5)";
+            else if (percentage >= 70) rankText = "१२ (Distinction)";
+            else if (percentage >= 50) rankText = "३२ (Qualified)";
+            else rankText = "६०+ (Need Practice)";
+
+            const elRank = document.getElementById('final-rank');
+            if (elRank) elRank.textContent = rankText;
+
+            // Clear saved test progress
+            try {
+                localStorage.removeItem(`schol_progress_${paperKey}_${testNumber}`);
+            } catch(e) {}
 
             renderAnswerKeyReview();
         }
 
+        // High-Speed Instant Review with Precomputed Cache
         function renderAnswerKeyReview() {
             const container = document.getElementById('answer-key-container');
             if (!container) return;
             container.innerHTML = '';
 
             const marathiNumbers = ['(१)', '(२)', '(३)', '(४)'];
+            let hasAnyMath = false;
+
             quizData.forEach((q, idx) => {
+                if (q._hasMath) hasAnyMath = true;
                 const userAns = userAnswers[idx];
                 const isCorrect = userAns === q.answer;
 
@@ -807,7 +1109,7 @@ ${cleanPassage}
                     ? `<span class="bg-green-100 text-green-800 text-xs font-black px-3 py-1 rounded-full"><i class="fas fa-check mr-1"></i>बरोबर (+२ गुण)</span>`
                     : `<span class="bg-rose-100 text-rose-800 text-xs font-black px-3 py-1 rounded-full"><i class="fas fa-times mr-1"></i>चूक (० गुण)</span>`;
 
-                let optionsHtml = q.options.map((opt, oIdx) => {
+                let optionsHtml = (q._cleanOptions || []).map((opt, oIdx) => {
                     let optStyle = "border-gray-200 bg-white text-gray-700";
                     let icon = "";
                     if (oIdx === q.answer) {
@@ -824,33 +1126,43 @@ ${cleanPassage}
                     </div>`;
                 }).join('');
 
-                let cleanQ = q.question.replace(/\*\*/g, '').trim();
-                let cleanExp = (q.explanation || 'योग्य पर्याय दिलेला आहे.').replace(/\*\*/g, '').trim();
-
                 card.innerHTML = `
-                    <div class="flex items-center justify-between mb-2.5 pb-2 border-b border-gray-200">
-                        <span class="text-xs md:text-sm font-black text-gray-800">प्रश्न क्र. ${idx + 1}</span>
+                    <div class="flex items-center justify-between gap-2 mb-2 pb-2 border-b border-gray-200/60">
+                        <div class="flex items-center gap-2">
+                            <span class="w-7 h-7 rounded-lg bg-blue-600 text-white font-black text-xs flex items-center justify-center shrink-0">Q${idx + 1}</span>
+                            <span class="text-xs font-bold text-gray-500">${q.subject || ''} • ${q.tagText || 'प्रश्न'}</span>
+                        </div>
                         ${statusBadge}
                     </div>
-                    <p class="text-sm md:text-base font-extrabold text-gray-900 mb-3 whitespace-pre-line leading-relaxed">${cleanQ}</p>
-                    <div class="space-y-1 mb-3">${optionsHtml}</div>
-                    <div class="p-3 bg-amber-50 rounded-xl border border-amber-200 text-xs md:text-sm text-amber-950 leading-relaxed">
-                        <span class="font-bold text-amber-900"><i class="fas fa-lightbulb text-amber-600 mr-1"></i> सविस्तर स्पष्टीकरण:</span> ${cleanExp}
+                    ${q._passageHtml ? `<div class="mb-3">${q._passageHtml}</div>` : ''}
+                    ${q._diagramHtml ? `<div class="diagram-display-wrapper mb-3 p-3 rounded-xl bg-white border border-indigo-100 flex items-center justify-center">${q._diagramHtml}</div>` : ''}
+                    <p class="font-bold text-gray-900 text-sm md:text-base mb-3">${q._displayQ}</p>
+                    <div class="space-y-1 mb-3">
+                        ${optionsHtml}
+                    </div>
+                    <div class="p-3 bg-blue-50/80 rounded-xl border border-blue-200 text-xs md:text-sm text-blue-950">
+                        <span class="font-black text-blue-800"><i class="fas fa-lightbulb text-amber-500 mr-1"></i>स्पष्टीकरण:</span>
+                        <div class="mt-1 text-gray-800 font-medium whitespace-pre-line leading-relaxed">${q._explanation}</div>
                     </div>
                 `;
                 container.appendChild(card);
             });
+
+            if (hasAnyMath) {
+                renderMathJax(container);
+            }
         }
 
         function shareScore() {
             let correct = 0;
             quizData.forEach((q, i) => { if(userAnswers[i] === q.answer) correct++; });
+            const totalMarks = quizData.length * 2;
             const score = correct * 2;
-            const accuracy = Math.round((correct / quizData.length) * 100);
+            const accuracy = totalMarks > 0 ? Math.round((score / totalMarks) * 100) : 0;
             const text = `🎯 *इयत्ता सातवी शिष्यवृत्ती परीक्षा सराव निकाल!* 🎯\n` +
                          `📝 *${testTitle}*\n` +
-                         `✅ माझे गुण: ${score}/40 (${accuracy}% अचूकता)\n` +
-                         `⏱️ वेळ: ${Math.ceil(((20*60)-timeLeft)/60)} मिनिटे\n\n` +
+                         `✅ माझे गुण: ${score}/${totalMarks} (${accuracy}% अचूकता)\n` +
+                         `⏱️ वेळ: ${timeTakenMins} मिनिटे\n\n` +
                          `तुम्हीही ही सराव टेस्ट मोफत सोडवा आणि रँक तपासा:\n` +
                          `🔗 ${window.location.href}\n\n` +
                          `👥 *फक्त शिष्यवृत्ती अधिकृत WhatsApp ग्रुप जॉइन करा:* \n` +
@@ -860,6 +1172,7 @@ ${cleanPassage}
                          `👉 https://play.google.com/store/apps/details?id=com.ezgcka.oujtga&pcampaignid=web_share`;
             window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, '_blank');
         }
+    
     </script>
 </body>
 </html>
