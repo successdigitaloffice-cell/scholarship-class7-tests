@@ -1,0 +1,12 @@
+<svg width="180" height="135" viewBox="0 0 180 135" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="160" height="115" rx="8" fill="#f8fafc" stroke="#64748b" stroke-width="1.5"/>
+  <circle cx="65" cy="68" r="35" fill="rgba(37, 99, 235, 0.2)" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="115" cy="68" r="35" fill="rgba(16, 185, 129, 0.2)" stroke="#059669" stroke-width="2"/>
+  <text x="25" y="26" font-size="10" font-weight="bold" fill="#475569">एकूण = ५०</text>
+  <text x="60" y="26" font-size="10" font-weight="bold" fill="#1e40af">क्रिकेट (३०)</text>
+  <text x="120" y="26" font-size="10" font-weight="bold" fill="#065f46">फुटबॉल (२५)</text>
+  <text x="50" y="72" font-size="12" font-weight="bold" fill="#1e40af" text-anchor="middle">२०</text>
+  <text x="90" y="72" font-size="12" font-weight="bold" fill="#dc2626" text-anchor="middle">१०</text>
+  <text x="130" y="72" font-size="12" font-weight="bold" fill="#065f46" text-anchor="middle">१५</text>
+  <text x="155" y="115" font-size="10" font-weight="bold" fill="#64748b">५</text>
+</svg>

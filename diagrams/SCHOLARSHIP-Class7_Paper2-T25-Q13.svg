@@ -1,0 +1,8 @@
+<svg width="180" height="130" viewBox="0 0 180 130" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="90,15 20,115 160,115" fill="#f8fafc" stroke="#1e3a8a" stroke-width="2.5"/>
+  <polygon points="55,65 125,65 90,115" fill="#bfdbfe" stroke="#2563eb" stroke-width="2"/>
+  <text x="90" y="55" font-size="10" font-weight="bold" fill="#1e3a8a" text-anchor="middle">१</text>
+  <text x="50" y="95" font-size="10" font-weight="bold" fill="#1e3a8a" text-anchor="middle">२</text>
+  <text x="90" y="85" font-size="10" font-weight="bold" fill="#1e40af" text-anchor="middle">५</text>
+  <text x="130" y="95" font-size="10" font-weight="bold" fill="#1e3a8a" text-anchor="middle">३</text>
+</svg>

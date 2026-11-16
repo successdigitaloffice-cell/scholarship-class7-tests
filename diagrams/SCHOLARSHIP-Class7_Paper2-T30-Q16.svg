@@ -1,0 +1,8 @@
+<svg width="185" height="140" viewBox="0 0 185 140" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="75" cy="70" r="48" fill="rgba(244, 63, 94, 0.15)" stroke="#e11d48" stroke-width="2.2"/>
+  <circle cx="65" cy="75" r="24" fill="rgba(244, 63, 94, 0.3)" stroke="#be123c" stroke-width="2"/>
+  <circle cx="125" cy="70" r="36" fill="rgba(14, 165, 233, 0.25)" stroke="#0284c7" stroke-width="2"/>
+  <text x="75" y="32" font-size="10" font-weight="bold" fill="#be123c" text-anchor="middle">महिला</text>
+  <text x="65" y="80" font-size="9" font-weight="bold" fill="#9f1239" text-anchor="middle">माता</text>
+  <text x="145" y="74" font-size="10" font-weight="bold" fill="#0369a1" text-anchor="middle">डॉक्टर</text>
+</svg>

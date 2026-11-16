@@ -1,0 +1,8 @@
+<svg width="180" height="140" viewBox="0 0 180 140" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="90" cy="70" r="50" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/>
+  <circle cx="90" cy="70" r="3.5" fill="#dc2626"/>
+  <line x1="90" y1="70" x2="140" y2="70" stroke="#dc2626" stroke-width="2"/>
+  <text x="82" y="73" font-size="11" font-weight="bold" fill="#dc2626">O</text>
+  <text x="145" y="73" font-size="11" font-weight="bold" fill="#1d4ed8">A</text>
+  <text x="110" y="64" font-size="11" font-weight="bold" fill="#dc2626">७ सेमी</text>
+</svg>

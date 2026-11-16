@@ -711,7 +711,7 @@ ${cleanPassage}
 
                 // Math presence flag
                 const combinedText = q._displayQ + ' ' + q._cleanOptions.join(' ') + ' ' + q._explanation;
-                q._hasMath = /(\(|\\[|\\frac|\$|√|\^|_|π)/.test(combinedText);
+                q._hasMath = /(?:\\\(|\\\[|\\frac|\$|√|\^|_|π)/.test(combinedText);
             });
 
             // Pass 2: Group Passage & Poem Inheritance / Forward-Filler

@@ -1,0 +1,17 @@
+<svg width="220" height="90" viewBox="0 0 220 90" xmlns="http://www.w3.org/2000/svg">
+    <!-- Original Box -->
+    <rect x="15" y="15" width="80" height="60" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="6"/>
+    <text x="55" y="52" font-size="20" font-weight="900" text-anchor="middle" fill="#0f172a" font-family="monospace">W H I T E</text>
+    <text x="55" y="83" font-size="10" font-weight="bold" text-anchor="middle" fill="#64748b">मूळ रूप</text>
+
+    <!-- Mirror Line -->
+    <line x1="110" y1="10" x2="110" y2="80" stroke="#ef4444" stroke-width="3" stroke-dasharray="4,3"/>
+    <text x="110" y="8" font-size="9" font-weight="bold" text-anchor="middle" fill="#dc2626">आरसा</text>
+
+    <!-- Reflected Box (Flipped Horizontally) -->
+    <g transform="translate(165, 0) scale(-1, 1)">
+      <rect x="-40" y="15" width="80" height="60" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" rx="6"/>
+      <text x="0" y="52" font-size="20" font-weight="900" text-anchor="middle" fill="#1d4ed8" font-family="monospace">W H I T E</text>
+    </g>
+    <text x="165" y="83" font-size="10" font-weight="bold" text-anchor="middle" fill="#2563eb">आरशातील रूप</text>
+  </svg>

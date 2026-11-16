@@ -1,0 +1,15 @@
+<svg width="180" height="130" viewBox="0 0 180 130" xmlns="http://www.w3.org/2000/svg">
+    <!-- Original Shape / Text -->
+    <text x="90" y="45" font-size="28" font-weight="900" text-anchor="middle" fill="#0f172a" font-family="monospace">M O N K</text>
+    <text x="90" y="16" font-size="10" font-weight="bold" text-anchor="middle" fill="#64748b">मूळ वस्तू</text>
+
+    <!-- Water Surface Line -->
+    <line x1="15" y1="62" x2="165" y2="62" stroke="#0284c7" stroke-width="2.5" stroke-dasharray="6,2"/>
+    <text x="90" y="59" font-size="9" font-weight="bold" text-anchor="middle" fill="#0369a1">पाण्याची पातळी</text>
+
+    <!-- Water Reflection (Flipped Vertically) -->
+    <g transform="translate(0, 124) scale(1, -1)">
+      <text x="90" y="45" font-size="28" font-weight="900" text-anchor="middle" fill="#0284c7" opacity="0.65" font-family="monospace">M O N K</text>
+    </g>
+    <text x="90" y="125" font-size="10" font-weight="bold" text-anchor="middle" fill="#0284c7">जलप्रतिबिंब</text>
+  </svg>

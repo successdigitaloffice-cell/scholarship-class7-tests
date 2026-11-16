@@ -1,0 +1,12 @@
+<svg width="180" height="130" viewBox="0 0 180 130" xmlns="http://www.w3.org/2000/svg">
+  <line x1="20" y1="40" x2="160" y2="40" stroke="#1e3a8a" stroke-width="2.5"/>
+  <line x1="20" y1="85" x2="160" y2="85" stroke="#1e3a8a" stroke-width="2.5"/>
+  <line x1="50" y1="15" x2="130" y2="115" stroke="#dc2626" stroke-width="2"/>
+  <text x="165" y="44" font-size="11" font-weight="bold" fill="#1e3a8a">l</text>
+  <text x="165" y="89" font-size="11" font-weight="bold" fill="#1e3a8a">m</text>
+  <text x="134" y="120" font-size="11" font-weight="bold" fill="#dc2626">t</text>
+  <path d="M 80 40 A 12 12 0 0 0 74 30" fill="none" stroke="#2563eb" stroke-width="1.8"/>
+  <path d="M 112 85 A 12 12 0 0 0 106 75" fill="none" stroke="#2563eb" stroke-width="1.8"/>
+  <text x="83" y="32" font-size="10" font-weight="bold" fill="#2563eb">∠१</text>
+  <text x="115" y="77" font-size="10" font-weight="bold" fill="#2563eb">∠२</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="160" height="120" viewBox="0 0 160 120" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="80,20 20,105 140,105" fill="#eff6ff" stroke="#2563eb" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Vertices labels -->
+    <text x="80" y="14" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e3a8a">A (50°)</text>
+    <text x="12" y="115" font-size="12" font-weight="bold" fill="#1e3a8a">B (70°)</text>
+    <text x="145" y="115" font-size="12" font-weight="bold" fill="#1e3a8a">C (?°)</text>
+  </svg>

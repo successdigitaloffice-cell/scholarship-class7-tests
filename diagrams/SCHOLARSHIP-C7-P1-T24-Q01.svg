@@ -1,0 +1,9 @@
+<svg width="150" height="130" viewBox="0 0 150 130" xmlns="http://www.w3.org/2000/svg">
+    <!-- Front Face -->
+    <rect x="35" y="45" width="65" height="65" fill="#f0f9ff" stroke="#0284c7" stroke-width="2.5"/>
+    <!-- Top Face -->
+    <polygon points="35,45 65,20 130,20 100,45" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
+    <!-- Right Face -->
+    <polygon points="100,45 130,20 130,85 100,110" fill="#bae6fd" stroke="#0284c7" stroke-width="2.5"/>
+    <text x="67" y="82" font-size="12" font-weight="bold" text-anchor="middle" fill="#0369a1">5 cm</text>
+  </svg>
